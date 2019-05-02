@@ -57,9 +57,10 @@
     "extendNew": 10,
     "extendRev": 50,
     "media_files": [
-        "y7FEUD_1511738390412.jpg",
+        "2019-01-27 11.27.49.jpg",
         "2019-02-10 10.42.19.jpg",
-        "2019-01-27 11.27.49.jpg"
+        "grapes_small.jpg",
+        "y7FEUD_1511738390412.jpg"
     ],
     "mid": 1511738390412,
     "name": "Active::EN_GB - ES_ES British English a Español Castellano",
@@ -181,7 +182,7 @@
                     "did": null,
                     "name": "Production",
                     "ord": 0,
-                    "qfmt": "{{#include production}}<style>.card {display:none;}</style>\n<span class=\"language\" id=\"knownLanguage\"></span>\n<span id=\"known\" class=\"known\">{{known}}</span>\n<span id=\"learned\" class=\"hidden\">{{learned}}</span>\n\n        <div id=\"badges_table\">\n            <span id=\"requestedLanguagePrompt\" class=\"language only-front\"></span>\n            <div id=\"badge_indication_expression\"></div>\n            <div id=\"badge_indication_colloquial\"></div>\n            <div id=\"badge_indication_use_subjunctive\"></div>\n            <div id=\"badge_indication_2_pieces\"></div>\n            <div id=\"badge_indication_3_pieces\"></div>\n            <div id=\"badge_indication_4_pieces\" class=\"badge_indication_3_plus_pieces\"></div>\n            <div id=\"badge_indication_5_pieces\" class=\"badge_indication_3_plus_pieces\"></div>\n            <div id=\"badge_indication_2_genders\"></div>\n            <div id=\"badge_indication_singular_plural\"></div>\n            <div id=\"badge_indication_literary\"></div>\n            <div id=\"badge_indication_gerund\" class=\"badge_indication_gerund\"></div>\n            <div id=\"badge_clarification_gerund\" class=\"badge_indication_gerund\"></div>\n            <div id=\"badge_clarification_adjective\"></div>\n            <div id=\"badge_clarification_adverb\"></div>\n            <div id=\"badge_clarification_verb\"></div>\n            <div id=\"badge_clarification_number\"></div>\n            <div id=\"badge_clarification_formal\"></div>\n            <div id=\"badge_clarification_informal\"></div>\n            <div id=\"badge_clarification_expression\"></div>\n            <div id=\"badge_verified\"></div>\n        </div>\n\n<script type=\"text/javascript\">\nvar $jscomp=$jscomp||{};$jscomp.scope={};$jscomp.getGlobal=function(a){return\"undefined\"!=typeof window&&window===a?a:\"undefined\"!=typeof global&&null!=global?global:a};$jscomp.global=$jscomp.getGlobal(this);$jscomp.findInternal=function(a,b,c){a instanceof String&&(a=String(a));for(var d=a.length,e=0;e<d;e++){var f=a[e];if(b.call(c,f,e,a))return{i:e,v:f}}return{i:-1,v:void 0}};$jscomp.ASSUME_ES5=!1;$jscomp.ASSUME_NO_NATIVE_MAP=!1;$jscomp.ASSUME_NO_NATIVE_SET=!1;\n$jscomp.defineProperty=$jscomp.ASSUME_ES5||\"function\"==typeof Object.defineProperties?Object.defineProperty:function(a,b,c){a!=Array.prototype&&a!=Object.prototype&&(a[b]=c.value)};$jscomp.polyfill=function(a,b,c,d){if(b){c=$jscomp.global;a=a.split(\".\");for(d=0;d<a.length-1;d++){var e=a[d];e in c||(c[e]={});c=c[e]}a=a[a.length-1];d=c[a];b=b(d);b!=d&&null!=b&&$jscomp.defineProperty(c,a,{configurable:!0,writable:!0,value:b})}};\n$jscomp.polyfill(\"Array.prototype.find\",function(a){return a?a:function(a,c){return $jscomp.findInternal(this,a,c).v}},\"es6\",\"es3\");setUpErrorHandling();function start(a){document.body.onload=function(){processCard(a)};doPolyFills()}window.start=start;function showEntireCard(){getCardElement().style.display=\"block\"}\nvar _5_YEARS_IN_DAYS=1825,FRONT_WRAPPER_ID=\"frontOnBack\",LANGUAGE_INFO_PREFIX=\"language_\",KNOWN_LANGUAGE_SPAN_ID=\"knownLanguage\",LEARNED_LANGUAGE_SPAN_ID=\"learnedLanguage\",REQUESTED_LANGUAGE_PROMPT_SPAN_ID=\"requestedLanguagePrompt\",DISPLAY_BADGE_PROP=\"--display-badge\",CONTEXT_REGEXP=/(\\[.+\\])/g,CONTEXT_HTML_WRAPPER='<span id=\"generatedContext\" class=\"hidden\">$1</span><a href=\"#\" id=\"contextLink\" data-long-press-delay=\"650\" onclick=\"function whenclicked(event) {event.stopImmediatePropagation(); event.preventDefault(); return false}\">(\\ud83d\\udc41)</a><script language=\"JavaScript\">\\x3c/script>';\nfunction listen(){getElement(\"contextLink\").addEventListener(\"long-press\",showContext)}function showContext(a){a.preventDefault();toggleVisible(getElement(\"generatedContext\"),!0);toggleVisible(getElement(\"contextLink\"),!1)}\nvar DEFAULT_BADGE_VISIBLE_DISPLAY=\"inline\",DISPLAY_NONE=\"none\",BOOLEAN_TO_VISIBILITY_CLASS={true:\"block\",false:\"hidden\"},NUM_PIECES_TAG_SUFFIX=\"_pieces\",TAG_2_GENDERS=\"indication_2_genders\",TAG_SINGULAR_PLURAL=\"indication_singular_plural\",COOKIE_LONG_TERM_LANGUAGE_STATS=\"longTermLanguages\",COOKIE_DETECT_LANGUAGE_CHANGE=\"languageStats\";function processCard(a){compose(renderContext,recordCurrentLanguageCombination,showBadges,renderLanguagePrompts,themeCard,initCookies)(new Card(a))}\nfunction initCookies(a){a.isFrontSide&&(Cookies.get(COOKIE_DETECT_LANGUAGE_CHANGE)||Cookies.set(COOKIE_DETECT_LANGUAGE_CHANGE,{previousLanguageTag:\"\",languageCombinationJustChanged:!1},{expires:.5}),Cookies.get(COOKIE_LONG_TERM_LANGUAGE_STATS)||Cookies.set(COOKIE_LONG_TERM_LANGUAGE_STATS,{languageCombinations:\"\"},{expires:_5_YEARS_IN_DAYS}));return a}\nfunction showBadges(a){a.tags.forEach(function(b){b=new Tag(b);var c=getElement(\"badge_\"+b.nameWithoutModifiers);c&&getStyleProperty(c,DISPLAY_BADGE_PROP)!==DEFAULT_BADGE_VISIBLE_DISPLAY&&c.style.setProperty(DISPLAY_BADGE_PROP,b.isAboutBoth?DEFAULT_BADGE_VISIBLE_DISPLAY:a.isAKnownLearnedCard===b.shouldBeShownWithKnown?DEFAULT_BADGE_VISIBLE_DISPLAY:DISPLAY_NONE)});return a}\nfunction renderLanguagePrompts(a){(function(a){a.knownLanguage&&a.learnedLanguage&&(setInnerHTML(LEARNED_LANGUAGE_SPAN_ID,\"(\"+a.learnedLanguage+\")\"),setInnerHTML(REQUESTED_LANGUAGE_PROMPT_SPAN_ID,\"(\"+(a.isAKnownLearnedSide?a.learnedLanguage:a.knownLanguage)+\":)\"),setInnerHTML(KNOWN_LANGUAGE_SPAN_ID,\"(\"+a.knownLanguage+\")\"))})(a);(function(a){var b=!1,d=Cookies.getJSON(COOKIE_DETECT_LANGUAGE_CHANGE);d&&(b=(a=d.previousLanguageTag!==a)||d.languageCombinationJustChanged,d.languageCombinationJustChanged=\na,Cookies.set(COOKIE_DETECT_LANGUAGE_CHANGE,d,{expires:.5}));return b})(a.languageCombination)&&getElement(REQUESTED_LANGUAGE_PROMPT_SPAN_ID).style.setProperty(\"color\",\"var(--highlighted-language-prompt-color)\");return a}\nfunction recordCurrentLanguageCombination(a){var b=Cookies.getJSON(COOKIE_DETECT_LANGUAGE_CHANGE);b&&(b.previousLanguageTag=a.languageCombination,Cookies.set(COOKIE_DETECT_LANGUAGE_CHANGE,b,{expires:.5}));if(b=Cookies.getJSON(COOKIE_LONG_TERM_LANGUAGE_STATS))-1===b.languageCombinations.indexOf(a.languageCombination)&&(b.languageCombinations+=(b.languageCombinations?\",\":\"\")+a.languageCombination),Cookies.set(COOKIE_LONG_TERM_LANGUAGE_STATS,b,{expires:_5_YEARS_IN_DAYS});return a}\nfunction insertContextInString(a){return a.replace(CONTEXT_REGEXP,CONTEXT_HTML_WRAPPER)}function renderContext(a){-1!=a.given.search(CONTEXT_REGEXP)&&(setInnerHTML(a.givenID,insertContextInString(a.given)),listen());return a}\nfunction themeCard(a){Theme.getTheme(function(a){return-1>=a?0:a}(function(a){var b=Cookies.getJSON(COOKIE_LONG_TERM_LANGUAGE_STATS);return b?b.languageCombinations.split(\",\").indexOf(a):-1}(a.languageCombination)),document.body).apply();loadCSS(\"_lung_\"+a.languageCombination+\".css\");return a}\nfunction toggleVisible(a,b,c){void 0===b&&(b=\"none\"===a.style.display||a.classList.contains(BOOLEAN_TO_VISIBILITY_CLASS[!1]));void 0===c&&(c=BOOLEAN_TO_VISIBILITY_CLASS[b]);a.classList.remove(BOOLEAN_TO_VISIBILITY_CLASS[!b]);a.classList.add(c)}function addClass(a,b){a&&a.classList.add(b)}function getStyleProperty(a,b){return window.getComputedStyle(a).getPropertyValue(b)}function setInnerHTML(a,b){if(a=getElement(a))a.innerHTML=b}function getInnerText(a){return(a=getElement(a))?a.innerText:\"\"}\nfunction getCardElement(){return getFirstElementOfClass(\"card\")}function getElement(a){return document.getElementById(a)}function getElementsOf(a){return document.getElementsByTagName(a)}function getFirstElementOfClass(a){return document.getElementsByClassName(a).item(0)}var debugStatic=function(a){void 0===debugElement&&(debugElement=getElement(\"debugElement\"));debugElement.innerText=a},debugElement=void 0;function debug(a){appendText(a);appendNewLine()}\nfunction appendText(a){document.body.appendChild(document.createTextNode(a))}function appendNewLine(){document.body.appendChild(document.createElement(\"BR\"))}function loadCSS(a){var b=createStyleLinkElement();b.href=a;b.onload=requestAnimationFrame(showEntireCard);b.onerror=requestAnimationFrame(showEntireCard);getCardElement().appendChild(b)}function createStyleLinkElement(){var a=document.createElement(\"link\");a.type=\"text/css\";a.rel=\"stylesheet\";a.media=\"all\";return a}\nfunction setUpErrorHandling(){function a(a,c){return function(){c.apply(a,arguments);debug(Array.prototype.join.apply(arguments))}}console.warn=a(console,console.warn);console.exception=a(console,console.exception);window.onerror=function(a,c,d,e,f){debug(\"ERROR: \"+a+\" at line \"+d+\" in script \"+c);return!1}}function compose(a){for(var b=0;b<arguments.length;++b);var c=arguments;return function(a){for(var b=c.length-1;-1<b;b--)a=c[b].call(this,a);return a}}\nfunction doPolyFills(){Array.prototype.find||Object.defineProperty(Array.prototype,\"find\",{value:function(a,b){if(null==this)throw new TypeError('\"this\" is null or not defined');var c=Object(this),d=c.length>>>0;if(\"function\"!==typeof a)throw new TypeError(\"predicate must be a function\");for(var e=0;e<d;){var f=c[e];if(a.call(b,f,e,c))return f;e++}}});Array.prototype.intersect||Object.defineProperties(Array.prototype,{intersect:{writable:!1,value:function(a){if(!Array.isArray(a))throw new TypeError(\"argument must be an array\");\nreturn this.concat().filter(function(b){return-1!==a.indexOf(b)})}}});window.requestAnimFrame=function(){return window.requestAnimationFrame||window.webkitRequestAnimationFrame||window.mozRequestAnimationFrame||window.oRequestAnimationFrame||window.msRequestAnimationFrame||function(a){window.setTimeout(a,1E3/60)}}()};/*\n JavaScript Cookie v2.2.0\n https://github.com/js-cookie/js-cookie\n\n Copyright 2006, 2015 Klaus Hartl & Fagner Brack\n Released under the MIT license\n*/\n(function(a){var b=!1;\"function\"===typeof define&&define.amd&&(define(a),b=!0);\"object\"===typeof exports&&(b=!0);if(!b){var c=window.Cookies,d=window.Cookies=a();d.noConflict=function(){window.Cookies=c;return d}}})(function(){function a(a){for(var b=0,c={};b<arguments.length;b++){var f=arguments[b],g;for(g in f)c[g]=f[g]}return c}function b(c){function d(b,f,g){if(\"undefined\"!==typeof document){if(1<arguments.length){g=a({path:\"/\"},d.defaults,g);if(\"number\"===typeof g.expires){var e=new Date;e.setMilliseconds(e.getMilliseconds()+\n864E5*g.expires);g.expires=e}g.expires=g.expires?g.expires.toUTCString():\"\";try{var k=JSON.stringify(f);/^[\\{\\[]/.test(k)&&(f=k)}catch(n){}f=c.write?c.write(f,b):encodeURIComponent(String(f)).replace(/%(23|24|26|2B|3A|3C|3E|3D|2F|3F|40|5B|5D|5E|60|7B|7D|7C)/g,decodeURIComponent);b=encodeURIComponent(String(b));b=b.replace(/%(23|24|26|2B|5E|60|7C)/g,decodeURIComponent);b=b.replace(/[\\(\\)]/g,escape);k=\"\";for(var l in g)g[l]&&(k+=\"; \"+l,!0!==g[l]&&(k+=\"=\"+g[l]));return document.cookie=b+\"=\"+f+k}b||(k=\n{});l=document.cookie?document.cookie.split(\"; \"):[];for(var p=/(%[0-9A-Z]{2})+/g,m=0;m<l.length;m++){var q=l[m].split(\"=\"),h=q.slice(1).join(\"=\");this.json||'\"'!==h.charAt(0)||(h=h.slice(1,-1));try{e=q[0].replace(p,decodeURIComponent);h=c.read?c.read(h,e):c(h,e)||h.replace(p,decodeURIComponent);if(this.json)try{h=JSON.parse(h)}catch(n){}if(b===e){k=h;break}b||(k[e]=h)}catch(n){}}return k}}d.set=d;d.get=function(a){return d.call(d,a)};d.getJSON=function(){return d.apply({json:!0},[].slice.call(arguments))};\nd.defaults={};d.remove=function(b,c){d(b,\"\",a(c,{expires:-1}))};d.withConverter=b;return d}return b(function(){})});/*\n long-press-event.js\n Pure JavaScript long-press-event\n https://github.com/john-doherty/long-press-event\n @author John Doherty <www.johndoherty.info>\n @license MIT\n*/\n(function(a,b){function c(){this.dispatchEvent(new CustomEvent(\"long-press\",{bubbles:!0,cancelable:!0}));clearTimeout(d);console&&console.log&&console.log(\"long-press event fired on \"+this.outerHTML)}var d=null,e=\"ontouchstart\"in a||0<navigator.maxTouchPoints||0<navigator.msMaxTouchPoints,f=e?\"touchcancel\":\"mouseout\",g=e?\"touchend\":\"mouseup\",r=e?\"touchmove\":\"mousemove\";\"function\"!==typeof a.CustomEvent&&(a.CustomEvent=function(a,c){c=c||{bubbles:!1,cancelable:!1,detail:void 0};var d=b.createEvent(\"CustomEvent\");\nd.initCustomEvent(a,c.bubbles,c.cancelable,c.detail);return d},a.CustomEvent.prototype=a.Event.prototype);b.addEventListener(e?\"touchstart\":\"mousedown\",function(a){a=a.target;var b=parseInt(a.getAttribute(\"data-long-press-delay\")||\"1500\",10);d=setTimeout(c.bind(a),b)});b.addEventListener(g,function(){clearTimeout(d)});b.addEventListener(f,function(){clearTimeout(d)});b.addEventListener(r,function(){clearTimeout(d)});b.addEventListener(\"mousewheel\",function(){clearTimeout(d)});b.addEventListener(\"wheel\",\nfunction(){clearTimeout(d)});b.addEventListener(\"scroll\",function(){clearTimeout(d)})})(window,document);var ID_LEARNED=\"learned\",ID_KNOWN=\"known\",TAG_MOD_ABOUT_LEARNED=\"_learned\",TAG_MOD_ABOUT_KNOWN=\"_known\",CLARIFICATION_PREFIX=\"clarification\",INDICATION_PREFIX=\"indication\",NUM_PIECES_TAG_PREFIX=INDICATION_PREFIX+\"_\",THEMES=[\"--highlighted-language-prompt-color: #fa5c32;\\n     --main-theme-color: #ff4a4a;\\n     --secondary-theme-color: rgba(213, 95, 93, 0.5);\",\"--highlighted-language-prompt-color: #fa5c32;\\n     --main-theme-color: #62cb20;\\n     --secondary-theme-color: rgba(109, 213, 166, 0.5);\",\n\"--highlighted-language-prompt-color: #fa5c32;\\n     --main-theme-color: #4ebecb;\\n     --secondary-theme-color: rgba(94, 176, 237, 0.5);\",\"--highlighted-language-prompt-color: #fa5c32;\\n     --main-theme-color: #cb706d;\\n     --secondary-theme-color: rgba(237, 58, 17, 0.5);\"],Tag=function(a){this.name=a;this.nameWithoutLearnedAndKnownModifiers=\"\";this.isBadgeAboutKnown=this.isTagAboutLearned=!1;this.processName()};\nTag.prototype.processName=function(){var a=this.name,b=this.name.replace(new RegExp(TAG_MOD_ABOUT_LEARNED+\"$\"),\"\");this.isTagAboutLearned=b!==a;this.nameWithoutLearnedAndKnownModifiers=b.replace(new RegExp(TAG_MOD_ABOUT_KNOWN+\"$\"),\"\");this.isBadgeAboutKnown=this.nameWithoutLearnedAndKnownModifiers!==b};\n$jscomp.global.Object.defineProperties(Tag.prototype,{nameWithoutModifiers:{configurable:!0,enumerable:!0,get:function(){return this.nameWithoutLearnedAndKnownModifiers}},isClarification:{configurable:!0,enumerable:!0,get:function(){return 0===this.nameWithoutModifiers.indexOf(CLARIFICATION_PREFIX)}},isIndication:{configurable:!0,enumerable:!0,get:function(){return 0===this.nameWithoutModifiers.indexOf(INDICATION_PREFIX)}},isAboutLearned:{configurable:!0,enumerable:!0,get:function(){return this.isTagAboutLearned}},\nisAboutKnown:{configurable:!0,enumerable:!0,get:function(){return this.isBadgeAboutKnown}},isAboutBoth:{configurable:!0,enumerable:!0,get:function(){return this.isAboutLearned===this.isAboutKnown}},shouldBeShownWithKnown:{configurable:!0,enumerable:!0,get:function(){return this.isAboutBoth||this.isIndication&&this.isAboutLearned||this.isClarification&&this.isAboutKnown}}});\nvar Card=function(a){this.isAKnownLearnedSide=getElement(ID_LEARNED).classList.contains(\"hidden\");this.isFront=null===getElement(FRONT_WRAPPER_ID);this._cardData=a;this._languageCombination=this._learnedLanguage=this._knownLanguage=\"\";this.tags=this._originalTags=null;this.processData()};Card.toTagsArray=function(a){return(a?a:\"\").split(\" \").filter(function(a){return 0<a.length})};\nCard.prototype.processData=function(){this._originalTags=Card.toTagsArray(this._cardData.tags);this.tags=this.addComputedTags(this._originalTags,this._cardData);var a=function(a){a=a?a.substr(LANGUAGE_INFO_PREFIX.length):\"\";var b=a.indexOf(\"-\"),d={};d.knownLanguage=a.substring(0,b);d.learnedLanguage=a.substring(b+1);return d}(function(a){return a.find(function(a){return 0===a.indexOf(LANGUAGE_INFO_PREFIX)})}(this.tags));this._knownLanguage=a.knownLanguage;this._learnedLanguage=a.learnedLanguage;this._languageCombination=\nthis._knownLanguage+\"-\"+this._learnedLanguage};\nCard.prototype.addComputedTags=function(a,b){return a.concat(function(a){function c(a,c){function d(b){return b.indexOf(a)===b.length-a.length||-1===b.indexOf(a===TAG_MOD_ABOUT_KNOWN?TAG_MOD_ABOUT_LEARNED:TAG_MOD_ABOUT_KNOWN)}function e(a){return-1!==a.indexOf(\"_piece\")}var f=(a===TAG_MOD_ABOUT_KNOWN?b.known:b.learned).replace(/<br\\s*\\/?>/ig,\"\\n\").split(/[\\n,]/).filter(function(a){return 0<a.length}).length,l=0<c.intersect([TAG_2_GENDERS].concat(a.length?[TAG_2_GENDERS+a]:[])).length?2:1;l*=0<c.intersect([TAG_SINGULAR_PLURAL].concat(a.length?\n[TAG_SINGULAR_PLURAL+a]:[])).length?2:1;return function(b,c,d){return!c&&f>d?(b=f,5<b&&(b=\"5_plus\"),NUM_PIECES_TAG_PREFIX+b+NUM_PIECES_TAG_SUFFIX+a):\"\"}(f,function(a){a=a.filter(e).filter(d);a.length?(a=a[0].substr(NUM_PIECES_TAG_PREFIX.length),a=a.substr(0,a.indexOf(\"_\"))):a=0;return a}(c),l)}return[c(TAG_MOD_ABOUT_KNOWN,a),c(TAG_MOD_ABOUT_LEARNED,a)].filter(function(a){return a.length})}(a))};\n$jscomp.global.Object.defineProperties(Card.prototype,{isAKnownLearnedCard:{configurable:!0,enumerable:!0,get:function(){return this.isAKnownLearnedSide}},isFrontSide:{configurable:!0,enumerable:!0,get:function(){return this.isFront}},knownLanguage:{configurable:!0,enumerable:!0,get:function(){return this._knownLanguage}},learnedLanguage:{configurable:!0,enumerable:!0,get:function(){return this._learnedLanguage}},languageCombination:{configurable:!0,enumerable:!0,get:function(){return this._languageCombination}},\noriginalTags:{configurable:!0,enumerable:!0,get:function(){return this._originalTags}},known:{configurable:!0,enumerable:!0,get:function(){return this._cardData.known}},learned:{configurable:!0,enumerable:!0,get:function(){return this._cardData.learned}},given:{configurable:!0,enumerable:!0,get:function(){return this.isAKnownLearnedCard?this.known:this.learned}},givenID:{configurable:!0,enumerable:!0,get:function(){return this.isAKnownLearnedCard?ID_KNOWN:ID_LEARNED}}});\nvar CardData=function(a,b,c){this.known=a;this.learned=b;this.tags=c};window.CardData=CardData;var Theme=function(a,b){this._bodyElement=a;this._cssString=b};Theme.prototype.apply=function(){this._bodyElement.style.cssText=this._cssString};Theme.getTheme=function(a,b){return new Theme(b,THEMES[a])};$jscomp.global.Object.defineProperties(Theme.prototype,{css:{configurable:!0,enumerable:!0,get:function(){return this._cssString}}});\n</script>\n<script type=\"text/javascript\">\nstart({known:`{{known}}`, learned:`{{learned}}`, contextForKnown:``, contextForLearned:``, example:`{{example}}`, usageNote:`{{usage note}}`, mnemonic:`{{mnemonic}}`, tags:`{{Tags}}`});\n</script>{{/include production}}"
+                    "qfmt": "{{#include production}}<style>.card {display:none;}</style>\n<span class=\"language\" id=\"knownLanguage\"></span>\n<span id=\"known\" class=\"known\">{{known}}</span>\n<span id=\"learned\" class=\"hidden\">{{learned}}</span>\n\n        <div id=\"badges_table\">\n            <span id=\"requestedLanguagePrompt\" class=\"language only-front\"></span>\n            <div id=\"badge_indication_expression\"></div>\n            <div id=\"badge_indication_colloquial\"></div>\n            <div id=\"badge_indication_use_subjunctive\"></div>\n            <div id=\"badge_indication_2_pieces\"></div>\n            <div id=\"badge_indication_3_pieces\"></div>\n            <div id=\"badge_indication_4_pieces\" class=\"badge_indication_3_plus_pieces\"></div>\n            <div id=\"badge_indication_5_pieces\" class=\"badge_indication_3_plus_pieces\"></div>\n            <div id=\"badge_indication_2_genders\"></div>\n            <div id=\"badge_indication_singular_plural\"></div>\n            <div id=\"badge_indication_literary\"></div>\n            <div id=\"badge_indication_gerund\" class=\"badge_indication_gerund\"></div>\n            <div id=\"badge_clarification_gerund\" class=\"badge_indication_gerund\"></div>\n            <div id=\"badge_clarification_adjective\"></div>\n            <div id=\"badge_clarification_adverb\"></div>\n            <div id=\"badge_clarification_verb\"></div>\n            <div id=\"badge_clarification_number\"></div>\n            <div id=\"badge_clarification_formal\"></div>\n            <div id=\"badge_clarification_informal\"></div>\n            <div id=\"badge_clarification_expression\"></div>\n            <div id=\"badge_verified\"></div>\n        </div>\n\n<script type=\"text/javascript\">\nvar $jscomp=$jscomp||{};$jscomp.scope={};$jscomp.getGlobal=function(a){return\"undefined\"!=typeof window&&window===a?a:\"undefined\"!=typeof global&&null!=global?global:a};$jscomp.global=$jscomp.getGlobal(this);$jscomp.findInternal=function(a,b,c){a instanceof String&&(a=String(a));for(var d=a.length,e=0;e<d;e++){var f=a[e];if(b.call(c,f,e,a))return{i:e,v:f}}return{i:-1,v:void 0}};$jscomp.ASSUME_ES5=!1;$jscomp.ASSUME_NO_NATIVE_MAP=!1;$jscomp.ASSUME_NO_NATIVE_SET=!1;\n$jscomp.defineProperty=$jscomp.ASSUME_ES5||\"function\"==typeof Object.defineProperties?Object.defineProperty:function(a,b,c){a!=Array.prototype&&a!=Object.prototype&&(a[b]=c.value)};$jscomp.polyfill=function(a,b,c,d){if(b){c=$jscomp.global;a=a.split(\".\");for(d=0;d<a.length-1;d++){var e=a[d];e in c||(c[e]={});c=c[e]}a=a[a.length-1];d=c[a];b=b(d);b!=d&&null!=b&&$jscomp.defineProperty(c,a,{configurable:!0,writable:!0,value:b})}};\n$jscomp.polyfill(\"Array.prototype.find\",function(a){return a?a:function(a,c){return $jscomp.findInternal(this,a,c).v}},\"es6\",\"es3\");setUpErrorHandling();function start(a){document.body.onload=function(){processCard(a)};doPolyFills()}window.start=start;function showEntireCard(){getCardElement().style.display=\"block\"}\nvar _5_YEARS_IN_DAYS=1825,FRONT_WRAPPER_ID=\"frontOnBack\",LANGUAGE_INFO_PREFIX=\"language_\",KNOWN_LANGUAGE_SPAN_ID=\"knownLanguage\",LEARNED_LANGUAGE_SPAN_ID=\"learnedLanguage\",REQUESTED_LANGUAGE_PROMPT_SPAN_ID=\"requestedLanguagePrompt\",DISPLAY_BADGE_PROP=\"--display-badge\",CONTEXT_HTML_WRAPPER='<span id=\"generatedContext\" class=\"hidden\">$1</span><a href=\"#\" id=\"contextLink\" data-long-press-delay=\"650\" onclick=\"function whenclicked(event) {event.stopImmediatePropagation(); event.preventDefault(); return false}\">(\\ud83d\\udc41)</a><script language=\"JavaScript\">\\x3c/script>';\nfunction listen(){getElement(\"contextLink\").addEventListener(\"long-press\",showContext)}function showContext(a){a.preventDefault();toggleVisible(getElement(\"generatedContext\"),!0);toggleVisible(getElement(\"contextLink\"),!1)}\nvar DEFAULT_BADGE_VISIBLE_DISPLAY=\"inline\",DISPLAY_NONE=\"none\",BOOLEAN_TO_VISIBILITY_CLASS={true:\"block\",false:\"hidden\"},NUM_PIECES_TAG_SUFFIX=\"_pieces\",TAG_2_GENDERS=\"indication_2_genders\",TAG_SINGULAR_PLURAL=\"indication_singular_plural\",COOKIE_LONG_TERM_LANGUAGE_STATS=\"longTermLanguages\",COOKIE_DETECT_LANGUAGE_CHANGE=\"languageStats\";function processCard(a){compose(renderContext,recordCurrentLanguageCombination,showBadges,renderLanguagePrompts,themeCard,initCookies)(new Card(a))}\nfunction initCookies(a){a.isFrontSide&&(Cookies.get(COOKIE_DETECT_LANGUAGE_CHANGE)||Cookies.set(COOKIE_DETECT_LANGUAGE_CHANGE,{previousLanguageTag:\"\",languageCombinationJustChanged:!1},{expires:.5}),Cookies.get(COOKIE_LONG_TERM_LANGUAGE_STATS)||Cookies.set(COOKIE_LONG_TERM_LANGUAGE_STATS,{languageCombinations:\"\"},{expires:_5_YEARS_IN_DAYS}));return a}\nfunction showBadges(a){a.tags.forEach(function(b){b=new Tag(b);var c=getElement(\"badge_\"+b.nameWithoutModifiers);c&&getStyleProperty(c,DISPLAY_BADGE_PROP)!==DEFAULT_BADGE_VISIBLE_DISPLAY&&c.style.setProperty(DISPLAY_BADGE_PROP,b.isAboutBoth?DEFAULT_BADGE_VISIBLE_DISPLAY:a.isAKnownLearnedCard===b.shouldBeShownWithKnown?DEFAULT_BADGE_VISIBLE_DISPLAY:DISPLAY_NONE)});return a}\nfunction renderLanguagePrompts(a){(function(a){a.knownLanguage&&a.learnedLanguage&&(setInnerHTML(LEARNED_LANGUAGE_SPAN_ID,\"(\"+a.learnedLanguage+\")\"),setInnerHTML(REQUESTED_LANGUAGE_PROMPT_SPAN_ID,\"(\"+(a.isAKnownLearnedSide?a.learnedLanguage:a.knownLanguage)+\":)\"),setInnerHTML(KNOWN_LANGUAGE_SPAN_ID,\"(\"+a.knownLanguage+\")\"))})(a);(function(a){var b=!1,d=Cookies.getJSON(COOKIE_DETECT_LANGUAGE_CHANGE);d&&(b=(a=d.previousLanguageTag!==a)||d.languageCombinationJustChanged,d.languageCombinationJustChanged=\na,Cookies.set(COOKIE_DETECT_LANGUAGE_CHANGE,d,{expires:.5}));return b})(a.languageCombination)&&getElement(REQUESTED_LANGUAGE_PROMPT_SPAN_ID).style.setProperty(\"color\",\"var(--highlighted-language-prompt-color)\");return a}\nfunction recordCurrentLanguageCombination(a){var b=Cookies.getJSON(COOKIE_DETECT_LANGUAGE_CHANGE);b&&(b.previousLanguageTag=a.languageCombination,Cookies.set(COOKIE_DETECT_LANGUAGE_CHANGE,b,{expires:.5}));if(b=Cookies.getJSON(COOKIE_LONG_TERM_LANGUAGE_STATS))-1===b.languageCombinations.indexOf(a.languageCombination)&&(b.languageCombinations+=(b.languageCombinations?\",\":\"\")+a.languageCombination),Cookies.set(COOKIE_LONG_TERM_LANGUAGE_STATS,b,{expires:_5_YEARS_IN_DAYS});return a}\nfunction insertContextInString(a){return a.replace(CONTEXT_REGEXP,CONTEXT_HTML_WRAPPER)}function renderContext(a){-1!=a.given.search(CONTEXT_REGEXP)&&(setInnerHTML(a.givenID,insertContextInString(a.given)),listen());return a}\nfunction themeCard(a){Theme.getTheme(function(a){return-1>=a?0:a}(function(a){var b=Cookies.getJSON(COOKIE_LONG_TERM_LANGUAGE_STATS);return b?b.languageCombinations.split(\",\").indexOf(a):-1}(a.languageCombination)),document.body).apply();loadCSS(\"_lung_\"+a.languageCombination+\".css\");return a}\nfunction toggleVisible(a,b,c){void 0===b&&(b=\"none\"===a.style.display||a.classList.contains(BOOLEAN_TO_VISIBILITY_CLASS[!1]));void 0===c&&(c=BOOLEAN_TO_VISIBILITY_CLASS[b]);a.classList.remove(BOOLEAN_TO_VISIBILITY_CLASS[!b]);a.classList.add(c)}function addClass(a,b){a&&a.classList.add(b)}function getStyleProperty(a,b){return window.getComputedStyle(a).getPropertyValue(b)}function setInnerHTML(a,b){if(a=getElement(a))a.innerHTML=b}function getInnerText(a){return(a=getElement(a))?a.innerText:\"\"}\nfunction getCardElement(){return getFirstElementOfClass(\"card\")}function getElement(a){return document.getElementById(a)}function getElementsOf(a){return document.getElementsByTagName(a)}function getFirstElementOfClass(a){return document.getElementsByClassName(a).item(0)}var debugStatic=function(a){void 0===debugElement&&(debugElement=getElement(\"debugElement\"));debugElement.innerText=a},debugElement=void 0;function debug(a){appendText(a);appendNewLine()}\nfunction appendText(a){document.body.appendChild(document.createTextNode(a))}function appendNewLine(){document.body.appendChild(document.createElement(\"BR\"))}function loadCSS(a){var b=createStyleLinkElement();b.href=a;b.onload=requestAnimationFrame(showEntireCard);b.onerror=requestAnimationFrame(showEntireCard);getCardElement().appendChild(b)}function createStyleLinkElement(){var a=document.createElement(\"link\");a.type=\"text/css\";a.rel=\"stylesheet\";a.media=\"all\";return a}\nfunction setUpErrorHandling(){function a(a,c){return function(){c.apply(a,arguments);debug(Array.prototype.join.apply(arguments))}}console.warn=a(console,console.warn);console.exception=a(console,console.exception);window.onerror=function(a,c,d,e,f){debug(\"ERROR: \"+a+\" at line \"+d+\" in script \"+c);return!1}}function compose(a){for(var b=0;b<arguments.length;++b);var c=arguments;return function(a){for(var b=c.length-1;-1<b;b--)a=c[b].call(this,a);return a}}\nfunction doPolyFills(){Array.prototype.find||Object.defineProperty(Array.prototype,\"find\",{value:function(a,b){if(null==this)throw new TypeError('\"this\" is null or not defined');var c=Object(this),d=c.length>>>0;if(\"function\"!==typeof a)throw new TypeError(\"predicate must be a function\");for(var e=0;e<d;){var f=c[e];if(a.call(b,f,e,c))return f;e++}}});Array.prototype.intersect||Object.defineProperties(Array.prototype,{intersect:{writable:!1,value:function(a){if(!Array.isArray(a))throw new TypeError(\"argument must be an array\");\nreturn this.concat().filter(function(b){return-1!==a.indexOf(b)})}}});window.requestAnimFrame=function(){return window.requestAnimationFrame||window.webkitRequestAnimationFrame||window.mozRequestAnimationFrame||window.oRequestAnimationFrame||window.msRequestAnimationFrame||function(a){window.setTimeout(a,1E3/60)}}()};/*\n JavaScript Cookie v2.2.0\n https://github.com/js-cookie/js-cookie\n\n Copyright 2006, 2015 Klaus Hartl & Fagner Brack\n Released under the MIT license\n*/\n(function(a){var b=!1;\"function\"===typeof define&&define.amd&&(define(a),b=!0);\"object\"===typeof exports&&(b=!0);if(!b){var c=window.Cookies,d=window.Cookies=a();d.noConflict=function(){window.Cookies=c;return d}}})(function(){function a(a){for(var b=0,c={};b<arguments.length;b++){var f=arguments[b],g;for(g in f)c[g]=f[g]}return c}function b(c){function d(b,f,g){if(\"undefined\"!==typeof document){if(1<arguments.length){g=a({path:\"/\"},d.defaults,g);if(\"number\"===typeof g.expires){var e=new Date;e.setMilliseconds(e.getMilliseconds()+\n864E5*g.expires);g.expires=e}g.expires=g.expires?g.expires.toUTCString():\"\";try{var k=JSON.stringify(f);/^[\\{\\[]/.test(k)&&(f=k)}catch(n){}f=c.write?c.write(f,b):encodeURIComponent(String(f)).replace(/%(23|24|26|2B|3A|3C|3E|3D|2F|3F|40|5B|5D|5E|60|7B|7D|7C)/g,decodeURIComponent);b=encodeURIComponent(String(b));b=b.replace(/%(23|24|26|2B|5E|60|7C)/g,decodeURIComponent);b=b.replace(/[\\(\\)]/g,escape);k=\"\";for(var l in g)g[l]&&(k+=\"; \"+l,!0!==g[l]&&(k+=\"=\"+g[l]));return document.cookie=b+\"=\"+f+k}b||(k=\n{});l=document.cookie?document.cookie.split(\"; \"):[];for(var p=/(%[0-9A-Z]{2})+/g,m=0;m<l.length;m++){var q=l[m].split(\"=\"),h=q.slice(1).join(\"=\");this.json||'\"'!==h.charAt(0)||(h=h.slice(1,-1));try{e=q[0].replace(p,decodeURIComponent);h=c.read?c.read(h,e):c(h,e)||h.replace(p,decodeURIComponent);if(this.json)try{h=JSON.parse(h)}catch(n){}if(b===e){k=h;break}b||(k[e]=h)}catch(n){}}return k}}d.set=d;d.get=function(a){return d.call(d,a)};d.getJSON=function(){return d.apply({json:!0},[].slice.call(arguments))};\nd.defaults={};d.remove=function(b,c){d(b,\"\",a(c,{expires:-1}))};d.withConverter=b;return d}return b(function(){})});/*\n long-press-event.js\n Pure JavaScript long-press-event\n https://github.com/john-doherty/long-press-event\n @author John Doherty <www.johndoherty.info>\n @license MIT\n*/\n(function(a,b){function c(){this.dispatchEvent(new CustomEvent(\"long-press\",{bubbles:!0,cancelable:!0}));clearTimeout(d);console&&console.log&&console.log(\"long-press event fired on \"+this.outerHTML)}var d=null,e=\"ontouchstart\"in a||0<navigator.maxTouchPoints||0<navigator.msMaxTouchPoints,f=e?\"touchcancel\":\"mouseout\",g=e?\"touchend\":\"mouseup\",r=e?\"touchmove\":\"mousemove\";\"function\"!==typeof a.CustomEvent&&(a.CustomEvent=function(a,c){c=c||{bubbles:!1,cancelable:!1,detail:void 0};var d=b.createEvent(\"CustomEvent\");\nd.initCustomEvent(a,c.bubbles,c.cancelable,c.detail);return d},a.CustomEvent.prototype=a.Event.prototype);b.addEventListener(e?\"touchstart\":\"mousedown\",function(a){a=a.target;var b=parseInt(a.getAttribute(\"data-long-press-delay\")||\"1500\",10);d=setTimeout(c.bind(a),b)});b.addEventListener(g,function(){clearTimeout(d)});b.addEventListener(f,function(){clearTimeout(d)});b.addEventListener(r,function(){clearTimeout(d)});b.addEventListener(\"mousewheel\",function(){clearTimeout(d)});b.addEventListener(\"wheel\",\nfunction(){clearTimeout(d)});b.addEventListener(\"scroll\",function(){clearTimeout(d)})})(window,document);var CONTEXT_REGEXP=/(\\[.+\\])/g,ID_LEARNED=\"learned\",ID_KNOWN=\"known\",TAG_MOD_ABOUT_LEARNED=\"_learned\",TAG_MOD_ABOUT_KNOWN=\"_known\",CLARIFICATION_PREFIX=\"clarification\",INDICATION_PREFIX=\"indication\",NUM_PIECES_TAG_PREFIX=INDICATION_PREFIX+\"_\",THEMES=\"--highlighted-language-prompt-color: #fa5c32;\\n     --main-theme-color: #ff4a4a;\\n     --secondary-theme-color: rgba(213, 95, 93, 0.5);{--highlighted-language-prompt-color: #fa5c32;\\n     --main-theme-color: #62cb20;\\n     --secondary-theme-color: rgba(109, 213, 166, 0.5);{--highlighted-language-prompt-color: #fa5c32;\\n     --main-theme-color: #4ebecb;\\n     --secondary-theme-color: rgba(94, 176, 237, 0.5);{--highlighted-language-prompt-color: #fa5c32;\\n     --main-theme-color: #cb706d;\\n     --secondary-theme-color: rgba(237, 58, 17, 0.5);{--highlighted-language-prompt-color: #fa5c32;\\n    --main-theme-color: #b51f03;\\n    --secondary-theme-color: rgba(237, 0, 74, 0.5);{--highlighted-language-prompt-color: #fa5c32;\\n    --main-theme-color: #5dfae3;\\n    --secondary-theme-color: rgba(206, 207, 39, 0.5);{--highlighted-language-prompt-color: #fa5c32;\\n    --main-theme-color: #fae869;\\n    --secondary-theme-color: rgba(85, 207, 199, 0.8);{--highlighted-language-prompt-color: #fa5c32;\\n    --main-theme-color: #fa6eea;\\n    --secondary-theme-color: rgba(103, 91, 207, 0.79)\".split(\"{\"),\nTag=function(a){this.name=a;this.nameWithoutLearnedAndKnownModifiers=\"\";this.isBadgeAboutKnown=this.isTagAboutLearned=!1;this.processName()};Tag.prototype.processName=function(){var a=this.name,b=this.name.replace(new RegExp(TAG_MOD_ABOUT_LEARNED+\"$\"),\"\");this.isTagAboutLearned=b!==a;this.nameWithoutLearnedAndKnownModifiers=b.replace(new RegExp(TAG_MOD_ABOUT_KNOWN+\"$\"),\"\");this.isBadgeAboutKnown=this.nameWithoutLearnedAndKnownModifiers!==b};\n$jscomp.global.Object.defineProperties(Tag.prototype,{nameWithoutModifiers:{configurable:!0,enumerable:!0,get:function(){return this.nameWithoutLearnedAndKnownModifiers}},isClarification:{configurable:!0,enumerable:!0,get:function(){return 0===this.nameWithoutModifiers.indexOf(CLARIFICATION_PREFIX)}},isIndication:{configurable:!0,enumerable:!0,get:function(){return 0===this.nameWithoutModifiers.indexOf(INDICATION_PREFIX)}},isAboutLearned:{configurable:!0,enumerable:!0,get:function(){return this.isTagAboutLearned}},\nisAboutKnown:{configurable:!0,enumerable:!0,get:function(){return this.isBadgeAboutKnown}},isAboutBoth:{configurable:!0,enumerable:!0,get:function(){return this.isAboutLearned===this.isAboutKnown}},shouldBeShownWithKnown:{configurable:!0,enumerable:!0,get:function(){return this.isAboutBoth||this.isIndication&&this.isAboutLearned||this.isClarification&&this.isAboutKnown}}});\nvar Card=function(a){this.isAKnownLearnedSide=getElement(ID_LEARNED).classList.contains(\"hidden\");this.isFront=null===getElement(FRONT_WRAPPER_ID);this._cardData=a;this._languageCombination=this._learnedLanguage=this._knownLanguage=\"\";this.tags=this._originalTags=null;this.processData()};Card.toTagsArray=function(a){return(a?a:\"\").split(\" \").filter(function(a){return 0<a.length})};\nCard.prototype.processData=function(){this._originalTags=Card.toTagsArray(this._cardData.tags);this.tags=this.addComputedTags(this._originalTags,this._cardData);var a=function(a){a=a?a.substr(LANGUAGE_INFO_PREFIX.length):\"\";var b=a.indexOf(\"-\"),d={};d.knownLanguage=a.substring(0,b);d.learnedLanguage=a.substring(b+1);return d}(function(a){return a.find(function(a){return 0===a.indexOf(LANGUAGE_INFO_PREFIX)})}(this.tags));this._knownLanguage=a.knownLanguage;this._learnedLanguage=a.learnedLanguage;this._languageCombination=\nthis._knownLanguage+\"-\"+this._learnedLanguage};\nCard.prototype.addComputedTags=function(a,b){return a.concat(function(a){function c(a,c){function d(b){return b.indexOf(a)===b.length-a.length||-1===b.indexOf(a===TAG_MOD_ABOUT_KNOWN?TAG_MOD_ABOUT_LEARNED:TAG_MOD_ABOUT_KNOWN)}function e(a){return-1!==a.indexOf(\"_piece\")}var f=(a===TAG_MOD_ABOUT_KNOWN?b.knownWithoutContext:b.learnedWithoutContext).replace(/<br\\s*\\/?>/ig,\"\\n\").split(/[\\n,]/).filter(function(a){return 0<a.length}).length,l=0<c.intersect([TAG_2_GENDERS].concat(a.length?[TAG_2_GENDERS+\na]:[])).length?2:1;l*=0<c.intersect([TAG_SINGULAR_PLURAL].concat(a.length?[TAG_SINGULAR_PLURAL+a]:[])).length?2:1;return function(b,c,d){return!c&&f>d?(b=f,5<b&&(b=\"5_plus\"),NUM_PIECES_TAG_PREFIX+b+NUM_PIECES_TAG_SUFFIX+a):\"\"}(f,function(a){a=a.filter(e).filter(d);a.length?(a=a[0].substr(NUM_PIECES_TAG_PREFIX.length),a=a.substr(0,a.indexOf(\"_\"))):a=0;return a}(c),l)}return[c(TAG_MOD_ABOUT_KNOWN,a),c(TAG_MOD_ABOUT_LEARNED,a)].filter(function(a){return a.length})}(a))};\n$jscomp.global.Object.defineProperties(Card.prototype,{isAKnownLearnedCard:{configurable:!0,enumerable:!0,get:function(){return this.isAKnownLearnedSide}},isFrontSide:{configurable:!0,enumerable:!0,get:function(){return this.isFront}},knownLanguage:{configurable:!0,enumerable:!0,get:function(){return this._knownLanguage}},learnedLanguage:{configurable:!0,enumerable:!0,get:function(){return this._learnedLanguage}},languageCombination:{configurable:!0,enumerable:!0,get:function(){return this._languageCombination}},\noriginalTags:{configurable:!0,enumerable:!0,get:function(){return this._originalTags}},known:{configurable:!0,enumerable:!0,get:function(){return this._cardData.known}},learned:{configurable:!0,enumerable:!0,get:function(){return this._cardData.learned}},given:{configurable:!0,enumerable:!0,get:function(){return this.isAKnownLearnedCard?this.known:this.learned}},givenID:{configurable:!0,enumerable:!0,get:function(){return this.isAKnownLearnedCard?ID_KNOWN:ID_LEARNED}}});\nvar CardData=function(a,b,c){this.known=a;this.learned=b;this.tags=c};CardData.prototype.stripContext=function(a){return a.replace(CONTEXT_REGEXP,\"\").trim()};$jscomp.global.Object.defineProperties(CardData.prototype,{knownWithoutContext:{configurable:!0,enumerable:!0,get:function(){return this.stripContext(this.known)}},learnedWithoutContext:{configurable:!0,enumerable:!0,get:function(){return this.stripContext(this.learned)}}});window.CardData=CardData;\nvar Theme=function(a,b){this._bodyElement=a;this._cssString=b};Theme.prototype.apply=function(){this._bodyElement.style.cssText=this._cssString};Theme.getTheme=function(a,b){return new Theme(b,THEMES[a])};$jscomp.global.Object.defineProperties(Theme.prototype,{css:{configurable:!0,enumerable:!0,get:function(){return this._cssString}}});\n</script>\n<script type=\"text/javascript\">start(new CardData(`{{known}}`, `{{learned}}`, `{{Tags}}`));</script>{{/include production}}"
                 },
                 {
                     "afmt": "<div id=\"frontOnBack\">{{FrontSide}}</div>\n<span id=\"knownLanguage\" class=\"language\"></span>\n<span id=\"knownAnswer\" class=\"known\">{{known}}</span>\n    \n{{#example}}<div id=\"icon_microscope\"/>{{example}}{{/example}}\n{{#mnemonic}}<div id=\"icon_mnemonic\"/>{{mnemonic}}{{/mnemonic}}\n{{#usage note}}<div id=\"icon_head_IO\"></div>{{usage note}}{{/usage note}}",
@@ -190,7 +191,7 @@
                     "did": null,
                     "name": "Recognition",
                     "ord": 1,
-                    "qfmt": "{{#include recognition}}<style>.card {display:none;}</style>\n<span class=\"language\" id=\"learnedLanguage\"></span>\n<span id=\"learned\" class=\"learned\">{{learned}}</span>\n<span id=\"known\" class=\"hidden known\">{{known}}</span>\n\n    <div id=\"badges_table\">\n        <span id=\"requestedLanguagePrompt\" class=\"language only-front\"></span>\n        <div id=\"badge_indication_expression\"></div>\n        <div id=\"badge_indication_colloquial\"></div>\n        <div id=\"badge_indication_use_subjunctive\"></div>\n        <div id=\"badge_indication_2_pieces\"></div>\n        <div id=\"badge_indication_3_pieces\"></div>\n        <div id=\"badge_indication_4_pieces\" class=\"badge_indication_3_plus_pieces\"></div>\n        <div id=\"badge_indication_5_pieces\" class=\"badge_indication_3_plus_pieces\"></div>\n        <div id=\"badge_indication_2_genders\"></div>\n        <div id=\"badge_indication_singular_plural\"></div>\n        <div id=\"badge_indication_literary\"></div>\n        <div id=\"badge_indication_gerund\" class=\"badge_indication_gerund\"></div>\n        <div id=\"badge_clarification_gerund\" class=\"badge_indication_gerund\"></div>\n        <div id=\"badge_clarification_adjective\"></div>\n        <div id=\"badge_clarification_adverb\"></div>\n        <div id=\"badge_clarification_verb\"></div>\n        <div id=\"badge_clarification_number\"></div>\n        <div id=\"badge_clarification_formal\"></div>\n        <div id=\"badge_clarification_informal\"></div>\n        <div id=\"badge_clarification_expression\"></div>\n        <div id=\"badge_verified\"></div>\n    </div>\n\n<script type=\"text/javascript\">\nvar $jscomp=$jscomp||{};$jscomp.scope={};$jscomp.getGlobal=function(a){return\"undefined\"!=typeof window&&window===a?a:\"undefined\"!=typeof global&&null!=global?global:a};$jscomp.global=$jscomp.getGlobal(this);$jscomp.findInternal=function(a,b,c){a instanceof String&&(a=String(a));for(var d=a.length,e=0;e<d;e++){var f=a[e];if(b.call(c,f,e,a))return{i:e,v:f}}return{i:-1,v:void 0}};$jscomp.ASSUME_ES5=!1;$jscomp.ASSUME_NO_NATIVE_MAP=!1;$jscomp.ASSUME_NO_NATIVE_SET=!1;\n$jscomp.defineProperty=$jscomp.ASSUME_ES5||\"function\"==typeof Object.defineProperties?Object.defineProperty:function(a,b,c){a!=Array.prototype&&a!=Object.prototype&&(a[b]=c.value)};$jscomp.polyfill=function(a,b,c,d){if(b){c=$jscomp.global;a=a.split(\".\");for(d=0;d<a.length-1;d++){var e=a[d];e in c||(c[e]={});c=c[e]}a=a[a.length-1];d=c[a];b=b(d);b!=d&&null!=b&&$jscomp.defineProperty(c,a,{configurable:!0,writable:!0,value:b})}};\n$jscomp.polyfill(\"Array.prototype.find\",function(a){return a?a:function(a,c){return $jscomp.findInternal(this,a,c).v}},\"es6\",\"es3\");setUpErrorHandling();function start(a){document.body.onload=function(){processCard(a)};doPolyFills()}window.start=start;function showEntireCard(){getCardElement().style.display=\"block\"}\nvar _5_YEARS_IN_DAYS=1825,FRONT_WRAPPER_ID=\"frontOnBack\",LANGUAGE_INFO_PREFIX=\"language_\",KNOWN_LANGUAGE_SPAN_ID=\"knownLanguage\",LEARNED_LANGUAGE_SPAN_ID=\"learnedLanguage\",REQUESTED_LANGUAGE_PROMPT_SPAN_ID=\"requestedLanguagePrompt\",DISPLAY_BADGE_PROP=\"--display-badge\",CONTEXT_REGEXP=/(\\[.+\\])/g,CONTEXT_HTML_WRAPPER='<span id=\"generatedContext\" class=\"hidden\">$1</span><a href=\"#\" id=\"contextLink\" data-long-press-delay=\"650\" onclick=\"function whenclicked(event) {event.stopImmediatePropagation(); event.preventDefault(); return false}\">(\\ud83d\\udc41)</a><script language=\"JavaScript\">\\x3c/script>';\nfunction listen(){getElement(\"contextLink\").addEventListener(\"long-press\",showContext)}function showContext(a){a.preventDefault();toggleVisible(getElement(\"generatedContext\"),!0);toggleVisible(getElement(\"contextLink\"),!1)}\nvar DEFAULT_BADGE_VISIBLE_DISPLAY=\"inline\",DISPLAY_NONE=\"none\",BOOLEAN_TO_VISIBILITY_CLASS={true:\"block\",false:\"hidden\"},NUM_PIECES_TAG_SUFFIX=\"_pieces\",TAG_2_GENDERS=\"indication_2_genders\",TAG_SINGULAR_PLURAL=\"indication_singular_plural\",COOKIE_LONG_TERM_LANGUAGE_STATS=\"longTermLanguages\",COOKIE_DETECT_LANGUAGE_CHANGE=\"languageStats\";function processCard(a){compose(renderContext,recordCurrentLanguageCombination,showBadges,renderLanguagePrompts,themeCard,initCookies)(new Card(a))}\nfunction initCookies(a){a.isFrontSide&&(Cookies.get(COOKIE_DETECT_LANGUAGE_CHANGE)||Cookies.set(COOKIE_DETECT_LANGUAGE_CHANGE,{previousLanguageTag:\"\",languageCombinationJustChanged:!1},{expires:.5}),Cookies.get(COOKIE_LONG_TERM_LANGUAGE_STATS)||Cookies.set(COOKIE_LONG_TERM_LANGUAGE_STATS,{languageCombinations:\"\"},{expires:_5_YEARS_IN_DAYS}));return a}\nfunction showBadges(a){a.tags.forEach(function(b){b=new Tag(b);var c=getElement(\"badge_\"+b.nameWithoutModifiers);c&&getStyleProperty(c,DISPLAY_BADGE_PROP)!==DEFAULT_BADGE_VISIBLE_DISPLAY&&c.style.setProperty(DISPLAY_BADGE_PROP,b.isAboutBoth?DEFAULT_BADGE_VISIBLE_DISPLAY:a.isAKnownLearnedCard===b.shouldBeShownWithKnown?DEFAULT_BADGE_VISIBLE_DISPLAY:DISPLAY_NONE)});return a}\nfunction renderLanguagePrompts(a){(function(a){a.knownLanguage&&a.learnedLanguage&&(setInnerHTML(LEARNED_LANGUAGE_SPAN_ID,\"(\"+a.learnedLanguage+\")\"),setInnerHTML(REQUESTED_LANGUAGE_PROMPT_SPAN_ID,\"(\"+(a.isAKnownLearnedSide?a.learnedLanguage:a.knownLanguage)+\":)\"),setInnerHTML(KNOWN_LANGUAGE_SPAN_ID,\"(\"+a.knownLanguage+\")\"))})(a);(function(a){var b=!1,d=Cookies.getJSON(COOKIE_DETECT_LANGUAGE_CHANGE);d&&(b=(a=d.previousLanguageTag!==a)||d.languageCombinationJustChanged,d.languageCombinationJustChanged=\na,Cookies.set(COOKIE_DETECT_LANGUAGE_CHANGE,d,{expires:.5}));return b})(a.languageCombination)&&getElement(REQUESTED_LANGUAGE_PROMPT_SPAN_ID).style.setProperty(\"color\",\"var(--highlighted-language-prompt-color)\");return a}\nfunction recordCurrentLanguageCombination(a){var b=Cookies.getJSON(COOKIE_DETECT_LANGUAGE_CHANGE);b&&(b.previousLanguageTag=a.languageCombination,Cookies.set(COOKIE_DETECT_LANGUAGE_CHANGE,b,{expires:.5}));if(b=Cookies.getJSON(COOKIE_LONG_TERM_LANGUAGE_STATS))-1===b.languageCombinations.indexOf(a.languageCombination)&&(b.languageCombinations+=(b.languageCombinations?\",\":\"\")+a.languageCombination),Cookies.set(COOKIE_LONG_TERM_LANGUAGE_STATS,b,{expires:_5_YEARS_IN_DAYS});return a}\nfunction insertContextInString(a){return a.replace(CONTEXT_REGEXP,CONTEXT_HTML_WRAPPER)}function renderContext(a){-1!=a.given.search(CONTEXT_REGEXP)&&(setInnerHTML(a.givenID,insertContextInString(a.given)),listen());return a}\nfunction themeCard(a){Theme.getTheme(function(a){return-1>=a?0:a}(function(a){var b=Cookies.getJSON(COOKIE_LONG_TERM_LANGUAGE_STATS);return b?b.languageCombinations.split(\",\").indexOf(a):-1}(a.languageCombination)),document.body).apply();loadCSS(\"_lung_\"+a.languageCombination+\".css\");return a}\nfunction toggleVisible(a,b,c){void 0===b&&(b=\"none\"===a.style.display||a.classList.contains(BOOLEAN_TO_VISIBILITY_CLASS[!1]));void 0===c&&(c=BOOLEAN_TO_VISIBILITY_CLASS[b]);a.classList.remove(BOOLEAN_TO_VISIBILITY_CLASS[!b]);a.classList.add(c)}function addClass(a,b){a&&a.classList.add(b)}function getStyleProperty(a,b){return window.getComputedStyle(a).getPropertyValue(b)}function setInnerHTML(a,b){if(a=getElement(a))a.innerHTML=b}function getInnerText(a){return(a=getElement(a))?a.innerText:\"\"}\nfunction getCardElement(){return getFirstElementOfClass(\"card\")}function getElement(a){return document.getElementById(a)}function getElementsOf(a){return document.getElementsByTagName(a)}function getFirstElementOfClass(a){return document.getElementsByClassName(a).item(0)}var debugStatic=function(a){void 0===debugElement&&(debugElement=getElement(\"debugElement\"));debugElement.innerText=a},debugElement=void 0;function debug(a){appendText(a);appendNewLine()}\nfunction appendText(a){document.body.appendChild(document.createTextNode(a))}function appendNewLine(){document.body.appendChild(document.createElement(\"BR\"))}function loadCSS(a){var b=createStyleLinkElement();b.href=a;b.onload=requestAnimationFrame(showEntireCard);b.onerror=requestAnimationFrame(showEntireCard);getCardElement().appendChild(b)}function createStyleLinkElement(){var a=document.createElement(\"link\");a.type=\"text/css\";a.rel=\"stylesheet\";a.media=\"all\";return a}\nfunction setUpErrorHandling(){function a(a,c){return function(){c.apply(a,arguments);debug(Array.prototype.join.apply(arguments))}}console.warn=a(console,console.warn);console.exception=a(console,console.exception);window.onerror=function(a,c,d,e,f){debug(\"ERROR: \"+a+\" at line \"+d+\" in script \"+c);return!1}}function compose(a){for(var b=0;b<arguments.length;++b);var c=arguments;return function(a){for(var b=c.length-1;-1<b;b--)a=c[b].call(this,a);return a}}\nfunction doPolyFills(){Array.prototype.find||Object.defineProperty(Array.prototype,\"find\",{value:function(a,b){if(null==this)throw new TypeError('\"this\" is null or not defined');var c=Object(this),d=c.length>>>0;if(\"function\"!==typeof a)throw new TypeError(\"predicate must be a function\");for(var e=0;e<d;){var f=c[e];if(a.call(b,f,e,c))return f;e++}}});Array.prototype.intersect||Object.defineProperties(Array.prototype,{intersect:{writable:!1,value:function(a){if(!Array.isArray(a))throw new TypeError(\"argument must be an array\");\nreturn this.concat().filter(function(b){return-1!==a.indexOf(b)})}}});window.requestAnimFrame=function(){return window.requestAnimationFrame||window.webkitRequestAnimationFrame||window.mozRequestAnimationFrame||window.oRequestAnimationFrame||window.msRequestAnimationFrame||function(a){window.setTimeout(a,1E3/60)}}()};/*\n JavaScript Cookie v2.2.0\n https://github.com/js-cookie/js-cookie\n\n Copyright 2006, 2015 Klaus Hartl & Fagner Brack\n Released under the MIT license\n*/\n(function(a){var b=!1;\"function\"===typeof define&&define.amd&&(define(a),b=!0);\"object\"===typeof exports&&(b=!0);if(!b){var c=window.Cookies,d=window.Cookies=a();d.noConflict=function(){window.Cookies=c;return d}}})(function(){function a(a){for(var b=0,c={};b<arguments.length;b++){var f=arguments[b],g;for(g in f)c[g]=f[g]}return c}function b(c){function d(b,f,g){if(\"undefined\"!==typeof document){if(1<arguments.length){g=a({path:\"/\"},d.defaults,g);if(\"number\"===typeof g.expires){var e=new Date;e.setMilliseconds(e.getMilliseconds()+\n864E5*g.expires);g.expires=e}g.expires=g.expires?g.expires.toUTCString():\"\";try{var k=JSON.stringify(f);/^[\\{\\[]/.test(k)&&(f=k)}catch(n){}f=c.write?c.write(f,b):encodeURIComponent(String(f)).replace(/%(23|24|26|2B|3A|3C|3E|3D|2F|3F|40|5B|5D|5E|60|7B|7D|7C)/g,decodeURIComponent);b=encodeURIComponent(String(b));b=b.replace(/%(23|24|26|2B|5E|60|7C)/g,decodeURIComponent);b=b.replace(/[\\(\\)]/g,escape);k=\"\";for(var l in g)g[l]&&(k+=\"; \"+l,!0!==g[l]&&(k+=\"=\"+g[l]));return document.cookie=b+\"=\"+f+k}b||(k=\n{});l=document.cookie?document.cookie.split(\"; \"):[];for(var p=/(%[0-9A-Z]{2})+/g,m=0;m<l.length;m++){var q=l[m].split(\"=\"),h=q.slice(1).join(\"=\");this.json||'\"'!==h.charAt(0)||(h=h.slice(1,-1));try{e=q[0].replace(p,decodeURIComponent);h=c.read?c.read(h,e):c(h,e)||h.replace(p,decodeURIComponent);if(this.json)try{h=JSON.parse(h)}catch(n){}if(b===e){k=h;break}b||(k[e]=h)}catch(n){}}return k}}d.set=d;d.get=function(a){return d.call(d,a)};d.getJSON=function(){return d.apply({json:!0},[].slice.call(arguments))};\nd.defaults={};d.remove=function(b,c){d(b,\"\",a(c,{expires:-1}))};d.withConverter=b;return d}return b(function(){})});/*\n long-press-event.js\n Pure JavaScript long-press-event\n https://github.com/john-doherty/long-press-event\n @author John Doherty <www.johndoherty.info>\n @license MIT\n*/\n(function(a,b){function c(){this.dispatchEvent(new CustomEvent(\"long-press\",{bubbles:!0,cancelable:!0}));clearTimeout(d);console&&console.log&&console.log(\"long-press event fired on \"+this.outerHTML)}var d=null,e=\"ontouchstart\"in a||0<navigator.maxTouchPoints||0<navigator.msMaxTouchPoints,f=e?\"touchcancel\":\"mouseout\",g=e?\"touchend\":\"mouseup\",r=e?\"touchmove\":\"mousemove\";\"function\"!==typeof a.CustomEvent&&(a.CustomEvent=function(a,c){c=c||{bubbles:!1,cancelable:!1,detail:void 0};var d=b.createEvent(\"CustomEvent\");\nd.initCustomEvent(a,c.bubbles,c.cancelable,c.detail);return d},a.CustomEvent.prototype=a.Event.prototype);b.addEventListener(e?\"touchstart\":\"mousedown\",function(a){a=a.target;var b=parseInt(a.getAttribute(\"data-long-press-delay\")||\"1500\",10);d=setTimeout(c.bind(a),b)});b.addEventListener(g,function(){clearTimeout(d)});b.addEventListener(f,function(){clearTimeout(d)});b.addEventListener(r,function(){clearTimeout(d)});b.addEventListener(\"mousewheel\",function(){clearTimeout(d)});b.addEventListener(\"wheel\",\nfunction(){clearTimeout(d)});b.addEventListener(\"scroll\",function(){clearTimeout(d)})})(window,document);var ID_LEARNED=\"learned\",ID_KNOWN=\"known\",TAG_MOD_ABOUT_LEARNED=\"_learned\",TAG_MOD_ABOUT_KNOWN=\"_known\",CLARIFICATION_PREFIX=\"clarification\",INDICATION_PREFIX=\"indication\",NUM_PIECES_TAG_PREFIX=INDICATION_PREFIX+\"_\",THEMES=[\"--highlighted-language-prompt-color: #fa5c32;\\n     --main-theme-color: #ff4a4a;\\n     --secondary-theme-color: rgba(213, 95, 93, 0.5);\",\"--highlighted-language-prompt-color: #fa5c32;\\n     --main-theme-color: #62cb20;\\n     --secondary-theme-color: rgba(109, 213, 166, 0.5);\",\n\"--highlighted-language-prompt-color: #fa5c32;\\n     --main-theme-color: #4ebecb;\\n     --secondary-theme-color: rgba(94, 176, 237, 0.5);\",\"--highlighted-language-prompt-color: #fa5c32;\\n     --main-theme-color: #cb706d;\\n     --secondary-theme-color: rgba(237, 58, 17, 0.5);\"],Tag=function(a){this.name=a;this.nameWithoutLearnedAndKnownModifiers=\"\";this.isBadgeAboutKnown=this.isTagAboutLearned=!1;this.processName()};\nTag.prototype.processName=function(){var a=this.name,b=this.name.replace(new RegExp(TAG_MOD_ABOUT_LEARNED+\"$\"),\"\");this.isTagAboutLearned=b!==a;this.nameWithoutLearnedAndKnownModifiers=b.replace(new RegExp(TAG_MOD_ABOUT_KNOWN+\"$\"),\"\");this.isBadgeAboutKnown=this.nameWithoutLearnedAndKnownModifiers!==b};\n$jscomp.global.Object.defineProperties(Tag.prototype,{nameWithoutModifiers:{configurable:!0,enumerable:!0,get:function(){return this.nameWithoutLearnedAndKnownModifiers}},isClarification:{configurable:!0,enumerable:!0,get:function(){return 0===this.nameWithoutModifiers.indexOf(CLARIFICATION_PREFIX)}},isIndication:{configurable:!0,enumerable:!0,get:function(){return 0===this.nameWithoutModifiers.indexOf(INDICATION_PREFIX)}},isAboutLearned:{configurable:!0,enumerable:!0,get:function(){return this.isTagAboutLearned}},\nisAboutKnown:{configurable:!0,enumerable:!0,get:function(){return this.isBadgeAboutKnown}},isAboutBoth:{configurable:!0,enumerable:!0,get:function(){return this.isAboutLearned===this.isAboutKnown}},shouldBeShownWithKnown:{configurable:!0,enumerable:!0,get:function(){return this.isAboutBoth||this.isIndication&&this.isAboutLearned||this.isClarification&&this.isAboutKnown}}});\nvar Card=function(a){this.isAKnownLearnedSide=getElement(ID_LEARNED).classList.contains(\"hidden\");this.isFront=null===getElement(FRONT_WRAPPER_ID);this._cardData=a;this._languageCombination=this._learnedLanguage=this._knownLanguage=\"\";this.tags=this._originalTags=null;this.processData()};Card.toTagsArray=function(a){return(a?a:\"\").split(\" \").filter(function(a){return 0<a.length})};\nCard.prototype.processData=function(){this._originalTags=Card.toTagsArray(this._cardData.tags);this.tags=this.addComputedTags(this._originalTags,this._cardData);var a=function(a){a=a?a.substr(LANGUAGE_INFO_PREFIX.length):\"\";var b=a.indexOf(\"-\"),d={};d.knownLanguage=a.substring(0,b);d.learnedLanguage=a.substring(b+1);return d}(function(a){return a.find(function(a){return 0===a.indexOf(LANGUAGE_INFO_PREFIX)})}(this.tags));this._knownLanguage=a.knownLanguage;this._learnedLanguage=a.learnedLanguage;this._languageCombination=\nthis._knownLanguage+\"-\"+this._learnedLanguage};\nCard.prototype.addComputedTags=function(a,b){return a.concat(function(a){function c(a,c){function d(b){return b.indexOf(a)===b.length-a.length||-1===b.indexOf(a===TAG_MOD_ABOUT_KNOWN?TAG_MOD_ABOUT_LEARNED:TAG_MOD_ABOUT_KNOWN)}function e(a){return-1!==a.indexOf(\"_piece\")}var f=(a===TAG_MOD_ABOUT_KNOWN?b.known:b.learned).replace(/<br\\s*\\/?>/ig,\"\\n\").split(/[\\n,]/).filter(function(a){return 0<a.length}).length,l=0<c.intersect([TAG_2_GENDERS].concat(a.length?[TAG_2_GENDERS+a]:[])).length?2:1;l*=0<c.intersect([TAG_SINGULAR_PLURAL].concat(a.length?\n[TAG_SINGULAR_PLURAL+a]:[])).length?2:1;return function(b,c,d){return!c&&f>d?(b=f,5<b&&(b=\"5_plus\"),NUM_PIECES_TAG_PREFIX+b+NUM_PIECES_TAG_SUFFIX+a):\"\"}(f,function(a){a=a.filter(e).filter(d);a.length?(a=a[0].substr(NUM_PIECES_TAG_PREFIX.length),a=a.substr(0,a.indexOf(\"_\"))):a=0;return a}(c),l)}return[c(TAG_MOD_ABOUT_KNOWN,a),c(TAG_MOD_ABOUT_LEARNED,a)].filter(function(a){return a.length})}(a))};\n$jscomp.global.Object.defineProperties(Card.prototype,{isAKnownLearnedCard:{configurable:!0,enumerable:!0,get:function(){return this.isAKnownLearnedSide}},isFrontSide:{configurable:!0,enumerable:!0,get:function(){return this.isFront}},knownLanguage:{configurable:!0,enumerable:!0,get:function(){return this._knownLanguage}},learnedLanguage:{configurable:!0,enumerable:!0,get:function(){return this._learnedLanguage}},languageCombination:{configurable:!0,enumerable:!0,get:function(){return this._languageCombination}},\noriginalTags:{configurable:!0,enumerable:!0,get:function(){return this._originalTags}},known:{configurable:!0,enumerable:!0,get:function(){return this._cardData.known}},learned:{configurable:!0,enumerable:!0,get:function(){return this._cardData.learned}},given:{configurable:!0,enumerable:!0,get:function(){return this.isAKnownLearnedCard?this.known:this.learned}},givenID:{configurable:!0,enumerable:!0,get:function(){return this.isAKnownLearnedCard?ID_KNOWN:ID_LEARNED}}});\nvar CardData=function(a,b,c){this.known=a;this.learned=b;this.tags=c};window.CardData=CardData;var Theme=function(a,b){this._bodyElement=a;this._cssString=b};Theme.prototype.apply=function(){this._bodyElement.style.cssText=this._cssString};Theme.getTheme=function(a,b){return new Theme(b,THEMES[a])};$jscomp.global.Object.defineProperties(Theme.prototype,{css:{configurable:!0,enumerable:!0,get:function(){return this._cssString}}});\n</script>\n<script type=\"text/javascript\">\nstart({known:`{{known}}`, learned:`{{learned}}`, contextForKnown:``, contextForLearned:``, example:`{{example}}`, usageNote:`{{usage note}}`, mnemonic:`{{mnemonic}}`, tags:`{{Tags}}`});\n</script>{{/include recognition}}"
+                    "qfmt": "{{#include recognition}}<style>.card {display:none;}</style>\n<span class=\"language\" id=\"learnedLanguage\"></span>\n<span id=\"learned\" class=\"learned\">{{learned}}</span>\n<span id=\"known\" class=\"hidden known\">{{known}}</span>\n\n    <div id=\"badges_table\">\n        <span id=\"requestedLanguagePrompt\" class=\"language only-front\"></span>\n        <div id=\"badge_indication_expression\"></div>\n        <div id=\"badge_indication_colloquial\"></div>\n        <div id=\"badge_indication_use_subjunctive\"></div>\n        <div id=\"badge_indication_2_pieces\"></div>\n        <div id=\"badge_indication_3_pieces\"></div>\n        <div id=\"badge_indication_4_pieces\" class=\"badge_indication_3_plus_pieces\"></div>\n        <div id=\"badge_indication_5_pieces\" class=\"badge_indication_3_plus_pieces\"></div>\n        <div id=\"badge_indication_2_genders\"></div>\n        <div id=\"badge_indication_singular_plural\"></div>\n        <div id=\"badge_indication_literary\"></div>\n        <div id=\"badge_indication_gerund\" class=\"badge_indication_gerund\"></div>\n        <div id=\"badge_clarification_gerund\" class=\"badge_indication_gerund\"></div>\n        <div id=\"badge_clarification_adjective\"></div>\n        <div id=\"badge_clarification_adverb\"></div>\n        <div id=\"badge_clarification_verb\"></div>\n        <div id=\"badge_clarification_number\"></div>\n        <div id=\"badge_clarification_formal\"></div>\n        <div id=\"badge_clarification_informal\"></div>\n        <div id=\"badge_clarification_expression\"></div>\n        <div id=\"badge_verified\"></div>\n    </div>\n\n<script type=\"text/javascript\">\nvar $jscomp=$jscomp||{};$jscomp.scope={};$jscomp.getGlobal=function(a){return\"undefined\"!=typeof window&&window===a?a:\"undefined\"!=typeof global&&null!=global?global:a};$jscomp.global=$jscomp.getGlobal(this);$jscomp.findInternal=function(a,b,c){a instanceof String&&(a=String(a));for(var d=a.length,e=0;e<d;e++){var f=a[e];if(b.call(c,f,e,a))return{i:e,v:f}}return{i:-1,v:void 0}};$jscomp.ASSUME_ES5=!1;$jscomp.ASSUME_NO_NATIVE_MAP=!1;$jscomp.ASSUME_NO_NATIVE_SET=!1;\n$jscomp.defineProperty=$jscomp.ASSUME_ES5||\"function\"==typeof Object.defineProperties?Object.defineProperty:function(a,b,c){a!=Array.prototype&&a!=Object.prototype&&(a[b]=c.value)};$jscomp.polyfill=function(a,b,c,d){if(b){c=$jscomp.global;a=a.split(\".\");for(d=0;d<a.length-1;d++){var e=a[d];e in c||(c[e]={});c=c[e]}a=a[a.length-1];d=c[a];b=b(d);b!=d&&null!=b&&$jscomp.defineProperty(c,a,{configurable:!0,writable:!0,value:b})}};\n$jscomp.polyfill(\"Array.prototype.find\",function(a){return a?a:function(a,c){return $jscomp.findInternal(this,a,c).v}},\"es6\",\"es3\");setUpErrorHandling();function start(a){document.body.onload=function(){processCard(a)};doPolyFills()}window.start=start;function showEntireCard(){getCardElement().style.display=\"block\"}\nvar _5_YEARS_IN_DAYS=1825,FRONT_WRAPPER_ID=\"frontOnBack\",LANGUAGE_INFO_PREFIX=\"language_\",KNOWN_LANGUAGE_SPAN_ID=\"knownLanguage\",LEARNED_LANGUAGE_SPAN_ID=\"learnedLanguage\",REQUESTED_LANGUAGE_PROMPT_SPAN_ID=\"requestedLanguagePrompt\",DISPLAY_BADGE_PROP=\"--display-badge\",CONTEXT_HTML_WRAPPER='<span id=\"generatedContext\" class=\"hidden\">$1</span><a href=\"#\" id=\"contextLink\" data-long-press-delay=\"650\" onclick=\"function whenclicked(event) {event.stopImmediatePropagation(); event.preventDefault(); return false}\">(\\ud83d\\udc41)</a><script language=\"JavaScript\">\\x3c/script>';\nfunction listen(){getElement(\"contextLink\").addEventListener(\"long-press\",showContext)}function showContext(a){a.preventDefault();toggleVisible(getElement(\"generatedContext\"),!0);toggleVisible(getElement(\"contextLink\"),!1)}\nvar DEFAULT_BADGE_VISIBLE_DISPLAY=\"inline\",DISPLAY_NONE=\"none\",BOOLEAN_TO_VISIBILITY_CLASS={true:\"block\",false:\"hidden\"},NUM_PIECES_TAG_SUFFIX=\"_pieces\",TAG_2_GENDERS=\"indication_2_genders\",TAG_SINGULAR_PLURAL=\"indication_singular_plural\",COOKIE_LONG_TERM_LANGUAGE_STATS=\"longTermLanguages\",COOKIE_DETECT_LANGUAGE_CHANGE=\"languageStats\";function processCard(a){compose(renderContext,recordCurrentLanguageCombination,showBadges,renderLanguagePrompts,themeCard,initCookies)(new Card(a))}\nfunction initCookies(a){a.isFrontSide&&(Cookies.get(COOKIE_DETECT_LANGUAGE_CHANGE)||Cookies.set(COOKIE_DETECT_LANGUAGE_CHANGE,{previousLanguageTag:\"\",languageCombinationJustChanged:!1},{expires:.5}),Cookies.get(COOKIE_LONG_TERM_LANGUAGE_STATS)||Cookies.set(COOKIE_LONG_TERM_LANGUAGE_STATS,{languageCombinations:\"\"},{expires:_5_YEARS_IN_DAYS}));return a}\nfunction showBadges(a){a.tags.forEach(function(b){b=new Tag(b);var c=getElement(\"badge_\"+b.nameWithoutModifiers);c&&getStyleProperty(c,DISPLAY_BADGE_PROP)!==DEFAULT_BADGE_VISIBLE_DISPLAY&&c.style.setProperty(DISPLAY_BADGE_PROP,b.isAboutBoth?DEFAULT_BADGE_VISIBLE_DISPLAY:a.isAKnownLearnedCard===b.shouldBeShownWithKnown?DEFAULT_BADGE_VISIBLE_DISPLAY:DISPLAY_NONE)});return a}\nfunction renderLanguagePrompts(a){(function(a){a.knownLanguage&&a.learnedLanguage&&(setInnerHTML(LEARNED_LANGUAGE_SPAN_ID,\"(\"+a.learnedLanguage+\")\"),setInnerHTML(REQUESTED_LANGUAGE_PROMPT_SPAN_ID,\"(\"+(a.isAKnownLearnedSide?a.learnedLanguage:a.knownLanguage)+\":)\"),setInnerHTML(KNOWN_LANGUAGE_SPAN_ID,\"(\"+a.knownLanguage+\")\"))})(a);(function(a){var b=!1,d=Cookies.getJSON(COOKIE_DETECT_LANGUAGE_CHANGE);d&&(b=(a=d.previousLanguageTag!==a)||d.languageCombinationJustChanged,d.languageCombinationJustChanged=\na,Cookies.set(COOKIE_DETECT_LANGUAGE_CHANGE,d,{expires:.5}));return b})(a.languageCombination)&&getElement(REQUESTED_LANGUAGE_PROMPT_SPAN_ID).style.setProperty(\"color\",\"var(--highlighted-language-prompt-color)\");return a}\nfunction recordCurrentLanguageCombination(a){var b=Cookies.getJSON(COOKIE_DETECT_LANGUAGE_CHANGE);b&&(b.previousLanguageTag=a.languageCombination,Cookies.set(COOKIE_DETECT_LANGUAGE_CHANGE,b,{expires:.5}));if(b=Cookies.getJSON(COOKIE_LONG_TERM_LANGUAGE_STATS))-1===b.languageCombinations.indexOf(a.languageCombination)&&(b.languageCombinations+=(b.languageCombinations?\",\":\"\")+a.languageCombination),Cookies.set(COOKIE_LONG_TERM_LANGUAGE_STATS,b,{expires:_5_YEARS_IN_DAYS});return a}\nfunction insertContextInString(a){return a.replace(CONTEXT_REGEXP,CONTEXT_HTML_WRAPPER)}function renderContext(a){-1!=a.given.search(CONTEXT_REGEXP)&&(setInnerHTML(a.givenID,insertContextInString(a.given)),listen());return a}\nfunction themeCard(a){Theme.getTheme(function(a){return-1>=a?0:a}(function(a){var b=Cookies.getJSON(COOKIE_LONG_TERM_LANGUAGE_STATS);return b?b.languageCombinations.split(\",\").indexOf(a):-1}(a.languageCombination)),document.body).apply();loadCSS(\"_lung_\"+a.languageCombination+\".css\");return a}\nfunction toggleVisible(a,b,c){void 0===b&&(b=\"none\"===a.style.display||a.classList.contains(BOOLEAN_TO_VISIBILITY_CLASS[!1]));void 0===c&&(c=BOOLEAN_TO_VISIBILITY_CLASS[b]);a.classList.remove(BOOLEAN_TO_VISIBILITY_CLASS[!b]);a.classList.add(c)}function addClass(a,b){a&&a.classList.add(b)}function getStyleProperty(a,b){return window.getComputedStyle(a).getPropertyValue(b)}function setInnerHTML(a,b){if(a=getElement(a))a.innerHTML=b}function getInnerText(a){return(a=getElement(a))?a.innerText:\"\"}\nfunction getCardElement(){return getFirstElementOfClass(\"card\")}function getElement(a){return document.getElementById(a)}function getElementsOf(a){return document.getElementsByTagName(a)}function getFirstElementOfClass(a){return document.getElementsByClassName(a).item(0)}var debugStatic=function(a){void 0===debugElement&&(debugElement=getElement(\"debugElement\"));debugElement.innerText=a},debugElement=void 0;function debug(a){appendText(a);appendNewLine()}\nfunction appendText(a){document.body.appendChild(document.createTextNode(a))}function appendNewLine(){document.body.appendChild(document.createElement(\"BR\"))}function loadCSS(a){var b=createStyleLinkElement();b.href=a;b.onload=requestAnimationFrame(showEntireCard);b.onerror=requestAnimationFrame(showEntireCard);getCardElement().appendChild(b)}function createStyleLinkElement(){var a=document.createElement(\"link\");a.type=\"text/css\";a.rel=\"stylesheet\";a.media=\"all\";return a}\nfunction setUpErrorHandling(){function a(a,c){return function(){c.apply(a,arguments);debug(Array.prototype.join.apply(arguments))}}console.warn=a(console,console.warn);console.exception=a(console,console.exception);window.onerror=function(a,c,d,e,f){debug(\"ERROR: \"+a+\" at line \"+d+\" in script \"+c);return!1}}function compose(a){for(var b=0;b<arguments.length;++b);var c=arguments;return function(a){for(var b=c.length-1;-1<b;b--)a=c[b].call(this,a);return a}}\nfunction doPolyFills(){Array.prototype.find||Object.defineProperty(Array.prototype,\"find\",{value:function(a,b){if(null==this)throw new TypeError('\"this\" is null or not defined');var c=Object(this),d=c.length>>>0;if(\"function\"!==typeof a)throw new TypeError(\"predicate must be a function\");for(var e=0;e<d;){var f=c[e];if(a.call(b,f,e,c))return f;e++}}});Array.prototype.intersect||Object.defineProperties(Array.prototype,{intersect:{writable:!1,value:function(a){if(!Array.isArray(a))throw new TypeError(\"argument must be an array\");\nreturn this.concat().filter(function(b){return-1!==a.indexOf(b)})}}});window.requestAnimFrame=function(){return window.requestAnimationFrame||window.webkitRequestAnimationFrame||window.mozRequestAnimationFrame||window.oRequestAnimationFrame||window.msRequestAnimationFrame||function(a){window.setTimeout(a,1E3/60)}}()};/*\n JavaScript Cookie v2.2.0\n https://github.com/js-cookie/js-cookie\n\n Copyright 2006, 2015 Klaus Hartl & Fagner Brack\n Released under the MIT license\n*/\n(function(a){var b=!1;\"function\"===typeof define&&define.amd&&(define(a),b=!0);\"object\"===typeof exports&&(b=!0);if(!b){var c=window.Cookies,d=window.Cookies=a();d.noConflict=function(){window.Cookies=c;return d}}})(function(){function a(a){for(var b=0,c={};b<arguments.length;b++){var f=arguments[b],g;for(g in f)c[g]=f[g]}return c}function b(c){function d(b,f,g){if(\"undefined\"!==typeof document){if(1<arguments.length){g=a({path:\"/\"},d.defaults,g);if(\"number\"===typeof g.expires){var e=new Date;e.setMilliseconds(e.getMilliseconds()+\n864E5*g.expires);g.expires=e}g.expires=g.expires?g.expires.toUTCString():\"\";try{var k=JSON.stringify(f);/^[\\{\\[]/.test(k)&&(f=k)}catch(n){}f=c.write?c.write(f,b):encodeURIComponent(String(f)).replace(/%(23|24|26|2B|3A|3C|3E|3D|2F|3F|40|5B|5D|5E|60|7B|7D|7C)/g,decodeURIComponent);b=encodeURIComponent(String(b));b=b.replace(/%(23|24|26|2B|5E|60|7C)/g,decodeURIComponent);b=b.replace(/[\\(\\)]/g,escape);k=\"\";for(var l in g)g[l]&&(k+=\"; \"+l,!0!==g[l]&&(k+=\"=\"+g[l]));return document.cookie=b+\"=\"+f+k}b||(k=\n{});l=document.cookie?document.cookie.split(\"; \"):[];for(var p=/(%[0-9A-Z]{2})+/g,m=0;m<l.length;m++){var q=l[m].split(\"=\"),h=q.slice(1).join(\"=\");this.json||'\"'!==h.charAt(0)||(h=h.slice(1,-1));try{e=q[0].replace(p,decodeURIComponent);h=c.read?c.read(h,e):c(h,e)||h.replace(p,decodeURIComponent);if(this.json)try{h=JSON.parse(h)}catch(n){}if(b===e){k=h;break}b||(k[e]=h)}catch(n){}}return k}}d.set=d;d.get=function(a){return d.call(d,a)};d.getJSON=function(){return d.apply({json:!0},[].slice.call(arguments))};\nd.defaults={};d.remove=function(b,c){d(b,\"\",a(c,{expires:-1}))};d.withConverter=b;return d}return b(function(){})});/*\n long-press-event.js\n Pure JavaScript long-press-event\n https://github.com/john-doherty/long-press-event\n @author John Doherty <www.johndoherty.info>\n @license MIT\n*/\n(function(a,b){function c(){this.dispatchEvent(new CustomEvent(\"long-press\",{bubbles:!0,cancelable:!0}));clearTimeout(d);console&&console.log&&console.log(\"long-press event fired on \"+this.outerHTML)}var d=null,e=\"ontouchstart\"in a||0<navigator.maxTouchPoints||0<navigator.msMaxTouchPoints,f=e?\"touchcancel\":\"mouseout\",g=e?\"touchend\":\"mouseup\",r=e?\"touchmove\":\"mousemove\";\"function\"!==typeof a.CustomEvent&&(a.CustomEvent=function(a,c){c=c||{bubbles:!1,cancelable:!1,detail:void 0};var d=b.createEvent(\"CustomEvent\");\nd.initCustomEvent(a,c.bubbles,c.cancelable,c.detail);return d},a.CustomEvent.prototype=a.Event.prototype);b.addEventListener(e?\"touchstart\":\"mousedown\",function(a){a=a.target;var b=parseInt(a.getAttribute(\"data-long-press-delay\")||\"1500\",10);d=setTimeout(c.bind(a),b)});b.addEventListener(g,function(){clearTimeout(d)});b.addEventListener(f,function(){clearTimeout(d)});b.addEventListener(r,function(){clearTimeout(d)});b.addEventListener(\"mousewheel\",function(){clearTimeout(d)});b.addEventListener(\"wheel\",\nfunction(){clearTimeout(d)});b.addEventListener(\"scroll\",function(){clearTimeout(d)})})(window,document);var CONTEXT_REGEXP=/(\\[.+\\])/g,ID_LEARNED=\"learned\",ID_KNOWN=\"known\",TAG_MOD_ABOUT_LEARNED=\"_learned\",TAG_MOD_ABOUT_KNOWN=\"_known\",CLARIFICATION_PREFIX=\"clarification\",INDICATION_PREFIX=\"indication\",NUM_PIECES_TAG_PREFIX=INDICATION_PREFIX+\"_\",THEMES=\"--highlighted-language-prompt-color: #fa5c32;\\n     --main-theme-color: #ff4a4a;\\n     --secondary-theme-color: rgba(213, 95, 93, 0.5);{--highlighted-language-prompt-color: #fa5c32;\\n     --main-theme-color: #62cb20;\\n     --secondary-theme-color: rgba(109, 213, 166, 0.5);{--highlighted-language-prompt-color: #fa5c32;\\n     --main-theme-color: #4ebecb;\\n     --secondary-theme-color: rgba(94, 176, 237, 0.5);{--highlighted-language-prompt-color: #fa5c32;\\n     --main-theme-color: #cb706d;\\n     --secondary-theme-color: rgba(237, 58, 17, 0.5);{--highlighted-language-prompt-color: #fa5c32;\\n    --main-theme-color: #b51f03;\\n    --secondary-theme-color: rgba(237, 0, 74, 0.5);{--highlighted-language-prompt-color: #fa5c32;\\n    --main-theme-color: #5dfae3;\\n    --secondary-theme-color: rgba(206, 207, 39, 0.5);{--highlighted-language-prompt-color: #fa5c32;\\n    --main-theme-color: #fae869;\\n    --secondary-theme-color: rgba(85, 207, 199, 0.8);{--highlighted-language-prompt-color: #fa5c32;\\n    --main-theme-color: #fa6eea;\\n    --secondary-theme-color: rgba(103, 91, 207, 0.79)\".split(\"{\"),\nTag=function(a){this.name=a;this.nameWithoutLearnedAndKnownModifiers=\"\";this.isBadgeAboutKnown=this.isTagAboutLearned=!1;this.processName()};Tag.prototype.processName=function(){var a=this.name,b=this.name.replace(new RegExp(TAG_MOD_ABOUT_LEARNED+\"$\"),\"\");this.isTagAboutLearned=b!==a;this.nameWithoutLearnedAndKnownModifiers=b.replace(new RegExp(TAG_MOD_ABOUT_KNOWN+\"$\"),\"\");this.isBadgeAboutKnown=this.nameWithoutLearnedAndKnownModifiers!==b};\n$jscomp.global.Object.defineProperties(Tag.prototype,{nameWithoutModifiers:{configurable:!0,enumerable:!0,get:function(){return this.nameWithoutLearnedAndKnownModifiers}},isClarification:{configurable:!0,enumerable:!0,get:function(){return 0===this.nameWithoutModifiers.indexOf(CLARIFICATION_PREFIX)}},isIndication:{configurable:!0,enumerable:!0,get:function(){return 0===this.nameWithoutModifiers.indexOf(INDICATION_PREFIX)}},isAboutLearned:{configurable:!0,enumerable:!0,get:function(){return this.isTagAboutLearned}},\nisAboutKnown:{configurable:!0,enumerable:!0,get:function(){return this.isBadgeAboutKnown}},isAboutBoth:{configurable:!0,enumerable:!0,get:function(){return this.isAboutLearned===this.isAboutKnown}},shouldBeShownWithKnown:{configurable:!0,enumerable:!0,get:function(){return this.isAboutBoth||this.isIndication&&this.isAboutLearned||this.isClarification&&this.isAboutKnown}}});\nvar Card=function(a){this.isAKnownLearnedSide=getElement(ID_LEARNED).classList.contains(\"hidden\");this.isFront=null===getElement(FRONT_WRAPPER_ID);this._cardData=a;this._languageCombination=this._learnedLanguage=this._knownLanguage=\"\";this.tags=this._originalTags=null;this.processData()};Card.toTagsArray=function(a){return(a?a:\"\").split(\" \").filter(function(a){return 0<a.length})};\nCard.prototype.processData=function(){this._originalTags=Card.toTagsArray(this._cardData.tags);this.tags=this.addComputedTags(this._originalTags,this._cardData);var a=function(a){a=a?a.substr(LANGUAGE_INFO_PREFIX.length):\"\";var b=a.indexOf(\"-\"),d={};d.knownLanguage=a.substring(0,b);d.learnedLanguage=a.substring(b+1);return d}(function(a){return a.find(function(a){return 0===a.indexOf(LANGUAGE_INFO_PREFIX)})}(this.tags));this._knownLanguage=a.knownLanguage;this._learnedLanguage=a.learnedLanguage;this._languageCombination=\nthis._knownLanguage+\"-\"+this._learnedLanguage};\nCard.prototype.addComputedTags=function(a,b){return a.concat(function(a){function c(a,c){function d(b){return b.indexOf(a)===b.length-a.length||-1===b.indexOf(a===TAG_MOD_ABOUT_KNOWN?TAG_MOD_ABOUT_LEARNED:TAG_MOD_ABOUT_KNOWN)}function e(a){return-1!==a.indexOf(\"_piece\")}var f=(a===TAG_MOD_ABOUT_KNOWN?b.knownWithoutContext:b.learnedWithoutContext).replace(/<br\\s*\\/?>/ig,\"\\n\").split(/[\\n,]/).filter(function(a){return 0<a.length}).length,l=0<c.intersect([TAG_2_GENDERS].concat(a.length?[TAG_2_GENDERS+\na]:[])).length?2:1;l*=0<c.intersect([TAG_SINGULAR_PLURAL].concat(a.length?[TAG_SINGULAR_PLURAL+a]:[])).length?2:1;return function(b,c,d){return!c&&f>d?(b=f,5<b&&(b=\"5_plus\"),NUM_PIECES_TAG_PREFIX+b+NUM_PIECES_TAG_SUFFIX+a):\"\"}(f,function(a){a=a.filter(e).filter(d);a.length?(a=a[0].substr(NUM_PIECES_TAG_PREFIX.length),a=a.substr(0,a.indexOf(\"_\"))):a=0;return a}(c),l)}return[c(TAG_MOD_ABOUT_KNOWN,a),c(TAG_MOD_ABOUT_LEARNED,a)].filter(function(a){return a.length})}(a))};\n$jscomp.global.Object.defineProperties(Card.prototype,{isAKnownLearnedCard:{configurable:!0,enumerable:!0,get:function(){return this.isAKnownLearnedSide}},isFrontSide:{configurable:!0,enumerable:!0,get:function(){return this.isFront}},knownLanguage:{configurable:!0,enumerable:!0,get:function(){return this._knownLanguage}},learnedLanguage:{configurable:!0,enumerable:!0,get:function(){return this._learnedLanguage}},languageCombination:{configurable:!0,enumerable:!0,get:function(){return this._languageCombination}},\noriginalTags:{configurable:!0,enumerable:!0,get:function(){return this._originalTags}},known:{configurable:!0,enumerable:!0,get:function(){return this._cardData.known}},learned:{configurable:!0,enumerable:!0,get:function(){return this._cardData.learned}},given:{configurable:!0,enumerable:!0,get:function(){return this.isAKnownLearnedCard?this.known:this.learned}},givenID:{configurable:!0,enumerable:!0,get:function(){return this.isAKnownLearnedCard?ID_KNOWN:ID_LEARNED}}});\nvar CardData=function(a,b,c){this.known=a;this.learned=b;this.tags=c};CardData.prototype.stripContext=function(a){return a.replace(CONTEXT_REGEXP,\"\").trim()};$jscomp.global.Object.defineProperties(CardData.prototype,{knownWithoutContext:{configurable:!0,enumerable:!0,get:function(){return this.stripContext(this.known)}},learnedWithoutContext:{configurable:!0,enumerable:!0,get:function(){return this.stripContext(this.learned)}}});window.CardData=CardData;\nvar Theme=function(a,b){this._bodyElement=a;this._cssString=b};Theme.prototype.apply=function(){this._bodyElement.style.cssText=this._cssString};Theme.getTheme=function(a,b){return new Theme(b,THEMES[a])};$jscomp.global.Object.defineProperties(Theme.prototype,{css:{configurable:!0,enumerable:!0,get:function(){return this._cssString}}});\n</script>\n<script type=\"text/javascript\">start(new CardData(`{{known}}`, `{{learned}}`, `{{Tags}}`));</script>{{/include recognition}}"
                 },
                 {
                     "afmt": "<div id=\"frontOnBack\">{{FrontSide}}</div>\n<span id=\"learnedLanguage\" class=\"language\"></span>\n<span id=\"learnedAnswer\" class=\"learned\">{{learned}}</span>\n\n{{#example}}<div id=\"icon_microscope\"/>{{example}}{{/example}}\n{{#mnemonic}}<div id=\"icon_mnemonic\"/>{{mnemonic}}{{/mnemonic}}\n{{#usage note}}<div id=\"icon_head_IO\"></div>{{usage note}}{{/usage note}}",
@@ -199,7 +200,7 @@
                     "did": null,
                     "name": "ProductionFromImage",
                     "ord": 2,
-                    "qfmt": "{{#image}}{{image}}\n<span id=\"learned\" class=\"hidden\">{{learned}}</span>\n\n        <div id=\"badges_table\">\n            <span id=\"requestedLanguagePrompt\" class=\"language only-front\"></span>\n            <div id=\"badge_indication_expression\"></div>\n            <div id=\"badge_indication_colloquial\"></div>\n            <div id=\"badge_indication_use_subjunctive\"></div>\n            <div id=\"badge_indication_2_pieces\"></div>\n            <div id=\"badge_indication_3_pieces\"></div>\n            <div id=\"badge_indication_4_pieces\" class=\"badge_indication_3_plus_pieces\"></div>\n            <div id=\"badge_indication_5_pieces\" class=\"badge_indication_3_plus_pieces\"></div>\n            <div id=\"badge_indication_2_genders\"></div>\n            <div id=\"badge_indication_singular_plural\"></div>\n            <div id=\"badge_indication_literary\"></div>\n            <div id=\"badge_indication_gerund\" class=\"badge_indication_gerund\"></div>\n            <div id=\"badge_clarification_gerund\" class=\"badge_indication_gerund\"></div>\n            <div id=\"badge_clarification_adjective\"></div>\n            <div id=\"badge_clarification_adverb\"></div>\n            <div id=\"badge_clarification_verb\"></div>\n            <div id=\"badge_clarification_number\"></div>\n            <div id=\"badge_clarification_formal\"></div>\n            <div id=\"badge_clarification_informal\"></div>\n            <div id=\"badge_clarification_expression\"></div>\n            <div id=\"badge_verified\"></div>\n        </div>\n\n<script type=\"text/javascript\">\nvar $jscomp=$jscomp||{};$jscomp.scope={};$jscomp.getGlobal=function(a){return\"undefined\"!=typeof window&&window===a?a:\"undefined\"!=typeof global&&null!=global?global:a};$jscomp.global=$jscomp.getGlobal(this);$jscomp.findInternal=function(a,b,c){a instanceof String&&(a=String(a));for(var d=a.length,e=0;e<d;e++){var f=a[e];if(b.call(c,f,e,a))return{i:e,v:f}}return{i:-1,v:void 0}};$jscomp.ASSUME_ES5=!1;$jscomp.ASSUME_NO_NATIVE_MAP=!1;$jscomp.ASSUME_NO_NATIVE_SET=!1;\n$jscomp.defineProperty=$jscomp.ASSUME_ES5||\"function\"==typeof Object.defineProperties?Object.defineProperty:function(a,b,c){a!=Array.prototype&&a!=Object.prototype&&(a[b]=c.value)};$jscomp.polyfill=function(a,b,c,d){if(b){c=$jscomp.global;a=a.split(\".\");for(d=0;d<a.length-1;d++){var e=a[d];e in c||(c[e]={});c=c[e]}a=a[a.length-1];d=c[a];b=b(d);b!=d&&null!=b&&$jscomp.defineProperty(c,a,{configurable:!0,writable:!0,value:b})}};\n$jscomp.polyfill(\"Array.prototype.find\",function(a){return a?a:function(a,c){return $jscomp.findInternal(this,a,c).v}},\"es6\",\"es3\");setUpErrorHandling();function start(a){document.body.onload=function(){processCard(a)};doPolyFills()}window.start=start;function showEntireCard(){getCardElement().style.display=\"block\"}\nvar _5_YEARS_IN_DAYS=1825,FRONT_WRAPPER_ID=\"frontOnBack\",LANGUAGE_INFO_PREFIX=\"language_\",KNOWN_LANGUAGE_SPAN_ID=\"knownLanguage\",LEARNED_LANGUAGE_SPAN_ID=\"learnedLanguage\",REQUESTED_LANGUAGE_PROMPT_SPAN_ID=\"requestedLanguagePrompt\",DISPLAY_BADGE_PROP=\"--display-badge\",CONTEXT_REGEXP=/(\\[.+\\])/g,CONTEXT_HTML_WRAPPER='<span id=\"generatedContext\" class=\"hidden\">$1</span><a href=\"#\" id=\"contextLink\" data-long-press-delay=\"650\" onclick=\"function whenclicked(event) {event.stopImmediatePropagation(); event.preventDefault(); return false}\">(\\ud83d\\udc41)</a><script language=\"JavaScript\">\\x3c/script>';\nfunction listen(){getElement(\"contextLink\").addEventListener(\"long-press\",showContext)}function showContext(a){a.preventDefault();toggleVisible(getElement(\"generatedContext\"),!0);toggleVisible(getElement(\"contextLink\"),!1)}\nvar DEFAULT_BADGE_VISIBLE_DISPLAY=\"inline\",DISPLAY_NONE=\"none\",BOOLEAN_TO_VISIBILITY_CLASS={true:\"block\",false:\"hidden\"},NUM_PIECES_TAG_SUFFIX=\"_pieces\",TAG_2_GENDERS=\"indication_2_genders\",TAG_SINGULAR_PLURAL=\"indication_singular_plural\",COOKIE_LONG_TERM_LANGUAGE_STATS=\"longTermLanguages\",COOKIE_DETECT_LANGUAGE_CHANGE=\"languageStats\";function processCard(a){compose(renderContext,recordCurrentLanguageCombination,showBadges,renderLanguagePrompts,themeCard,initCookies)(new Card(a))}\nfunction initCookies(a){a.isFrontSide&&(Cookies.get(COOKIE_DETECT_LANGUAGE_CHANGE)||Cookies.set(COOKIE_DETECT_LANGUAGE_CHANGE,{previousLanguageTag:\"\",languageCombinationJustChanged:!1},{expires:.5}),Cookies.get(COOKIE_LONG_TERM_LANGUAGE_STATS)||Cookies.set(COOKIE_LONG_TERM_LANGUAGE_STATS,{languageCombinations:\"\"},{expires:_5_YEARS_IN_DAYS}));return a}\nfunction showBadges(a){a.tags.forEach(function(b){b=new Tag(b);var c=getElement(\"badge_\"+b.nameWithoutModifiers);c&&getStyleProperty(c,DISPLAY_BADGE_PROP)!==DEFAULT_BADGE_VISIBLE_DISPLAY&&c.style.setProperty(DISPLAY_BADGE_PROP,b.isAboutBoth?DEFAULT_BADGE_VISIBLE_DISPLAY:a.isAKnownLearnedCard===b.shouldBeShownWithKnown?DEFAULT_BADGE_VISIBLE_DISPLAY:DISPLAY_NONE)});return a}\nfunction renderLanguagePrompts(a){(function(a){a.knownLanguage&&a.learnedLanguage&&(setInnerHTML(LEARNED_LANGUAGE_SPAN_ID,\"(\"+a.learnedLanguage+\")\"),setInnerHTML(REQUESTED_LANGUAGE_PROMPT_SPAN_ID,\"(\"+(a.isAKnownLearnedSide?a.learnedLanguage:a.knownLanguage)+\":)\"),setInnerHTML(KNOWN_LANGUAGE_SPAN_ID,\"(\"+a.knownLanguage+\")\"))})(a);(function(a){var b=!1,d=Cookies.getJSON(COOKIE_DETECT_LANGUAGE_CHANGE);d&&(b=(a=d.previousLanguageTag!==a)||d.languageCombinationJustChanged,d.languageCombinationJustChanged=\na,Cookies.set(COOKIE_DETECT_LANGUAGE_CHANGE,d,{expires:.5}));return b})(a.languageCombination)&&getElement(REQUESTED_LANGUAGE_PROMPT_SPAN_ID).style.setProperty(\"color\",\"var(--highlighted-language-prompt-color)\");return a}\nfunction recordCurrentLanguageCombination(a){var b=Cookies.getJSON(COOKIE_DETECT_LANGUAGE_CHANGE);b&&(b.previousLanguageTag=a.languageCombination,Cookies.set(COOKIE_DETECT_LANGUAGE_CHANGE,b,{expires:.5}));if(b=Cookies.getJSON(COOKIE_LONG_TERM_LANGUAGE_STATS))-1===b.languageCombinations.indexOf(a.languageCombination)&&(b.languageCombinations+=(b.languageCombinations?\",\":\"\")+a.languageCombination),Cookies.set(COOKIE_LONG_TERM_LANGUAGE_STATS,b,{expires:_5_YEARS_IN_DAYS});return a}\nfunction insertContextInString(a){return a.replace(CONTEXT_REGEXP,CONTEXT_HTML_WRAPPER)}function renderContext(a){-1!=a.given.search(CONTEXT_REGEXP)&&(setInnerHTML(a.givenID,insertContextInString(a.given)),listen());return a}\nfunction themeCard(a){Theme.getTheme(function(a){return-1>=a?0:a}(function(a){var b=Cookies.getJSON(COOKIE_LONG_TERM_LANGUAGE_STATS);return b?b.languageCombinations.split(\",\").indexOf(a):-1}(a.languageCombination)),document.body).apply();loadCSS(\"_lung_\"+a.languageCombination+\".css\");return a}\nfunction toggleVisible(a,b,c){void 0===b&&(b=\"none\"===a.style.display||a.classList.contains(BOOLEAN_TO_VISIBILITY_CLASS[!1]));void 0===c&&(c=BOOLEAN_TO_VISIBILITY_CLASS[b]);a.classList.remove(BOOLEAN_TO_VISIBILITY_CLASS[!b]);a.classList.add(c)}function addClass(a,b){a&&a.classList.add(b)}function getStyleProperty(a,b){return window.getComputedStyle(a).getPropertyValue(b)}function setInnerHTML(a,b){if(a=getElement(a))a.innerHTML=b}function getInnerText(a){return(a=getElement(a))?a.innerText:\"\"}\nfunction getCardElement(){return getFirstElementOfClass(\"card\")}function getElement(a){return document.getElementById(a)}function getElementsOf(a){return document.getElementsByTagName(a)}function getFirstElementOfClass(a){return document.getElementsByClassName(a).item(0)}var debugStatic=function(a){void 0===debugElement&&(debugElement=getElement(\"debugElement\"));debugElement.innerText=a},debugElement=void 0;function debug(a){appendText(a);appendNewLine()}\nfunction appendText(a){document.body.appendChild(document.createTextNode(a))}function appendNewLine(){document.body.appendChild(document.createElement(\"BR\"))}function loadCSS(a){var b=createStyleLinkElement();b.href=a;b.onload=requestAnimationFrame(showEntireCard);b.onerror=requestAnimationFrame(showEntireCard);getCardElement().appendChild(b)}function createStyleLinkElement(){var a=document.createElement(\"link\");a.type=\"text/css\";a.rel=\"stylesheet\";a.media=\"all\";return a}\nfunction setUpErrorHandling(){function a(a,c){return function(){c.apply(a,arguments);debug(Array.prototype.join.apply(arguments))}}console.warn=a(console,console.warn);console.exception=a(console,console.exception);window.onerror=function(a,c,d,e,f){debug(\"ERROR: \"+a+\" at line \"+d+\" in script \"+c);return!1}}function compose(a){for(var b=0;b<arguments.length;++b);var c=arguments;return function(a){for(var b=c.length-1;-1<b;b--)a=c[b].call(this,a);return a}}\nfunction doPolyFills(){Array.prototype.find||Object.defineProperty(Array.prototype,\"find\",{value:function(a,b){if(null==this)throw new TypeError('\"this\" is null or not defined');var c=Object(this),d=c.length>>>0;if(\"function\"!==typeof a)throw new TypeError(\"predicate must be a function\");for(var e=0;e<d;){var f=c[e];if(a.call(b,f,e,c))return f;e++}}});Array.prototype.intersect||Object.defineProperties(Array.prototype,{intersect:{writable:!1,value:function(a){if(!Array.isArray(a))throw new TypeError(\"argument must be an array\");\nreturn this.concat().filter(function(b){return-1!==a.indexOf(b)})}}});window.requestAnimFrame=function(){return window.requestAnimationFrame||window.webkitRequestAnimationFrame||window.mozRequestAnimationFrame||window.oRequestAnimationFrame||window.msRequestAnimationFrame||function(a){window.setTimeout(a,1E3/60)}}()};/*\n JavaScript Cookie v2.2.0\n https://github.com/js-cookie/js-cookie\n\n Copyright 2006, 2015 Klaus Hartl & Fagner Brack\n Released under the MIT license\n*/\n(function(a){var b=!1;\"function\"===typeof define&&define.amd&&(define(a),b=!0);\"object\"===typeof exports&&(b=!0);if(!b){var c=window.Cookies,d=window.Cookies=a();d.noConflict=function(){window.Cookies=c;return d}}})(function(){function a(a){for(var b=0,c={};b<arguments.length;b++){var f=arguments[b],g;for(g in f)c[g]=f[g]}return c}function b(c){function d(b,f,g){if(\"undefined\"!==typeof document){if(1<arguments.length){g=a({path:\"/\"},d.defaults,g);if(\"number\"===typeof g.expires){var e=new Date;e.setMilliseconds(e.getMilliseconds()+\n864E5*g.expires);g.expires=e}g.expires=g.expires?g.expires.toUTCString():\"\";try{var k=JSON.stringify(f);/^[\\{\\[]/.test(k)&&(f=k)}catch(n){}f=c.write?c.write(f,b):encodeURIComponent(String(f)).replace(/%(23|24|26|2B|3A|3C|3E|3D|2F|3F|40|5B|5D|5E|60|7B|7D|7C)/g,decodeURIComponent);b=encodeURIComponent(String(b));b=b.replace(/%(23|24|26|2B|5E|60|7C)/g,decodeURIComponent);b=b.replace(/[\\(\\)]/g,escape);k=\"\";for(var l in g)g[l]&&(k+=\"; \"+l,!0!==g[l]&&(k+=\"=\"+g[l]));return document.cookie=b+\"=\"+f+k}b||(k=\n{});l=document.cookie?document.cookie.split(\"; \"):[];for(var p=/(%[0-9A-Z]{2})+/g,m=0;m<l.length;m++){var q=l[m].split(\"=\"),h=q.slice(1).join(\"=\");this.json||'\"'!==h.charAt(0)||(h=h.slice(1,-1));try{e=q[0].replace(p,decodeURIComponent);h=c.read?c.read(h,e):c(h,e)||h.replace(p,decodeURIComponent);if(this.json)try{h=JSON.parse(h)}catch(n){}if(b===e){k=h;break}b||(k[e]=h)}catch(n){}}return k}}d.set=d;d.get=function(a){return d.call(d,a)};d.getJSON=function(){return d.apply({json:!0},[].slice.call(arguments))};\nd.defaults={};d.remove=function(b,c){d(b,\"\",a(c,{expires:-1}))};d.withConverter=b;return d}return b(function(){})});/*\n long-press-event.js\n Pure JavaScript long-press-event\n https://github.com/john-doherty/long-press-event\n @author John Doherty <www.johndoherty.info>\n @license MIT\n*/\n(function(a,b){function c(){this.dispatchEvent(new CustomEvent(\"long-press\",{bubbles:!0,cancelable:!0}));clearTimeout(d);console&&console.log&&console.log(\"long-press event fired on \"+this.outerHTML)}var d=null,e=\"ontouchstart\"in a||0<navigator.maxTouchPoints||0<navigator.msMaxTouchPoints,f=e?\"touchcancel\":\"mouseout\",g=e?\"touchend\":\"mouseup\",r=e?\"touchmove\":\"mousemove\";\"function\"!==typeof a.CustomEvent&&(a.CustomEvent=function(a,c){c=c||{bubbles:!1,cancelable:!1,detail:void 0};var d=b.createEvent(\"CustomEvent\");\nd.initCustomEvent(a,c.bubbles,c.cancelable,c.detail);return d},a.CustomEvent.prototype=a.Event.prototype);b.addEventListener(e?\"touchstart\":\"mousedown\",function(a){a=a.target;var b=parseInt(a.getAttribute(\"data-long-press-delay\")||\"1500\",10);d=setTimeout(c.bind(a),b)});b.addEventListener(g,function(){clearTimeout(d)});b.addEventListener(f,function(){clearTimeout(d)});b.addEventListener(r,function(){clearTimeout(d)});b.addEventListener(\"mousewheel\",function(){clearTimeout(d)});b.addEventListener(\"wheel\",\nfunction(){clearTimeout(d)});b.addEventListener(\"scroll\",function(){clearTimeout(d)})})(window,document);var ID_LEARNED=\"learned\",ID_KNOWN=\"known\",TAG_MOD_ABOUT_LEARNED=\"_learned\",TAG_MOD_ABOUT_KNOWN=\"_known\",CLARIFICATION_PREFIX=\"clarification\",INDICATION_PREFIX=\"indication\",NUM_PIECES_TAG_PREFIX=INDICATION_PREFIX+\"_\",THEMES=[\"--highlighted-language-prompt-color: #fa5c32;\\n     --main-theme-color: #ff4a4a;\\n     --secondary-theme-color: rgba(213, 95, 93, 0.5);\",\"--highlighted-language-prompt-color: #fa5c32;\\n     --main-theme-color: #62cb20;\\n     --secondary-theme-color: rgba(109, 213, 166, 0.5);\",\n\"--highlighted-language-prompt-color: #fa5c32;\\n     --main-theme-color: #4ebecb;\\n     --secondary-theme-color: rgba(94, 176, 237, 0.5);\",\"--highlighted-language-prompt-color: #fa5c32;\\n     --main-theme-color: #cb706d;\\n     --secondary-theme-color: rgba(237, 58, 17, 0.5);\"],Tag=function(a){this.name=a;this.nameWithoutLearnedAndKnownModifiers=\"\";this.isBadgeAboutKnown=this.isTagAboutLearned=!1;this.processName()};\nTag.prototype.processName=function(){var a=this.name,b=this.name.replace(new RegExp(TAG_MOD_ABOUT_LEARNED+\"$\"),\"\");this.isTagAboutLearned=b!==a;this.nameWithoutLearnedAndKnownModifiers=b.replace(new RegExp(TAG_MOD_ABOUT_KNOWN+\"$\"),\"\");this.isBadgeAboutKnown=this.nameWithoutLearnedAndKnownModifiers!==b};\n$jscomp.global.Object.defineProperties(Tag.prototype,{nameWithoutModifiers:{configurable:!0,enumerable:!0,get:function(){return this.nameWithoutLearnedAndKnownModifiers}},isClarification:{configurable:!0,enumerable:!0,get:function(){return 0===this.nameWithoutModifiers.indexOf(CLARIFICATION_PREFIX)}},isIndication:{configurable:!0,enumerable:!0,get:function(){return 0===this.nameWithoutModifiers.indexOf(INDICATION_PREFIX)}},isAboutLearned:{configurable:!0,enumerable:!0,get:function(){return this.isTagAboutLearned}},\nisAboutKnown:{configurable:!0,enumerable:!0,get:function(){return this.isBadgeAboutKnown}},isAboutBoth:{configurable:!0,enumerable:!0,get:function(){return this.isAboutLearned===this.isAboutKnown}},shouldBeShownWithKnown:{configurable:!0,enumerable:!0,get:function(){return this.isAboutBoth||this.isIndication&&this.isAboutLearned||this.isClarification&&this.isAboutKnown}}});\nvar Card=function(a){this.isAKnownLearnedSide=getElement(ID_LEARNED).classList.contains(\"hidden\");this.isFront=null===getElement(FRONT_WRAPPER_ID);this._cardData=a;this._languageCombination=this._learnedLanguage=this._knownLanguage=\"\";this.tags=this._originalTags=null;this.processData()};Card.toTagsArray=function(a){return(a?a:\"\").split(\" \").filter(function(a){return 0<a.length})};\nCard.prototype.processData=function(){this._originalTags=Card.toTagsArray(this._cardData.tags);this.tags=this.addComputedTags(this._originalTags,this._cardData);var a=function(a){a=a?a.substr(LANGUAGE_INFO_PREFIX.length):\"\";var b=a.indexOf(\"-\"),d={};d.knownLanguage=a.substring(0,b);d.learnedLanguage=a.substring(b+1);return d}(function(a){return a.find(function(a){return 0===a.indexOf(LANGUAGE_INFO_PREFIX)})}(this.tags));this._knownLanguage=a.knownLanguage;this._learnedLanguage=a.learnedLanguage;this._languageCombination=\nthis._knownLanguage+\"-\"+this._learnedLanguage};\nCard.prototype.addComputedTags=function(a,b){return a.concat(function(a){function c(a,c){function d(b){return b.indexOf(a)===b.length-a.length||-1===b.indexOf(a===TAG_MOD_ABOUT_KNOWN?TAG_MOD_ABOUT_LEARNED:TAG_MOD_ABOUT_KNOWN)}function e(a){return-1!==a.indexOf(\"_piece\")}var f=(a===TAG_MOD_ABOUT_KNOWN?b.known:b.learned).replace(/<br\\s*\\/?>/ig,\"\\n\").split(/[\\n,]/).filter(function(a){return 0<a.length}).length,l=0<c.intersect([TAG_2_GENDERS].concat(a.length?[TAG_2_GENDERS+a]:[])).length?2:1;l*=0<c.intersect([TAG_SINGULAR_PLURAL].concat(a.length?\n[TAG_SINGULAR_PLURAL+a]:[])).length?2:1;return function(b,c,d){return!c&&f>d?(b=f,5<b&&(b=\"5_plus\"),NUM_PIECES_TAG_PREFIX+b+NUM_PIECES_TAG_SUFFIX+a):\"\"}(f,function(a){a=a.filter(e).filter(d);a.length?(a=a[0].substr(NUM_PIECES_TAG_PREFIX.length),a=a.substr(0,a.indexOf(\"_\"))):a=0;return a}(c),l)}return[c(TAG_MOD_ABOUT_KNOWN,a),c(TAG_MOD_ABOUT_LEARNED,a)].filter(function(a){return a.length})}(a))};\n$jscomp.global.Object.defineProperties(Card.prototype,{isAKnownLearnedCard:{configurable:!0,enumerable:!0,get:function(){return this.isAKnownLearnedSide}},isFrontSide:{configurable:!0,enumerable:!0,get:function(){return this.isFront}},knownLanguage:{configurable:!0,enumerable:!0,get:function(){return this._knownLanguage}},learnedLanguage:{configurable:!0,enumerable:!0,get:function(){return this._learnedLanguage}},languageCombination:{configurable:!0,enumerable:!0,get:function(){return this._languageCombination}},\noriginalTags:{configurable:!0,enumerable:!0,get:function(){return this._originalTags}},known:{configurable:!0,enumerable:!0,get:function(){return this._cardData.known}},learned:{configurable:!0,enumerable:!0,get:function(){return this._cardData.learned}},given:{configurable:!0,enumerable:!0,get:function(){return this.isAKnownLearnedCard?this.known:this.learned}},givenID:{configurable:!0,enumerable:!0,get:function(){return this.isAKnownLearnedCard?ID_KNOWN:ID_LEARNED}}});\nvar CardData=function(a,b,c){this.known=a;this.learned=b;this.tags=c};window.CardData=CardData;var Theme=function(a,b){this._bodyElement=a;this._cssString=b};Theme.prototype.apply=function(){this._bodyElement.style.cssText=this._cssString};Theme.getTheme=function(a,b){return new Theme(b,THEMES[a])};$jscomp.global.Object.defineProperties(Theme.prototype,{css:{configurable:!0,enumerable:!0,get:function(){return this._cssString}}});\n</script>\n<script type=\"text/javascript\">\nstart({known:`{{known}}`, learned:`{{learned}}`, contextForKnown:``, contextForLearned:``, example:`{{example}}`, usageNote:`{{usage note}}`, mnemonic:`{{mnemonic}}`, tags:`{{Tags}}`});\n</script>\n{{/image}}"
+                    "qfmt": "{{#image}}{{image}}\n<span id=\"learned\" class=\"hidden\">{{learned}}</span>\n\n        <div id=\"badges_table\">\n            <span id=\"requestedLanguagePrompt\" class=\"language only-front\"></span>\n            <div id=\"badge_indication_expression\"></div>\n            <div id=\"badge_indication_colloquial\"></div>\n            <div id=\"badge_indication_use_subjunctive\"></div>\n            <div id=\"badge_indication_2_pieces\"></div>\n            <div id=\"badge_indication_3_pieces\"></div>\n            <div id=\"badge_indication_4_pieces\" class=\"badge_indication_3_plus_pieces\"></div>\n            <div id=\"badge_indication_5_pieces\" class=\"badge_indication_3_plus_pieces\"></div>\n            <div id=\"badge_indication_2_genders\"></div>\n            <div id=\"badge_indication_singular_plural\"></div>\n            <div id=\"badge_indication_literary\"></div>\n            <div id=\"badge_indication_gerund\" class=\"badge_indication_gerund\"></div>\n            <div id=\"badge_clarification_gerund\" class=\"badge_indication_gerund\"></div>\n            <div id=\"badge_clarification_adjective\"></div>\n            <div id=\"badge_clarification_adverb\"></div>\n            <div id=\"badge_clarification_verb\"></div>\n            <div id=\"badge_clarification_number\"></div>\n            <div id=\"badge_clarification_formal\"></div>\n            <div id=\"badge_clarification_informal\"></div>\n            <div id=\"badge_clarification_expression\"></div>\n            <div id=\"badge_verified\"></div>\n        </div>\n\n<script type=\"text/javascript\">\nvar $jscomp=$jscomp||{};$jscomp.scope={};$jscomp.getGlobal=function(a){return\"undefined\"!=typeof window&&window===a?a:\"undefined\"!=typeof global&&null!=global?global:a};$jscomp.global=$jscomp.getGlobal(this);$jscomp.findInternal=function(a,b,c){a instanceof String&&(a=String(a));for(var d=a.length,e=0;e<d;e++){var f=a[e];if(b.call(c,f,e,a))return{i:e,v:f}}return{i:-1,v:void 0}};$jscomp.ASSUME_ES5=!1;$jscomp.ASSUME_NO_NATIVE_MAP=!1;$jscomp.ASSUME_NO_NATIVE_SET=!1;\n$jscomp.defineProperty=$jscomp.ASSUME_ES5||\"function\"==typeof Object.defineProperties?Object.defineProperty:function(a,b,c){a!=Array.prototype&&a!=Object.prototype&&(a[b]=c.value)};$jscomp.polyfill=function(a,b,c,d){if(b){c=$jscomp.global;a=a.split(\".\");for(d=0;d<a.length-1;d++){var e=a[d];e in c||(c[e]={});c=c[e]}a=a[a.length-1];d=c[a];b=b(d);b!=d&&null!=b&&$jscomp.defineProperty(c,a,{configurable:!0,writable:!0,value:b})}};\n$jscomp.polyfill(\"Array.prototype.find\",function(a){return a?a:function(a,c){return $jscomp.findInternal(this,a,c).v}},\"es6\",\"es3\");setUpErrorHandling();function start(a){document.body.onload=function(){processCard(a)};doPolyFills()}window.start=start;function showEntireCard(){getCardElement().style.display=\"block\"}\nvar _5_YEARS_IN_DAYS=1825,FRONT_WRAPPER_ID=\"frontOnBack\",LANGUAGE_INFO_PREFIX=\"language_\",KNOWN_LANGUAGE_SPAN_ID=\"knownLanguage\",LEARNED_LANGUAGE_SPAN_ID=\"learnedLanguage\",REQUESTED_LANGUAGE_PROMPT_SPAN_ID=\"requestedLanguagePrompt\",DISPLAY_BADGE_PROP=\"--display-badge\",CONTEXT_HTML_WRAPPER='<span id=\"generatedContext\" class=\"hidden\">$1</span><a href=\"#\" id=\"contextLink\" data-long-press-delay=\"650\" onclick=\"function whenclicked(event) {event.stopImmediatePropagation(); event.preventDefault(); return false}\">(\\ud83d\\udc41)</a><script language=\"JavaScript\">\\x3c/script>';\nfunction listen(){getElement(\"contextLink\").addEventListener(\"long-press\",showContext)}function showContext(a){a.preventDefault();toggleVisible(getElement(\"generatedContext\"),!0);toggleVisible(getElement(\"contextLink\"),!1)}\nvar DEFAULT_BADGE_VISIBLE_DISPLAY=\"inline\",DISPLAY_NONE=\"none\",BOOLEAN_TO_VISIBILITY_CLASS={true:\"block\",false:\"hidden\"},NUM_PIECES_TAG_SUFFIX=\"_pieces\",TAG_2_GENDERS=\"indication_2_genders\",TAG_SINGULAR_PLURAL=\"indication_singular_plural\",COOKIE_LONG_TERM_LANGUAGE_STATS=\"longTermLanguages\",COOKIE_DETECT_LANGUAGE_CHANGE=\"languageStats\";function processCard(a){compose(renderContext,recordCurrentLanguageCombination,showBadges,renderLanguagePrompts,themeCard,initCookies)(new Card(a))}\nfunction initCookies(a){a.isFrontSide&&(Cookies.get(COOKIE_DETECT_LANGUAGE_CHANGE)||Cookies.set(COOKIE_DETECT_LANGUAGE_CHANGE,{previousLanguageTag:\"\",languageCombinationJustChanged:!1},{expires:.5}),Cookies.get(COOKIE_LONG_TERM_LANGUAGE_STATS)||Cookies.set(COOKIE_LONG_TERM_LANGUAGE_STATS,{languageCombinations:\"\"},{expires:_5_YEARS_IN_DAYS}));return a}\nfunction showBadges(a){a.tags.forEach(function(b){b=new Tag(b);var c=getElement(\"badge_\"+b.nameWithoutModifiers);c&&getStyleProperty(c,DISPLAY_BADGE_PROP)!==DEFAULT_BADGE_VISIBLE_DISPLAY&&c.style.setProperty(DISPLAY_BADGE_PROP,b.isAboutBoth?DEFAULT_BADGE_VISIBLE_DISPLAY:a.isAKnownLearnedCard===b.shouldBeShownWithKnown?DEFAULT_BADGE_VISIBLE_DISPLAY:DISPLAY_NONE)});return a}\nfunction renderLanguagePrompts(a){(function(a){a.knownLanguage&&a.learnedLanguage&&(setInnerHTML(LEARNED_LANGUAGE_SPAN_ID,\"(\"+a.learnedLanguage+\")\"),setInnerHTML(REQUESTED_LANGUAGE_PROMPT_SPAN_ID,\"(\"+(a.isAKnownLearnedSide?a.learnedLanguage:a.knownLanguage)+\":)\"),setInnerHTML(KNOWN_LANGUAGE_SPAN_ID,\"(\"+a.knownLanguage+\")\"))})(a);(function(a){var b=!1,d=Cookies.getJSON(COOKIE_DETECT_LANGUAGE_CHANGE);d&&(b=(a=d.previousLanguageTag!==a)||d.languageCombinationJustChanged,d.languageCombinationJustChanged=\na,Cookies.set(COOKIE_DETECT_LANGUAGE_CHANGE,d,{expires:.5}));return b})(a.languageCombination)&&getElement(REQUESTED_LANGUAGE_PROMPT_SPAN_ID).style.setProperty(\"color\",\"var(--highlighted-language-prompt-color)\");return a}\nfunction recordCurrentLanguageCombination(a){var b=Cookies.getJSON(COOKIE_DETECT_LANGUAGE_CHANGE);b&&(b.previousLanguageTag=a.languageCombination,Cookies.set(COOKIE_DETECT_LANGUAGE_CHANGE,b,{expires:.5}));if(b=Cookies.getJSON(COOKIE_LONG_TERM_LANGUAGE_STATS))-1===b.languageCombinations.indexOf(a.languageCombination)&&(b.languageCombinations+=(b.languageCombinations?\",\":\"\")+a.languageCombination),Cookies.set(COOKIE_LONG_TERM_LANGUAGE_STATS,b,{expires:_5_YEARS_IN_DAYS});return a}\nfunction insertContextInString(a){return a.replace(CONTEXT_REGEXP,CONTEXT_HTML_WRAPPER)}function renderContext(a){-1!=a.given.search(CONTEXT_REGEXP)&&(setInnerHTML(a.givenID,insertContextInString(a.given)),listen());return a}\nfunction themeCard(a){Theme.getTheme(function(a){return-1>=a?0:a}(function(a){var b=Cookies.getJSON(COOKIE_LONG_TERM_LANGUAGE_STATS);return b?b.languageCombinations.split(\",\").indexOf(a):-1}(a.languageCombination)),document.body).apply();loadCSS(\"_lung_\"+a.languageCombination+\".css\");return a}\nfunction toggleVisible(a,b,c){void 0===b&&(b=\"none\"===a.style.display||a.classList.contains(BOOLEAN_TO_VISIBILITY_CLASS[!1]));void 0===c&&(c=BOOLEAN_TO_VISIBILITY_CLASS[b]);a.classList.remove(BOOLEAN_TO_VISIBILITY_CLASS[!b]);a.classList.add(c)}function addClass(a,b){a&&a.classList.add(b)}function getStyleProperty(a,b){return window.getComputedStyle(a).getPropertyValue(b)}function setInnerHTML(a,b){if(a=getElement(a))a.innerHTML=b}function getInnerText(a){return(a=getElement(a))?a.innerText:\"\"}\nfunction getCardElement(){return getFirstElementOfClass(\"card\")}function getElement(a){return document.getElementById(a)}function getElementsOf(a){return document.getElementsByTagName(a)}function getFirstElementOfClass(a){return document.getElementsByClassName(a).item(0)}var debugStatic=function(a){void 0===debugElement&&(debugElement=getElement(\"debugElement\"));debugElement.innerText=a},debugElement=void 0;function debug(a){appendText(a);appendNewLine()}\nfunction appendText(a){document.body.appendChild(document.createTextNode(a))}function appendNewLine(){document.body.appendChild(document.createElement(\"BR\"))}function loadCSS(a){var b=createStyleLinkElement();b.href=a;b.onload=requestAnimationFrame(showEntireCard);b.onerror=requestAnimationFrame(showEntireCard);getCardElement().appendChild(b)}function createStyleLinkElement(){var a=document.createElement(\"link\");a.type=\"text/css\";a.rel=\"stylesheet\";a.media=\"all\";return a}\nfunction setUpErrorHandling(){function a(a,c){return function(){c.apply(a,arguments);debug(Array.prototype.join.apply(arguments))}}console.warn=a(console,console.warn);console.exception=a(console,console.exception);window.onerror=function(a,c,d,e,f){debug(\"ERROR: \"+a+\" at line \"+d+\" in script \"+c);return!1}}function compose(a){for(var b=0;b<arguments.length;++b);var c=arguments;return function(a){for(var b=c.length-1;-1<b;b--)a=c[b].call(this,a);return a}}\nfunction doPolyFills(){Array.prototype.find||Object.defineProperty(Array.prototype,\"find\",{value:function(a,b){if(null==this)throw new TypeError('\"this\" is null or not defined');var c=Object(this),d=c.length>>>0;if(\"function\"!==typeof a)throw new TypeError(\"predicate must be a function\");for(var e=0;e<d;){var f=c[e];if(a.call(b,f,e,c))return f;e++}}});Array.prototype.intersect||Object.defineProperties(Array.prototype,{intersect:{writable:!1,value:function(a){if(!Array.isArray(a))throw new TypeError(\"argument must be an array\");\nreturn this.concat().filter(function(b){return-1!==a.indexOf(b)})}}});window.requestAnimFrame=function(){return window.requestAnimationFrame||window.webkitRequestAnimationFrame||window.mozRequestAnimationFrame||window.oRequestAnimationFrame||window.msRequestAnimationFrame||function(a){window.setTimeout(a,1E3/60)}}()};/*\n JavaScript Cookie v2.2.0\n https://github.com/js-cookie/js-cookie\n\n Copyright 2006, 2015 Klaus Hartl & Fagner Brack\n Released under the MIT license\n*/\n(function(a){var b=!1;\"function\"===typeof define&&define.amd&&(define(a),b=!0);\"object\"===typeof exports&&(b=!0);if(!b){var c=window.Cookies,d=window.Cookies=a();d.noConflict=function(){window.Cookies=c;return d}}})(function(){function a(a){for(var b=0,c={};b<arguments.length;b++){var f=arguments[b],g;for(g in f)c[g]=f[g]}return c}function b(c){function d(b,f,g){if(\"undefined\"!==typeof document){if(1<arguments.length){g=a({path:\"/\"},d.defaults,g);if(\"number\"===typeof g.expires){var e=new Date;e.setMilliseconds(e.getMilliseconds()+\n864E5*g.expires);g.expires=e}g.expires=g.expires?g.expires.toUTCString():\"\";try{var k=JSON.stringify(f);/^[\\{\\[]/.test(k)&&(f=k)}catch(n){}f=c.write?c.write(f,b):encodeURIComponent(String(f)).replace(/%(23|24|26|2B|3A|3C|3E|3D|2F|3F|40|5B|5D|5E|60|7B|7D|7C)/g,decodeURIComponent);b=encodeURIComponent(String(b));b=b.replace(/%(23|24|26|2B|5E|60|7C)/g,decodeURIComponent);b=b.replace(/[\\(\\)]/g,escape);k=\"\";for(var l in g)g[l]&&(k+=\"; \"+l,!0!==g[l]&&(k+=\"=\"+g[l]));return document.cookie=b+\"=\"+f+k}b||(k=\n{});l=document.cookie?document.cookie.split(\"; \"):[];for(var p=/(%[0-9A-Z]{2})+/g,m=0;m<l.length;m++){var q=l[m].split(\"=\"),h=q.slice(1).join(\"=\");this.json||'\"'!==h.charAt(0)||(h=h.slice(1,-1));try{e=q[0].replace(p,decodeURIComponent);h=c.read?c.read(h,e):c(h,e)||h.replace(p,decodeURIComponent);if(this.json)try{h=JSON.parse(h)}catch(n){}if(b===e){k=h;break}b||(k[e]=h)}catch(n){}}return k}}d.set=d;d.get=function(a){return d.call(d,a)};d.getJSON=function(){return d.apply({json:!0},[].slice.call(arguments))};\nd.defaults={};d.remove=function(b,c){d(b,\"\",a(c,{expires:-1}))};d.withConverter=b;return d}return b(function(){})});/*\n long-press-event.js\n Pure JavaScript long-press-event\n https://github.com/john-doherty/long-press-event\n @author John Doherty <www.johndoherty.info>\n @license MIT\n*/\n(function(a,b){function c(){this.dispatchEvent(new CustomEvent(\"long-press\",{bubbles:!0,cancelable:!0}));clearTimeout(d);console&&console.log&&console.log(\"long-press event fired on \"+this.outerHTML)}var d=null,e=\"ontouchstart\"in a||0<navigator.maxTouchPoints||0<navigator.msMaxTouchPoints,f=e?\"touchcancel\":\"mouseout\",g=e?\"touchend\":\"mouseup\",r=e?\"touchmove\":\"mousemove\";\"function\"!==typeof a.CustomEvent&&(a.CustomEvent=function(a,c){c=c||{bubbles:!1,cancelable:!1,detail:void 0};var d=b.createEvent(\"CustomEvent\");\nd.initCustomEvent(a,c.bubbles,c.cancelable,c.detail);return d},a.CustomEvent.prototype=a.Event.prototype);b.addEventListener(e?\"touchstart\":\"mousedown\",function(a){a=a.target;var b=parseInt(a.getAttribute(\"data-long-press-delay\")||\"1500\",10);d=setTimeout(c.bind(a),b)});b.addEventListener(g,function(){clearTimeout(d)});b.addEventListener(f,function(){clearTimeout(d)});b.addEventListener(r,function(){clearTimeout(d)});b.addEventListener(\"mousewheel\",function(){clearTimeout(d)});b.addEventListener(\"wheel\",\nfunction(){clearTimeout(d)});b.addEventListener(\"scroll\",function(){clearTimeout(d)})})(window,document);var CONTEXT_REGEXP=/(\\[.+\\])/g,ID_LEARNED=\"learned\",ID_KNOWN=\"known\",TAG_MOD_ABOUT_LEARNED=\"_learned\",TAG_MOD_ABOUT_KNOWN=\"_known\",CLARIFICATION_PREFIX=\"clarification\",INDICATION_PREFIX=\"indication\",NUM_PIECES_TAG_PREFIX=INDICATION_PREFIX+\"_\",THEMES=\"--highlighted-language-prompt-color: #fa5c32;\\n     --main-theme-color: #ff4a4a;\\n     --secondary-theme-color: rgba(213, 95, 93, 0.5);{--highlighted-language-prompt-color: #fa5c32;\\n     --main-theme-color: #62cb20;\\n     --secondary-theme-color: rgba(109, 213, 166, 0.5);{--highlighted-language-prompt-color: #fa5c32;\\n     --main-theme-color: #4ebecb;\\n     --secondary-theme-color: rgba(94, 176, 237, 0.5);{--highlighted-language-prompt-color: #fa5c32;\\n     --main-theme-color: #cb706d;\\n     --secondary-theme-color: rgba(237, 58, 17, 0.5);{--highlighted-language-prompt-color: #fa5c32;\\n    --main-theme-color: #b51f03;\\n    --secondary-theme-color: rgba(237, 0, 74, 0.5);{--highlighted-language-prompt-color: #fa5c32;\\n    --main-theme-color: #5dfae3;\\n    --secondary-theme-color: rgba(206, 207, 39, 0.5);{--highlighted-language-prompt-color: #fa5c32;\\n    --main-theme-color: #fae869;\\n    --secondary-theme-color: rgba(85, 207, 199, 0.8);{--highlighted-language-prompt-color: #fa5c32;\\n    --main-theme-color: #fa6eea;\\n    --secondary-theme-color: rgba(103, 91, 207, 0.79)\".split(\"{\"),\nTag=function(a){this.name=a;this.nameWithoutLearnedAndKnownModifiers=\"\";this.isBadgeAboutKnown=this.isTagAboutLearned=!1;this.processName()};Tag.prototype.processName=function(){var a=this.name,b=this.name.replace(new RegExp(TAG_MOD_ABOUT_LEARNED+\"$\"),\"\");this.isTagAboutLearned=b!==a;this.nameWithoutLearnedAndKnownModifiers=b.replace(new RegExp(TAG_MOD_ABOUT_KNOWN+\"$\"),\"\");this.isBadgeAboutKnown=this.nameWithoutLearnedAndKnownModifiers!==b};\n$jscomp.global.Object.defineProperties(Tag.prototype,{nameWithoutModifiers:{configurable:!0,enumerable:!0,get:function(){return this.nameWithoutLearnedAndKnownModifiers}},isClarification:{configurable:!0,enumerable:!0,get:function(){return 0===this.nameWithoutModifiers.indexOf(CLARIFICATION_PREFIX)}},isIndication:{configurable:!0,enumerable:!0,get:function(){return 0===this.nameWithoutModifiers.indexOf(INDICATION_PREFIX)}},isAboutLearned:{configurable:!0,enumerable:!0,get:function(){return this.isTagAboutLearned}},\nisAboutKnown:{configurable:!0,enumerable:!0,get:function(){return this.isBadgeAboutKnown}},isAboutBoth:{configurable:!0,enumerable:!0,get:function(){return this.isAboutLearned===this.isAboutKnown}},shouldBeShownWithKnown:{configurable:!0,enumerable:!0,get:function(){return this.isAboutBoth||this.isIndication&&this.isAboutLearned||this.isClarification&&this.isAboutKnown}}});\nvar Card=function(a){this.isAKnownLearnedSide=getElement(ID_LEARNED).classList.contains(\"hidden\");this.isFront=null===getElement(FRONT_WRAPPER_ID);this._cardData=a;this._languageCombination=this._learnedLanguage=this._knownLanguage=\"\";this.tags=this._originalTags=null;this.processData()};Card.toTagsArray=function(a){return(a?a:\"\").split(\" \").filter(function(a){return 0<a.length})};\nCard.prototype.processData=function(){this._originalTags=Card.toTagsArray(this._cardData.tags);this.tags=this.addComputedTags(this._originalTags,this._cardData);var a=function(a){a=a?a.substr(LANGUAGE_INFO_PREFIX.length):\"\";var b=a.indexOf(\"-\"),d={};d.knownLanguage=a.substring(0,b);d.learnedLanguage=a.substring(b+1);return d}(function(a){return a.find(function(a){return 0===a.indexOf(LANGUAGE_INFO_PREFIX)})}(this.tags));this._knownLanguage=a.knownLanguage;this._learnedLanguage=a.learnedLanguage;this._languageCombination=\nthis._knownLanguage+\"-\"+this._learnedLanguage};\nCard.prototype.addComputedTags=function(a,b){return a.concat(function(a){function c(a,c){function d(b){return b.indexOf(a)===b.length-a.length||-1===b.indexOf(a===TAG_MOD_ABOUT_KNOWN?TAG_MOD_ABOUT_LEARNED:TAG_MOD_ABOUT_KNOWN)}function e(a){return-1!==a.indexOf(\"_piece\")}var f=(a===TAG_MOD_ABOUT_KNOWN?b.knownWithoutContext:b.learnedWithoutContext).replace(/<br\\s*\\/?>/ig,\"\\n\").split(/[\\n,]/).filter(function(a){return 0<a.length}).length,l=0<c.intersect([TAG_2_GENDERS].concat(a.length?[TAG_2_GENDERS+\na]:[])).length?2:1;l*=0<c.intersect([TAG_SINGULAR_PLURAL].concat(a.length?[TAG_SINGULAR_PLURAL+a]:[])).length?2:1;return function(b,c,d){return!c&&f>d?(b=f,5<b&&(b=\"5_plus\"),NUM_PIECES_TAG_PREFIX+b+NUM_PIECES_TAG_SUFFIX+a):\"\"}(f,function(a){a=a.filter(e).filter(d);a.length?(a=a[0].substr(NUM_PIECES_TAG_PREFIX.length),a=a.substr(0,a.indexOf(\"_\"))):a=0;return a}(c),l)}return[c(TAG_MOD_ABOUT_KNOWN,a),c(TAG_MOD_ABOUT_LEARNED,a)].filter(function(a){return a.length})}(a))};\n$jscomp.global.Object.defineProperties(Card.prototype,{isAKnownLearnedCard:{configurable:!0,enumerable:!0,get:function(){return this.isAKnownLearnedSide}},isFrontSide:{configurable:!0,enumerable:!0,get:function(){return this.isFront}},knownLanguage:{configurable:!0,enumerable:!0,get:function(){return this._knownLanguage}},learnedLanguage:{configurable:!0,enumerable:!0,get:function(){return this._learnedLanguage}},languageCombination:{configurable:!0,enumerable:!0,get:function(){return this._languageCombination}},\noriginalTags:{configurable:!0,enumerable:!0,get:function(){return this._originalTags}},known:{configurable:!0,enumerable:!0,get:function(){return this._cardData.known}},learned:{configurable:!0,enumerable:!0,get:function(){return this._cardData.learned}},given:{configurable:!0,enumerable:!0,get:function(){return this.isAKnownLearnedCard?this.known:this.learned}},givenID:{configurable:!0,enumerable:!0,get:function(){return this.isAKnownLearnedCard?ID_KNOWN:ID_LEARNED}}});\nvar CardData=function(a,b,c){this.known=a;this.learned=b;this.tags=c};CardData.prototype.stripContext=function(a){return a.replace(CONTEXT_REGEXP,\"\").trim()};$jscomp.global.Object.defineProperties(CardData.prototype,{knownWithoutContext:{configurable:!0,enumerable:!0,get:function(){return this.stripContext(this.known)}},learnedWithoutContext:{configurable:!0,enumerable:!0,get:function(){return this.stripContext(this.learned)}}});window.CardData=CardData;\nvar Theme=function(a,b){this._bodyElement=a;this._cssString=b};Theme.prototype.apply=function(){this._bodyElement.style.cssText=this._cssString};Theme.getTheme=function(a,b){return new Theme(b,THEMES[a])};$jscomp.global.Object.defineProperties(Theme.prototype,{css:{configurable:!0,enumerable:!0,get:function(){return this._cssString}}});\n</script>\n<script type=\"text/javascript\">start(new CardData(`{{known}}`, `{{learned}}`, `{{Tags}}`));</script>{{/image}}"
                 }
             ],
             "type": 0,
@@ -2578,7 +2579,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "commit suicide",
+                "to commit suicide",
                 "suicidarse",
                 "",
                 "",
@@ -2591,9 +2592,9 @@
             "guid": "bygWqi^%7,",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "cram4test",
                 "language_EN-ES",
-                "now"
+                "now",
+                "verbs"
             ]
         },
         {
@@ -2704,6 +2705,7 @@
             "tags": [
                 "adjective",
                 "language_EN-ES",
+                "marked",
                 "now"
             ]
         },
@@ -3420,7 +3422,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "the plaster (Br) / the bandaid (Am)",
+                "the plaster",
                 "la tirita",
                 "",
                 "",
@@ -5197,6 +5199,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
+                "marked",
                 "now"
             ]
         },
@@ -5421,7 +5424,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "syrup",
+                "the syrup",
                 "el jarabe",
                 "",
                 "",
@@ -6013,7 +6016,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "700",
+                "seven hundred",
                 "setecientos",
                 "",
                 "",
@@ -7977,6 +7980,27 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "the ray, the beam",
+                "el rayo",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️"
+            ],
+            "flags": 0,
+            "guid": ")[~,C",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "to scrape, to scrape off",
                 "raer",
                 "Mis pantalones están rayendo el suelo.",
@@ -8044,7 +8068,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "legend",
+                "the legend",
                 "la leyenda",
                 "",
                 "",
@@ -9188,8 +9212,8 @@
             "guid": "D>3N2",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "Marked",
                 "language_EN-ES",
+                "marked",
                 "noun",
                 "now"
             ]
@@ -9568,7 +9592,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "street (like street performer)",
+                "street [eg. street performer]",
                 "callejero",
                 "",
                 "",
@@ -9581,9 +9605,9 @@
             "guid": ">v*PH",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "Marked",
                 "clarification_adjective_known",
                 "language_EN-ES",
+                "marked",
                 "now"
             ]
         },
@@ -9778,8 +9802,8 @@
             "guid": "I(j@P",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "Marked",
                 "language_EN-ES",
+                "marked",
                 "now"
             ]
         },
@@ -19776,7 +19800,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "He/She/It had (tener)",
+                "He/She/It had",
                 "tuvo",
                 "",
                 "",
@@ -22975,7 +22999,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "He/She/It will be (temporary condition)",
+                "He/She/It will be [temporary condition]",
                 "estará",
                 "",
                 "",
@@ -25327,7 +25351,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "They will know (have knowledge of)",
+                "They will know [📚]",
                 "sabrán",
                 "",
                 "",
@@ -28585,28 +28609,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "to plunge, to sink into, to immerse",
-                "sumir",
-                "",
-                "",
-                "",
-                "",
-                "✔️",
-                "✔️"
-            ],
-            "flags": 0,
-            "guid": ")$77R",
-            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
-            "tags": [
-                "language_EN-ES",
-                "marked",
-                "now"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "to hydrate",
                 "hidratar",
                 "",
@@ -28728,6 +28730,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
+                "marked",
                 "now",
                 "verbs"
             ]
@@ -28860,28 +28863,6 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "now"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "to exhibit, to display, to expose, to risk",
-                "exponer",
-                "",
-                "",
-                "",
-                "",
-                "✔️",
-                "✔️"
-            ],
-            "flags": 0,
-            "guid": "hRFRC",
-            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
-            "tags": [
-                "language_EN-ES",
-                "marked",
                 "now"
             ]
         },
@@ -29046,7 +29027,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "monster",
+                "the monster",
                 "el monstruo, la monstruo",
                 "",
                 "",
@@ -29436,7 +29417,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "sanity, good sense",
+                "the sanity, the good sense",
                 "la cordura",
                 "",
                 "",
@@ -29624,6 +29605,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
+                "marked",
                 "now"
             ]
         },
@@ -29653,8 +29635,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "to wander, to roam [👣]",
-                "vagar",
+                "to wander, to roam",
+                "vagar [👣]",
                 "Estoy harta de trabajar; quiero vagar por el mundo un par de años.",
                 "",
                 "",
@@ -29828,7 +29810,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "the surplus",
+                "the surplus [of goods]",
                 "el excedente",
                 "",
                 "",
@@ -29841,8 +29823,8 @@
             "guid": "H78/AQgLzF",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "Marked",
                 "language_EN-ES",
+                "marked",
                 "now"
             ]
         },
@@ -32072,7 +32054,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "the tram (UK) / the streetcar (USA), the trolley",
+                "the tram, the trolley",
                 "el tranvía",
                 "",
                 "",
@@ -32138,7 +32120,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "even, until",
+                "until, even",
                 "hasta",
                 "",
                 "",
@@ -32329,6 +32311,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
+                "marked",
                 "now"
             ]
         },
@@ -32401,7 +32384,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "puddle",
+                "the puddle",
                 "el charco",
                 "",
                 "",
@@ -32559,7 +32542,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Honey / dear / sweetheart!",
+                "Honey! sweetheart! Etc",
                 "¡Cariño!",
                 "",
                 "",
@@ -32573,6 +32556,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "beginner",
+                "indication_2_pieces_known",
                 "language_EN-ES"
             ]
         },
@@ -33508,8 +33492,8 @@
             "guid": "n4[8C78I.<",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "Marked",
                 "language_EN-ES",
+                "marked",
                 "now",
                 "verbs"
             ]
@@ -33691,8 +33675,8 @@
             "guid": "laKUuy%3Y:",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "Marked",
                 "language_EN-ES",
+                "marked",
                 "now",
                 "verbs"
             ]
@@ -34161,6 +34145,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
+                "marked",
                 "now",
                 "verbs"
             ]
@@ -34386,6 +34371,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
+                "marked",
                 "now",
                 "verbs"
             ]
@@ -35415,8 +35401,8 @@
             "guid": "tQIhm({So_",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "Marked",
                 "language_EN-ES",
+                "marked",
                 "now",
                 "verbs"
             ]
@@ -35436,29 +35422,6 @@
             ],
             "flags": 0,
             "guid": "y9VX~o=R<T",
-            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
-            "tags": [
-                "Marked",
-                "language_EN-ES",
-                "now",
-                "verbs"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "to hurt, to injure, to offend",
-                "herir",
-                "",
-                "",
-                "",
-                "",
-                "✔️",
-                "✔️"
-            ],
-            "flags": 0,
-            "guid": "F_.gSRT=I<",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "Marked",
@@ -35677,6 +35640,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
+                "marked",
                 "now"
             ]
         },
@@ -38650,6 +38614,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
+                "marked",
                 "now"
             ]
         },
@@ -38713,8 +38678,8 @@
             "guid": "BNgFhD_f+W",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "Marked",
                 "language_EN-ES",
+                "marked",
                 "now"
             ]
         },
@@ -40611,7 +40576,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "the period",
+                "the period [⌛]",
                 "el período",
                 "",
                 "",
@@ -41684,7 +41649,7 @@
             "data": "",
             "fields": [
                 "the slippers",
-                "las pantuflas",
+                "las pantuflas, las zapatillas",
                 "",
                 "",
                 "",
@@ -41697,6 +41662,8 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
+                "marked",
+                "noun",
                 "now"
             ]
         },
@@ -43331,29 +43298,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "It is possible that I eat lunch",
-                "es posible que almuerce",
-                "",
-                "",
-                "",
-                "",
-                "✔️",
-                "✔️"
-            ],
-            "flags": 0,
-            "guid": "e,.Yb*=7$%",
-            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
-            "tags": [
-                "language_EN-ES",
-                "now",
-                "sentences",
-                "verbs"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "It is possible that we hear",
                 "es posible que oigamos",
                 "",
@@ -43734,7 +43678,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "I doubt that we play (a game)",
+                "I doubt that we play [a game]",
                 "Dudo que juguemos",
                 "",
                 "",
@@ -43776,7 +43720,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "It is necessary that they are (estar)",
+                "It is necessary that they are [temporary condition]",
                 "Es necesario que estén",
                 "",
                 "",
@@ -43937,7 +43881,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "It is necessary that I play (a game)",
+                "It is necessary that I play / she plays [eg. a game] ",
                 "Es necesario que juegue",
                 "",
                 "",
@@ -43950,6 +43894,7 @@
             "guid": "i).$mv}Ujr",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "indication_2_pieces_known",
                 "language_EN-ES",
                 "now",
                 "sentences",
@@ -44196,7 +44141,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "It's not certain that she thinks",
+                "It's not certain that she thinks / I think",
                 "No es cierto que piense",
                 "",
                 "",
@@ -44209,6 +44154,7 @@
             "guid": "GQ%,7Mkxr+",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "indication_2_pieces_known",
                 "language_EN-ES",
                 "now",
                 "sentences",
@@ -44288,7 +44234,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "It is not certain that we are (estar)",
+                "It is not certain that we are [temporary condition]",
                 "No es cierto que estemos",
                 "",
                 "",
@@ -44819,7 +44765,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "I am happy that he repeats",
+                "I am happy that she repeats / I repeat",
                 "Me alegro de que repita",
                 "",
                 "",
@@ -44832,6 +44778,7 @@
             "guid": "mgTA2,fgrS",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "indication_2_pieces_known",
                 "language_EN-ES",
                 "now",
                 "sentences",
@@ -47707,7 +47654,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "rough, wild",
+                "rough, wild [informal]",
                 "cafre, basto",
                 "La fiesta fue cafre!",
                 "",
@@ -47720,8 +47667,10 @@
             "guid": "]|1sB",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "Marked",
+                "adjective",
+                "indication_informal_learned",
                 "language_EN-ES",
+                "marked",
                 "now"
             ]
         },
@@ -49571,6 +49520,7 @@
             "guid": "ZA-wJ",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "indication_expression_learned",
                 "language_EN-ES",
                 "now"
             ]
@@ -49766,28 +49716,6 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "indication_expression",
-                "language_EN-ES",
-                "now"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "a fluffy cake",
-                "un pastel esponjoso / espumoso / burbujeante",
-                "",
-                "",
-                "",
-                "",
-                "✔️",
-                "✔️"
-            ],
-            "flags": 0,
-            "guid": "eQt0$#&Xip",
-            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
-            "tags": [
-                "Marked",
                 "language_EN-ES",
                 "now"
             ]
@@ -50389,7 +50317,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "world",
+                "the world",
                 "el mundo",
                 "",
                 "",
@@ -50858,7 +50786,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "plan",
+                "the plan",
                 "el plan",
                 "",
                 "",
@@ -50880,7 +50808,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "death",
+                "the death",
                 "la muerte",
                 "",
                 "",
@@ -50969,7 +50897,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "the room",
+                "the room [🏨🏩]",
                 "la habitación, el cuarto",
                 "",
                 "",
@@ -51101,7 +51029,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "body",
+                "the body",
                 "el cuerpo",
                 "",
                 "",
@@ -51920,7 +51848,7 @@
             "data": "",
             "fields": [
                 "the fund",
-                "el fondo 💰",
+                "el fondo [💰]",
                 "",
                 "",
                 "",
@@ -52074,7 +52002,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "region",
+                "the region",
                 "la región",
                 "",
                 "",
@@ -52118,7 +52046,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "democracy",
+                "the democracy",
                 "la democracia",
                 "",
                 "",
@@ -52387,7 +52315,7 @@
             "data": "",
             "fields": [
                 "the colleague",
-                "el colega",
+                "el colega, la colega",
                 "",
                 "",
                 "",
@@ -52399,6 +52327,7 @@
             "guid": "Jtc(Fx#eo@",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "indication_2_genders_learned",
                 "language_EN-ES",
                 "noun",
                 "now"
@@ -52430,7 +52359,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "hero",
+                "the hero",
                 "el héroe",
                 "",
                 "",
@@ -52899,7 +52828,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "attitude",
+                "the attitude",
                 "la actitud",
                 "",
                 "",
@@ -53210,7 +53139,7 @@
             "data": "",
             "fields": [
                 "the rape",
-                "la violación",
+                "la violación [🙇🙅⚖]",
                 "",
                 "",
                 "",
@@ -53477,7 +53406,7 @@
             "data": "",
             "fields": [
                 "the analysis",
-                "el análisis",
+                "el análisis, los análisis",
                 "",
                 "",
                 "",
@@ -53489,6 +53418,7 @@
             "guid": "L^Rj=7aVV8",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "indication_singular_plural_learned",
                 "language_EN-ES",
                 "noun",
                 "now"
@@ -53700,7 +53630,7 @@
             "data": "",
             "fields": [
                 "the boss",
-                "el/la jefe, el/la patrón(a)",
+                "el jefe, la jefa<br>el patrón, la patrona",
                 "",
                 "",
                 "",
@@ -54427,7 +54357,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "dispute",
+                "the dispute",
                 "la disputa",
                 "",
                 "",
@@ -54440,8 +54370,8 @@
             "guid": "dAk>OZfMHt",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "Marked",
                 "language_EN-ES",
+                "marked",
                 "noun",
                 "now"
             ]
@@ -54560,7 +54490,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "retirement",
+                "the retirement",
                 "la jubilación",
                 "",
                 "",
@@ -54958,7 +54888,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "fortune",
+                "the fortune",
                 "la fortuna",
                 "",
                 "",
@@ -55159,7 +55089,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "fantasy",
+                "the fantasy",
                 "la fantasía",
                 "",
                 "",
@@ -55425,7 +55355,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "distinction",
+                "the distinction",
                 "la distinción",
                 "",
                 "",
@@ -55514,7 +55444,7 @@
             "data": "",
             "fields": [
                 "the christian",
-                "el cristiano",
+                "el cristiano, la cristiana",
                 "",
                 "",
                 "",
@@ -55526,6 +55456,7 @@
             "guid": "opC6Ye<qep",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "indication_2_genders_learned",
                 "language_EN-ES",
                 "noun",
                 "now"
@@ -55670,7 +55601,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "comfort",
+                "the comfort",
                 "la comodidad, el confort",
                 "",
                 "",
@@ -55683,8 +55614,8 @@
             "guid": "n~w7|XF=-X",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "Marked",
                 "language_EN-ES",
+                "marked",
                 "noun",
                 "now"
             ]
@@ -56002,7 +55933,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "imagination",
+                "the imagination",
                 "la imaginación",
                 "",
                 "",
@@ -56241,6 +56172,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
+                "marked",
                 "noun",
                 "now"
             ]
@@ -56450,7 +56382,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "compensation",
+                "the compensation",
                 "la compensación",
                 "",
                 "",
@@ -56627,7 +56559,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "depth",
+                "the depth",
                 "la profundidad, la hondura",
                 "",
                 "",
@@ -56828,7 +56760,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "the toilet (room)",
+                "the toilet [room]",
                 "el servicio, el lavabo, el aseo",
                 "",
                 "",
@@ -56841,9 +56773,9 @@
             "guid": "v}K<3&&c]W",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "Marked",
                 "beginner",
                 "language_EN-ES",
+                "marked",
                 "noun",
                 "now"
             ]
@@ -56963,7 +56895,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "parish",
+                "the parish",
                 "la parroquia",
                 "",
                 "",
@@ -57184,7 +57116,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "transformation",
+                "the transformation",
                 "la transformación",
                 "",
                 "",
@@ -57228,7 +57160,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "triumph",
+                "the triumph",
                 "el triunfo",
                 "",
                 "",
@@ -57629,7 +57561,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "dozen",
+                "the dozen",
                 "la docena",
                 "",
                 "",
@@ -57783,7 +57715,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "criterion",
+                "the criterion",
                 "el criterio",
                 "",
                 "",
@@ -57805,8 +57737,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "the duke",
-                "el duque",
+                "the duke, the duchess",
+                "el duque, la duquesa",
                 "",
                 "",
                 "",
@@ -57818,6 +57750,7 @@
             "guid": "jvAaJbcT5(",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "indication_2_genders",
                 "language_EN-ES",
                 "noun",
                 "now"
@@ -58093,7 +58026,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "dollar",
+                "the dollar",
                 "el dólar",
                 "",
                 "",
@@ -58292,7 +58225,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "acquisition",
+                "the acquisition",
                 "la adquisición",
                 "",
                 "",
@@ -58327,8 +58260,8 @@
             "guid": "o9f&#u/g1V",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "Marked",
                 "language_EN-ES",
+                "marked",
                 "noun",
                 "now"
             ]
@@ -60706,7 +60639,10 @@
             "flags": 0,
             "guid": "UdmYC",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
-            "tags": []
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
         },
         {
             "__type__": "Note",
@@ -60746,8 +60682,8 @@
             "guid": "&Vb4E",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "Marked",
                 "language_EN-ES",
+                "marked",
                 "noun",
                 "now"
             ]
@@ -60817,7 +60753,8 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "indication_expression",
-                "language_EN-ES"
+                "language_EN-ES",
+                "marked"
             ]
         },
         {
@@ -62103,7 +62040,7 @@
             "data": "",
             "fields": [
                 "the immigrant in Catalunya from another part of Spain",
-                "el charnego",
+                "el charnego, la charnega",
                 "",
                 "",
                 "Normalmente es despectivo, pero últimamente también se reivindica por los charnegos mismos.",
@@ -62115,6 +62052,7 @@
             "guid": "0<c1I",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "indication_2_genders_learned",
                 "indication_colloquial_learned",
                 "language_EN-ES",
                 "noun",
@@ -62369,7 +62307,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "from sunrise to sunset",
+                "from dawn till dusk",
                 "de sol a sol",
                 "",
                 "",
@@ -62384,6 +62322,7 @@
             "tags": [
                 "indication_expression",
                 "language_EN-ES",
+                "marked",
                 "now"
             ]
         },
@@ -62955,6 +62894,7 @@
             "guid": "bfteFqF!|-",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "indication_1_piece_known",
                 "language_EN-ES",
                 "noun",
                 "now"
@@ -64218,7 +64158,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "to admit ⚖",
+                "to admit [⚖]",
                 "reconocer, admitir",
                 "",
                 "",
@@ -64240,7 +64180,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "to customize",
+                "to customise, to personalise",
                 "personalizar",
                 "",
                 "",
@@ -64373,7 +64313,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "the colon (punctuation)",
+                "the colon [punctuation]",
                 "los dos puntos",
                 "",
                 "",
@@ -65082,11 +65022,9 @@
             "guid": "l|-N32-Wgv",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "indication_expression_learned",
                 "language_EN-ES",
                 "mostcommonwords",
                 "phrases",
-                "prepositional_phrases",
                 "prepositions"
             ]
         },
@@ -65387,7 +65325,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "the meter [📏]",
+                "the metre [📏]",
                 "el metro [📏]",
                 "",
                 "",
@@ -65566,7 +65504,7 @@
             "data": "",
             "fields": [
                 "the rule, the regulation",
-                "la regla",
+                "la regla [⚖]",
                 "",
                 "",
                 "",
@@ -67368,6 +67306,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
+                "marked",
                 "mostcommonwords",
                 "vocab"
             ]
@@ -67415,29 +67354,6 @@
                 "language_EN-ES",
                 "mostcommonwords",
                 "noun",
-                "Spanish"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "than / that, which, who",
-                "que",
-                "",
-                "",
-                "",
-                "",
-                "✔️",
-                "✔️"
-            ],
-            "flags": 0,
-            "guid": "KAX?2)9!5Y",
-            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
-            "tags": [
-                "language_EN-ES",
-                "marked",
-                "mostcommonwords",
                 "Spanish"
             ]
         },
@@ -67887,7 +67803,7 @@
             "data": "",
             "fields": [
                 "the lightning, the flash of lightning",
-                "el relámpago",
+                "el relámpago, el rayo",
                 "",
                 "",
                 "",
@@ -67901,8 +67817,7 @@
             "tags": [
                 "language_EN-ES",
                 "noun",
-                "now",
-                "vocab"
+                "now"
             ]
         },
         {
@@ -68017,27 +67932,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "back, behind, backward / ago, behind",
-                "atrás",
-                "",
-                "",
-                "",
-                "",
-                "✔️",
-                "✔️"
-            ],
-            "flags": 0,
-            "guid": "vN)GT+us7l",
-            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
-            "tags": [
-                "language_EN-ES",
-                "mostcommonwords"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "rich, delicious",
                 "rico",
                 "",
@@ -68120,6 +68014,28 @@
                 "noun",
                 "now",
                 "vocab"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "the grape",
+                "la uva",
+                "",
+                "<img src=\"grapes_small.jpg\">",
+                "",
+                "",
+                "✔️",
+                "✔️"
+            ],
+            "flags": 0,
+            "guid": "skAMuPDy18",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "food",
+                "language_EN-ES",
+                "noun"
             ]
         },
         {
@@ -68411,29 +68327,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "neither, not either / neither",
-                "tampoco",
-                "",
-                "",
-                "",
-                "",
-                "✔️",
-                "✔️"
-            ],
-            "flags": 0,
-            "guid": "woT]z%-]@[",
-            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
-            "tags": [
-                "language_EN-ES",
-                "mostcommonwords",
-                "prases",
-                "random"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "same, oneself",
                 "mismo, misma",
                 "",
@@ -68542,28 +68435,6 @@
                 "language_EN-ES",
                 "mostcommonwords",
                 "vocab"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "OK",
-                "vale",
-                "",
-                "",
-                "",
-                "",
-                "✔️",
-                "✔️"
-            ],
-            "flags": 0,
-            "guid": "K9$gn>RB5r",
-            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
-            "tags": [
-                "language_EN-ES",
-                "marked",
-                "mostcommonwords"
             ]
         },
         {
@@ -69424,7 +69295,9 @@
             "tags": [
                 "adjective",
                 "adverb",
-                "language_EN-ES"
+                "indication_expression_learned",
+                "language_EN-ES",
+                "marked"
             ]
         },
         {
@@ -69454,7 +69327,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "to purchase / to purchase, to acquire / to acquire",
+                "to acquire, to purchase",
                 "adquirir",
                 "Si es posible, prefiero adquirir el piso que alquilarlo.",
                 "",
@@ -69467,7 +69340,6 @@
             "guid": "N}ff6&hr4W",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "!vocab",
                 "language_EN-ES",
                 "now",
                 "verbs"
@@ -69691,8 +69563,8 @@
             "guid": "lc)A;zIPQg",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "Marked",
                 "language_EN-ES",
+                "marked",
                 "now",
                 "verbs"
             ]
@@ -69892,29 +69764,6 @@
             "guid": ").Q*sWS!Z",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "language_EN-ES",
-                "now",
-                "verbs"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "to hit, bang, bump / to hit, to strike, to knock",
-                "golpear",
-                "",
-                "",
-                "",
-                "",
-                "✔️",
-                "✔️"
-            ],
-            "flags": 0,
-            "guid": "hcbcyw/}.-",
-            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
-            "tags": [
-                "Marked",
                 "language_EN-ES",
                 "now",
                 "verbs"
@@ -70151,29 +70000,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "to estimate, to value, to appreciate / to estimate, to value, to respect",
-                "estimar",
-                "Hasta su declaración le había estimado mucho, pero todo cambió en ese momento.<br><br>El precio del siguiente iPhone se estima en cientos mil euros.<br><br>Me sorprende que todavía estima tanto el regalo de su ex novia, mientras habla tan mal de ella.",
-                "",
-                "",
-                "",
-                "✔️",
-                "✔️"
-            ],
-            "flags": 0,
-            "guid": "w8r,{..U:!",
-            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
-            "tags": [
-                "language_EN-ES",
-                "marked",
-                "now",
-                "verbs"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "to award a grant or scholarship",
                 "becar",
                 "",
@@ -70377,7 +70203,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "to travel / to travel, to journey",
+                "to travel, to journey",
                 "viajar",
                 "",
                 "",
@@ -70435,6 +70261,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
+                "marked",
                 "now",
                 "verbs"
             ]
@@ -70690,8 +70517,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "the period [punctuation]",
-                "el punto",
+                "the period [🔡]",
+                "el punto [🔡] ",
                 "",
                 "",
                 "",
@@ -70846,7 +70673,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "order (in order) / the order (= the sequence, the command)",
+                "the order [the sequence, the command]",
                 "el orden",
                 "",
                 "",
@@ -71066,7 +70893,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "the bill, the note / ticket [💰💷💶]",
+                "the bill, the note [💰💷💶]",
                 "el billete [💰💷💶]",
                 "",
                 "",
@@ -71111,7 +70938,7 @@
             "data": "",
             "fields": [
                 "the sentence, the ruling",
-                "la sentencia",
+                "la sentencia [⚖]",
                 "",
                 "",
                 "",
@@ -71267,7 +71094,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "passion / the passion",
+                "the passion",
                 "la pasión",
                 "",
                 "",
@@ -71289,7 +71116,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "food / the lunch (Spain), the meal, the food",
+                "the lunch (Spain), the meal, the food",
                 "la comida",
                 "",
                 "",
@@ -71445,7 +71272,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "the achievement",
+                "the achievement, the accomplishment",
                 "el logro",
                 "",
                 "",
@@ -71710,7 +71537,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "the transportation / transport",
+                "the transportation, the transport",
                 "el transporte",
                 "",
                 "",
@@ -71820,7 +71647,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "hierarchy / the hierarchy",
+                "the hierarchy",
                 "la jerarquía",
                 "",
                 "",
@@ -72838,7 +72665,7 @@
             "tags": [
                 "expression",
                 "indication_expression",
-                "language_ES-CA",
+                "language_EN-ES",
                 "now",
                 "verbs"
             ]
@@ -72847,8 +72674,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "That doesn't sound right. / That sounds clunky. (sound metaphor)",
-                "Eso me chirría.",
+                "That doesn't sound right.<br>That sounds clunky.<br>(sound metaphor)",
+                "Eso (me) chirría.",
                 "Sus descripciones chirrían a veces.",
                 "",
                 "",
@@ -72861,8 +72688,9 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "expression",
+                "indication_2_pieces_known",
                 "indication_expression",
-                "language_ES-CA",
+                "language_EN-ES",
                 "now",
                 "verbs"
             ]
@@ -72905,8 +72733,9 @@
             "guid": "i_*A6U5*]w",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "clarification_verb_learned",
                 "irregular",
-                "language_ES-CA",
+                "language_EN-ES",
                 "now",
                 "present",
                 "verbs"
@@ -72930,7 +72759,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "irregular",
-                "language_ES-CA",
+                "language_EN-ES",
                 "now",
                 "present",
                 "verbs"
@@ -72985,7 +72814,7 @@
             "data": "",
             "fields": [
                 "the Flemish",
-                "el Flamenco",
+                "el Flamenco, la Flamenca",
                 "",
                 "",
                 "",
@@ -72997,6 +72826,7 @@
             "guid": "Uk8^B",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "indication_2_genders_learned",
                 "language_EN-ES",
                 "noun",
                 "now"
@@ -73006,7 +72836,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "the inauguration (of a house, etc.)",
+                "the inauguration [of a gallery, etc.]",
                 "la inauguración",
                 "",
                 "",
@@ -73019,6 +72849,7 @@
             "guid": "m#mJ5",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "indication_1_piece_known",
                 "language_EN-ES",
                 "noun",
                 "now"
@@ -73064,6 +72895,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
+                "marked",
                 "noun",
                 "now"
             ]
@@ -73109,6 +72941,7 @@
             "guid": "GT6%6>vT;_",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "clarification_verb_learned",
                 "language_EN-ES",
                 "now",
                 "verbs"
@@ -73184,28 +73017,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "ill (colloquial) ",
-                "mal",
-                "",
-                "",
-                "",
-                "",
-                "✔️ ",
-                "✔️ "
-            ],
-            "flags": 0,
-            "guid": "k>0.S",
-            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
-            "tags": [
-                "adjective",
-                "language_EN-ES",
-                "now"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "a woman of letters, a man of letters",
                 "el literato, la literata",
                 "",
@@ -73219,6 +73030,7 @@
             "guid": "1P(oR",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "indication_2_genders",
                 "language_EN-ES",
                 "noun",
                 "now"
@@ -73241,6 +73053,7 @@
             "guid": "F)t/2",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "indication_2_genders_learned",
                 "language_ES-CA",
                 "noun"
             ]
@@ -73294,7 +73107,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "the cane (for support)",
+                "the cane [for support]",
                 "el bastón",
                 "",
                 "",
@@ -73646,8 +73459,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "the trunk [🚗] ",
-                "el baúl",
+                "the boot [🚗] ",
+                "el baúl [🚗]",
                 "",
                 "",
                 "",
@@ -73859,7 +73672,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "adjective",
-                "language_ES-CA"
+                "language_EN-ES"
             ]
         },
         {
@@ -73909,7 +73722,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "lonely",
+                "lonely, alone",
                 "solo",
                 "",
                 "",
@@ -74135,6 +73948,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "adjective",
+                "indication_2_genders_learned",
                 "language_EN-ES"
             ]
         },
@@ -74244,6 +74058,49 @@
                 "indication_colloquial",
                 "language_EN-ES",
                 "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "fearful, cowardly",
+                "miedoso",
+                "",
+                "",
+                "",
+                "",
+                "✔️ ",
+                "✔️ "
+            ],
+            "flags": 0,
+            "guid": "e,y16",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "adjective",
+                "language_EN-ES",
+                "now"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "rewarding",
+                "gratificante",
+                "",
+                "",
+                "",
+                "",
+                "✔️ ",
+                "✔️ "
+            ],
+            "flags": 0,
+            "guid": "i$Z*3",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "adjective",
+                "language_EN-ES"
             ]
         }
     ]
