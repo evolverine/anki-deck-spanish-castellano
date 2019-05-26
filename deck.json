@@ -342,7 +342,6 @@
             "guid": "uCC^b($pPD",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "Spanish",
                 "indication_2_genders_learned",
                 "language_EN-ES",
                 "noun"
@@ -367,8 +366,7 @@
             "tags": [
                 "expression",
                 "language_EN-ES",
-                "sentences",
-                "Spanish"
+                "sentences"
             ]
         },
         {
@@ -452,8 +450,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "noun",
-                "Spanish"
+                "noun"
             ]
         },
         {
@@ -61876,8 +61873,7 @@
                 "adjective",
                 "clarification_adjective_known",
                 "language_EN-ES",
-                "mostcommonwords",
-                "Spanish"
+                "mostcommonwords"
             ]
         },
         {
@@ -61898,8 +61894,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "mostcommonwords",
-                "Spanish"
+                "mostcommonwords"
             ]
         },
         {
@@ -61922,8 +61917,7 @@
                 "indication_2_genders_learned",
                 "language_EN-ES",
                 "mostcommonwords",
-                "noun",
-                "Spanish"
+                "noun"
             ]
         },
         {
@@ -61943,7 +61937,6 @@
             "guid": "NblxVe`.lD",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "Spanish",
                 "language_EN-ES",
                 "mostcommonwords"
             ]
@@ -62013,8 +62006,7 @@
             "tags": [
                 "humanbody",
                 "language_EN-ES",
-                "mostcommonwords",
-                "Spanish"
+                "mostcommonwords"
             ]
         },
         {
@@ -62080,8 +62072,7 @@
             "tags": [
                 "language_EN-ES",
                 "mostcommonwords",
-                "prepositional_phrases",
-                "Spanish"
+                "prepositional_phrases"
             ]
         },
         {
@@ -62104,8 +62095,7 @@
                 "adjective",
                 "indication_2_genders_learned",
                 "language_EN-ES",
-                "mostcommonwords",
-                "Spanish"
+                "mostcommonwords"
             ]
         },
         {
@@ -62217,8 +62207,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "mostcommonwords",
-                "Spanish"
+                "mostcommonwords"
             ]
         },
         {
@@ -62351,8 +62340,7 @@
             "tags": [
                 "language_EN-ES",
                 "marked",
-                "mostcommonwords",
-                "Spanish"
+                "mostcommonwords"
             ]
         },
         {
@@ -62395,8 +62383,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "mostcommonwords",
-                "Spanish"
+                "mostcommonwords"
             ]
         },
         {
@@ -62465,8 +62452,7 @@
             "tags": [
                 "humanbody",
                 "language_EN-ES",
-                "mostcommonwords",
-                "Spanish"
+                "mostcommonwords"
             ]
         },
         {
@@ -62510,8 +62496,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "mostcommonwords",
-                "Spanish"
+                "mostcommonwords"
             ]
         },
         {
@@ -62554,7 +62539,6 @@
             "guid": "jO+OlutO3E",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "Spanish",
                 "language_EN-ES",
                 "mostcommonwords"
             ]
@@ -62599,8 +62583,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "mostcommonwords",
-                "Spanish"
+                "mostcommonwords"
             ]
         },
         {
@@ -62666,8 +62649,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "mostcommonwords",
-                "Spanish"
+                "mostcommonwords"
             ]
         },
         {
@@ -62732,8 +62714,7 @@
             "tags": [
                 "housing",
                 "language_EN-ES",
-                "mostcommonwords",
-                "Spanish"
+                "mostcommonwords"
             ]
         },
         {
@@ -62870,8 +62851,7 @@
             "tags": [
                 "humanbody",
                 "language_EN-ES",
-                "mostcommonwords",
-                "Spanish"
+                "mostcommonwords"
             ]
         },
         {
@@ -64521,8 +64501,7 @@
             "tags": [
                 "language_EN-ES",
                 "mostcommonwords",
-                "noun",
-                "Spanish"
+                "noun"
             ]
         },
         {
@@ -64544,8 +64523,7 @@
             "tags": [
                 "adjective",
                 "language_EN-ES",
-                "mostcommonwords",
-                "Spanish"
+                "mostcommonwords"
             ]
         },
         {
@@ -65418,8 +65396,7 @@
             "tags": [
                 "language_EN-ES",
                 "marked",
-                "mostcommonwords",
-                "Spanish"
+                "mostcommonwords"
             ]
         },
         {
@@ -65441,7 +65418,6 @@
             "tags": [
                 "language_EN-ES",
                 "mostcommonwords",
-                "Spanish",
                 "verbs"
             ]
         },
@@ -65463,8 +65439,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "mostcommonwords",
-                "Spanish"
+                "mostcommonwords"
             ]
         },
         {
@@ -65485,8 +65460,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "mostcommonwords",
-                "Spanish"
+                "mostcommonwords"
             ]
         },
         {
@@ -65510,8 +65484,7 @@
                 "indication_2_genders_learned",
                 "language_EN-ES",
                 "marked",
-                "mostcommonwords",
-                "Spanish"
+                "mostcommonwords"
             ]
         },
         {
@@ -65534,7 +65507,6 @@
                 "language_EN-ES",
                 "marked",
                 "mostcommonwords",
-                "Spanish",
                 "verbs"
             ]
         },
@@ -65577,8 +65549,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "mostcommonwords",
-                "Spanish"
+                "mostcommonwords"
             ]
         },
         {
