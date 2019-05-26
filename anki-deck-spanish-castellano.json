@@ -443,7 +443,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "toilet paper",
+                "the toilet paper",
                 "el papel higiénico",
                 "",
                 "",
@@ -456,10 +456,10 @@
             "guid": "vHvA@W#ft3",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "Spanish",
                 "language_EN-ES",
                 "noun",
-                "now"
+                "now",
+                "Spanish"
             ]
         },
         {
@@ -991,7 +991,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "boy, girl, kid",
+                "the boy, the girl, the kid",
                 "el chico, la chica",
                 "",
                 "",
@@ -1477,7 +1477,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "the pity [shame]",
+                "the pity, the shame",
                 "la lástima, la pena",
                 "",
                 "",
@@ -1557,29 +1557,6 @@
             "guid": "eBmGCqzI@`",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "language_EN-ES",
-                "marked",
-                "mostcommonwords"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "bad, wrong",
-                "mal",
-                "",
-                "",
-                "",
-                "",
-                "✔️",
-                "✔️"
-            ],
-            "flags": 0,
-            "guid": "voeVtq9f!8",
-            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
-            "tags": [
-                "adjective",
                 "language_EN-ES",
                 "marked",
                 "mostcommonwords"
@@ -2413,6 +2390,7 @@
             "tags": [
                 "food",
                 "language_EN-ES",
+                "marked",
                 "noun",
                 "now"
             ]
@@ -5796,7 +5774,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "it's cool [❄]",
+                "it's cool, it's chilly",
                 "hace fresco",
                 "",
                 "",
@@ -7192,7 +7170,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "the license plate (Am.) / the number plate (UK)",
+                "the number plate",
                 "la placa [🚗]",
                 "",
                 "",
@@ -8265,7 +8243,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "planet",
+                "the planet",
                 "el planeta",
                 "",
                 "",
@@ -9257,8 +9235,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "noun",
-                "now"
+                "noun"
             ]
         },
         {
@@ -9956,6 +9933,8 @@
             "guid": "^uP:G",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "expression",
+                "indication_expression",
                 "language_EN-ES",
                 "now",
                 "verbs"
@@ -11961,7 +11940,7 @@
             "data": "",
             "fields": [
                 "He/She/It likes",
-                "gusta",
+                "(le) gusta",
                 "",
                 "",
                 "",
@@ -18765,7 +18744,7 @@
             "data": "",
             "fields": [
                 "We thought",
-                "pensamos (pasado)",
+                "pensamos [pasado]",
                 "",
                 "",
                 "",
@@ -25255,7 +25234,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "I will know (have knowledge of)",
+                "I will know [📖]",
                 "sabré",
                 "",
                 "",
@@ -26949,7 +26928,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Knowing (being familiar with)",
+                "knowing [familiarity - 👥, ⛲, etc.]",
                 "conociendo",
                 "",
                 "",
@@ -29071,7 +29050,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "pothole",
+                "the pothole",
                 "el bache",
                 "",
                 "",
@@ -29214,28 +29193,6 @@
             "tags": [
                 "Marked",
                 "language_EN-ES",
-                "now"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "to cover up, to hide, to conceal",
-                "encubrir",
-                "El jugador de pòquer sonrió para encubrir su miedo.<br><br>Tú realizas que estabas ayudando a encubrir una violación?",
-                "",
-                "",
-                "",
-                "✔️",
-                "✔️"
-            ],
-            "flags": 0,
-            "guid": "E$$Zlc=K]Y",
-            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
-            "tags": [
-                "language_EN-ES",
-                "marked",
                 "now"
             ]
         },
@@ -32979,7 +32936,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "the obstinacy, stubbornness",
+                "the obstinacy, the stubbornness",
                 "la tozudez",
                 "",
                 "",
@@ -32992,8 +32949,8 @@
             "guid": "H*`p7w&4DC",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "Marked",
                 "language_EN-ES",
+                "marked",
                 "now"
             ]
         },
@@ -33570,7 +33527,7 @@
             "data": "",
             "fields": [
                 "Excuse me, Pardon me",
-                "Perdone usted",
+                "Perdone (usted)",
                 "",
                 "",
                 "",
@@ -34685,6 +34642,7 @@
             "guid": "oq2~z#@`Ve",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "indication_expression_known",
                 "language_EN-ES",
                 "now",
                 "verbs"
@@ -35333,8 +35291,9 @@
             "guid": "v3D3lyc`)#",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "Marked",
+                "indication_expression_known",
                 "language_EN-ES",
+                "marked",
                 "now",
                 "verbs"
             ]
@@ -35456,7 +35415,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "copper",
+                "the copper",
                 "el cobre",
                 "",
                 "",
@@ -36157,8 +36116,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "since (=due to, because)",
-                "ya que / como",
+                "since [due to, because]",
+                "ya que, como",
                 "",
                 "",
                 "",
@@ -39171,6 +39130,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
+                "marked",
                 "now"
             ]
         },
@@ -39322,28 +39282,6 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "now"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "the fetus<br>+ pejorative - spawn, monstrosity",
-                "el enjendro",
-                "",
-                "",
-                "",
-                "",
-                "✔️",
-                "✔️"
-            ],
-            "flags": 0,
-            "guid": "AMbQa(qtX3",
-            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
-            "tags": [
-                "language_EN-ES",
-                "marked",
                 "now"
             ]
         },
@@ -40661,7 +40599,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "woodpecker",
+                "the woodpecker",
                 "el pájaro carpintero",
                 "",
                 "",
@@ -41520,7 +41458,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "below / under",
+                "below, under",
                 "bajo, debajo",
                 "No olvides que tu mochila está todavía debajo de la mesa.",
                 "",
@@ -43252,7 +43190,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "It is possible that I give",
+                "It is possible that she gives / I give",
                 "es posible que dé",
                 "",
                 "",
@@ -43265,6 +43203,7 @@
             "guid": "vxAnbtnh%`",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "indication_2_pieces_known",
                 "language_EN-ES",
                 "now",
                 "sentences",
@@ -43812,7 +43751,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "It is necessary that she pays",
+                "It is necessary that she pays / I pay",
                 "Es necesario que pague",
                 "",
                 "",
@@ -43825,9 +43764,11 @@
             "guid": "c6@g>gu`mP",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "indication_2_genders_known",
                 "language_EN-ES",
                 "now",
                 "sentences",
+                "subjunctive1",
                 "verbs"
             ]
         },
@@ -46225,6 +46166,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
+                "marked",
                 "noun",
                 "now"
             ]
@@ -46268,6 +46210,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
+                "marked",
                 "now"
             ]
         },
@@ -48900,7 +48843,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "I'm so hungry / I'm starving!",
+                "I'm so hungry!<br>I'm starving!",
                 "¡estoy desmayado!",
                 "",
                 "",
@@ -50742,7 +50685,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "administration",
+                "the administration",
                 "la administración",
                 "",
                 "",
@@ -50887,8 +50830,8 @@
             "guid": "FnRjC.?${V",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "Marked",
                 "language_EN-ES",
+                "marked",
                 "noun",
                 "now"
             ]
@@ -51328,6 +51271,7 @@
             "guid": "k+cUe}e$*G",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "noun",
                 "now"
@@ -51359,7 +51303,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "majority",
+                "the majority",
                 "la mayoría",
                 "",
                 "",
@@ -51559,7 +51503,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "hope",
+                "the hope",
                 "la esperanza",
                 "",
                 "",
@@ -53696,7 +53640,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "territory",
+                "the territory",
                 "el territorio",
                 "",
                 "",
@@ -54203,7 +54147,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "satellite",
+                "the satellite",
                 "el satélite",
                 "",
                 "",
@@ -54269,7 +54213,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "capacity",
+                "the capacity",
                 "la capacidad",
                 "",
                 "",
@@ -54424,7 +54368,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "obligation",
+                "the obligation",
                 "la obligación",
                 "",
                 "",
@@ -54512,7 +54456,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "noise",
+                "the noise",
                 "el ruido",
                 "",
                 "",
@@ -54910,7 +54854,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "consideration",
+                "the consideration",
                 "la consideración",
                 "",
                 "",
@@ -55466,7 +55410,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "user",
+                "the user",
                 "el usuario",
                 "",
                 "",
@@ -55845,7 +55789,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "text",
+                "the text",
                 "el texto",
                 "",
                 "",
@@ -55867,7 +55811,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "dose",
+                "the dose",
                 "la dosis",
                 "",
                 "",
@@ -56068,7 +56012,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "separation",
+                "the separation",
                 "la separación",
                 "",
                 "",
@@ -56090,7 +56034,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "championship",
+                "the championship",
                 "el campeonato",
                 "",
                 "",
@@ -56360,7 +56304,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "interpretation",
+                "the interpretation",
                 "la interpretación",
                 "",
                 "",
@@ -56426,7 +56370,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "premise",
+                "the premise",
                 "la premisa",
                 "",
                 "",
@@ -56492,8 +56436,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "a new strain of the virus",
-                "una nueva cepa del virus",
+                "the strain of the virus",
+                "la cepa del virus",
                 "",
                 "",
                 "",
@@ -56603,7 +56547,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "ambition",
+                "the ambition",
                 "la ambición",
                 "",
                 "",
@@ -57515,7 +57459,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "directory",
+                "the directory",
                 "el directorio",
                 "",
                 "",
@@ -57528,8 +57472,8 @@
             "guid": "g}Y?)X>Gm`",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "Marked",
                 "language_EN-ES",
+                "marked",
                 "noun",
                 "now"
             ]
@@ -57960,7 +57904,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "pensioner",
+                "the pensioner",
                 "el pensionista, el jubilado",
                 "",
                 "",
@@ -58484,6 +58428,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
+                "marked",
                 "noun",
                 "now"
             ]
@@ -58581,7 +58526,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "grammar",
+                "the grammar",
                 "la gramática",
                 "",
                 "",
@@ -59001,8 +58946,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "the quote (from the book)",
-                "la cita (del libro)",
+                "the quote [📖] ",
+                "la cita [📖]",
                 "",
                 "",
                 "",
@@ -59546,6 +59491,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
+                "marked",
                 "noun",
                 "now"
             ]
@@ -60171,6 +60117,7 @@
             "guid": "@FN^F",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "expression",
                 "indication_expression",
                 "language_EN-ES",
                 "now",
@@ -63502,7 +63449,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "they hanged (took the life of)",
+                "they hanged [took the life of]",
                 "ahorcaron",
                 "",
                 "",
@@ -64137,7 +64084,7 @@
             "data": "",
             "fields": [
                 "the arrogance",
-                "la arrogancia, la prepotencia",
+                "la arrogancia, la prepotencia, la soberbia?",
                 "",
                 "",
                 "",
@@ -64150,6 +64097,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
+                "marked",
                 "noun",
                 "now"
             ]
@@ -65210,7 +65158,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "the kilometer",
+                "the kilometre",
                 "el kilómetro",
                 "",
                 "",
@@ -65801,7 +65749,7 @@
             "data": "",
             "fields": [
                 "welcome!",
-                "¡bienvenido!",
+                "¡bienvenido!, ¡bienvenida!",
                 "",
                 "",
                 "",
@@ -65814,6 +65762,8 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "adjective",
+                "expression",
+                "indication_2_genders_learned",
                 "language_EN-ES",
                 "mostcommonwords"
             ]
@@ -65866,7 +65816,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "free [without a cost]",
+                "free [💰]",
                 "gratis",
                 "",
                 "",
@@ -66534,7 +66484,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "the morning, tomorrow",
+                "the morning",
                 "la mañana",
                 "",
                 "",
@@ -66578,7 +66528,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "thirst",
+                "the thirst",
                 "la sed",
                 "",
                 "",
@@ -66858,6 +66808,7 @@
             "guid": "iQV{2#sW,e",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "indication_1_piece_known",
                 "indication_2_pieces_learned",
                 "language_EN-ES",
                 "sentences"
@@ -66867,7 +66818,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "to count, tell",
+                "to count, to tell",
                 "contar",
                 "",
                 "",
@@ -66928,6 +66879,7 @@
             "tags": [
                 "irregular",
                 "language_EN-ES",
+                "marked",
                 "mostcommonwords",
                 "verbs"
             ]
@@ -66980,7 +66932,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "luxury",
+                "the luxury",
                 "el lujo",
                 "",
                 "",
@@ -67137,7 +67089,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "authority",
+                "the authority",
                 "la autoridad",
                 "",
                 "",
@@ -68993,7 +68945,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "state, national",
+                "state, state-owned",
                 "estatal",
                 "",
                 "",
@@ -69060,7 +69012,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "memory",
+                "the memory",
                 "la memoria",
                 "",
                 "",
@@ -69149,7 +69101,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "essence",
+                "the essence",
                 "la esencia",
                 "",
                 "",
@@ -69640,7 +69592,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "to become or be frightened / to become scared, to become frightened",
+                "to become scared, to become frightened",
                 "asustarse",
                 "",
                 "",
@@ -70959,7 +70911,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "ship / the boat",
+                "the boat, the ship",
                 "el barco",
                 "",
                 "",
@@ -71161,7 +71113,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "the manufacturer, the maker",
+                "the manufacturer",
                 "el fabricante",
                 "",
                 "",
@@ -73017,7 +72969,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "a woman of letters, a man of letters",
+                "the woman of letters, the man of letters",
                 "el literato, la literata",
                 "",
                 "",
@@ -74086,7 +74038,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "rewarding",
+                "rewarding, gratifying",
                 "gratificante",
                 "",
                 "",
@@ -74100,6 +74052,48 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "adjective",
+                "language_EN-ES"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "despite",
+                "a pesar de, pese a",
+                "",
+                "",
+                "",
+                "",
+                "✔️ ",
+                "✔️ "
+            ],
+            "flags": 0,
+            "guid": "jL<ZS",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "now"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "tomorrow",
+                "mañana",
+                "",
+                "",
+                "",
+                "",
+                "✔️ ",
+                "✔️ "
+            ],
+            "flags": 0,
+            "guid": "?NelA",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "adverb",
                 "language_EN-ES"
             ]
         }
