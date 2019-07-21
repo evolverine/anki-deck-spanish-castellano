@@ -366,7 +366,7 @@
             "tags": [
                 "expression",
                 "language_EN-ES",
-                "sentences"
+                "sentence"
             ]
         },
         {
@@ -2671,7 +2671,6 @@
             "guid": "jQ2sESW,ZK",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "cram4test",
                 "language_EN-ES"
             ]
         },
@@ -3268,7 +3267,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences"
+                "sentence"
             ]
         },
         {
@@ -3693,7 +3692,7 @@
             "tags": [
                 "Marked",
                 "language_EN-ES",
-                "sentences"
+                "sentence"
             ]
         },
         {
@@ -4157,7 +4156,7 @@
                 "expression",
                 "language_EN-ES",
                 "meeting",
-                "sentences",
+                "sentence",
                 "time"
             ]
         },
@@ -4179,7 +4178,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences"
+                "sentence"
             ]
         },
         {
@@ -4200,7 +4199,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences"
+                "sentence"
             ]
         },
         {
@@ -4222,7 +4221,7 @@
             "tags": [
                 "indication_expression",
                 "language_EN-ES",
-                "prepositions"
+                "preposition"
             ]
         },
         {
@@ -4243,7 +4242,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "prepositions"
+                "preposition"
             ]
         },
         {
@@ -4374,8 +4373,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "noun",
-                "random"
+                "noun"
             ]
         },
         {
@@ -4397,7 +4395,7 @@
             "tags": [
                 "indication_expression",
                 "language_EN-ES",
-                "subjunctivo"
+                "verb_subjunctive"
             ]
         },
         {
@@ -4419,8 +4417,7 @@
             "tags": [
                 "Marked",
                 "language_EN-ES",
-                "noun",
-                "random"
+                "noun"
             ]
         },
         {
@@ -4441,8 +4438,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "noun",
-                "random"
+                "noun"
             ]
         },
         {
@@ -4527,8 +4523,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "noun",
-                "vocab"
+                "noun"
             ]
         },
         {
@@ -29385,9 +29380,9 @@
             "guid": "D[V#F/kX9M",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -29407,9 +29402,9 @@
             "guid": "r}f!6C[[2m",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -29429,9 +29424,9 @@
             "guid": "l4nd.9*chP",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -29451,11 +29446,11 @@
             "guid": "MgJC_z#+[p",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
                 "mostcommonverbs",
                 "mostcommonwords",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -29475,9 +29470,9 @@
             "guid": "dD8s/@#V|f",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -29497,9 +29492,9 @@
             "guid": "b/]lODWlN|",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -29519,9 +29514,9 @@
             "guid": "MnQAD[6T+?",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -29541,9 +29536,9 @@
             "guid": "PnZlWhT)R{",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -29563,9 +29558,9 @@
             "guid": "rhz<qe(z!o",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -29585,9 +29580,9 @@
             "guid": "j3A3ReZ[l6",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -29607,9 +29602,9 @@
             "guid": "Iuc>Em9}]!",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -29629,9 +29624,9 @@
             "guid": "xcdK-2Ks0]",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -29651,9 +29646,9 @@
             "guid": "g^DaSek(rW",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -29673,9 +29668,9 @@
             "guid": "l$xfj9g[im",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -29695,9 +29690,9 @@
             "guid": "Pd|<(,NhPM",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -29717,9 +29712,9 @@
             "guid": "F.TG$8)btV",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -29739,9 +29734,9 @@
             "guid": "y!6pkgM08`",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -29761,9 +29756,9 @@
             "guid": "e;.DfFZvW;",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -29783,9 +29778,9 @@
             "guid": "Gt,XF%?R2v",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -29805,9 +29800,9 @@
             "guid": "BIHb=LEv/Q",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -29827,9 +29822,9 @@
             "guid": "fTqeCXpb3?",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -29849,9 +29844,9 @@
             "guid": "n<19`OWggL",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -29871,9 +29866,9 @@
             "guid": "O9sH@Vp1aW",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -29893,9 +29888,9 @@
             "guid": "(-mb?%$Sj",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -29915,9 +29910,9 @@
             "guid": "MG*pUtvFJQ",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -29937,9 +29932,9 @@
             "guid": "BV{FI&aDN/",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -29959,9 +29954,9 @@
             "guid": "sb]e<T41bW",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -29981,9 +29976,9 @@
             "guid": "bM~bP9{AA}",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -30003,9 +29998,9 @@
             "guid": "OoqavecmC^",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -30025,9 +30020,9 @@
             "guid": "MGm5,ycj@-",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -30047,9 +30042,9 @@
             "guid": "i^:eCr<iZB",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -30069,9 +30064,9 @@
             "guid": "C_Q*7K}@#x",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -30091,9 +30086,9 @@
             "guid": "D6<a5cV!FB",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -30113,9 +30108,9 @@
             "guid": "d;T%f#wq@(",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -30135,9 +30130,9 @@
             "guid": "MQGYM4+Hm-",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -30157,9 +30152,9 @@
             "guid": "gn1R:7&FN<",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -30179,10 +30174,10 @@
             "guid": "Pi7giq1}0:",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
                 "mostcommonwords",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -30202,9 +30197,9 @@
             "guid": "m/=cK,0+S[",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -30224,9 +30219,9 @@
             "guid": "zJ^D[vaq(;",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -30247,9 +30242,9 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "clarification_verb_learned",
-                "infinitive",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -30269,9 +30264,9 @@
             "guid": "f7atYU$xp6",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -30291,9 +30286,9 @@
             "guid": "J?fF.jP!Tr",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -30313,9 +30308,9 @@
             "guid": "D}DP<JV^Vt",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -30335,10 +30330,10 @@
             "guid": "MgZw+gTM{L",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
                 "mostcommonwords",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -30358,9 +30353,9 @@
             "guid": "Gr3c}yxFKr",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -30380,9 +30375,9 @@
             "guid": "L|iVIS/LxX",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -30402,9 +30397,9 @@
             "guid": "0H,Jf7:{L",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -30785,9 +30780,9 @@
                 "indication_expression",
                 "indication_use_subjunctive",
                 "language_EN-ES",
-                "sentences",
-                "subjunctive1",
-                "verb"
+                "sentence",
+                "verb",
+                "verb_subjunctive"
             ]
         },
         {
@@ -32021,7 +32016,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences"
+                "sentence"
             ]
         },
         {
@@ -33412,7 +33407,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences"
+                "sentence"
             ]
         },
         {
@@ -40445,7 +40440,7 @@
             "tags": [
                 "indication_expression",
                 "language_EN-ES",
-                "sentences"
+                "sentence"
             ]
         },
         {
@@ -42117,7 +42112,7 @@
             "tags": [
                 "indication_2_pieces_known",
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -42139,7 +42134,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -42161,7 +42156,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -42183,7 +42178,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -42205,7 +42200,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -42227,7 +42222,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -42249,7 +42244,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -42271,7 +42266,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -42293,7 +42288,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -42315,7 +42310,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -42338,7 +42333,7 @@
             "tags": [
                 "indication_informal_learned",
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -42360,7 +42355,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -42382,7 +42377,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -42564,7 +42559,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -42586,7 +42581,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -42608,7 +42603,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -42630,7 +42625,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -42653,9 +42648,9 @@
             "tags": [
                 "indication_2_genders_known",
                 "language_EN-ES",
-                "sentences",
-                "subjunctive1",
-                "verb"
+                "sentence",
+                "verb",
+                "verb_subjunctive"
             ]
         },
         {
@@ -42676,7 +42671,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -42698,7 +42693,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -42721,7 +42716,7 @@
             "tags": [
                 "indication_2_pieces_known",
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -42743,7 +42738,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -42906,9 +42901,8 @@
             "tags": [
                 "indication_2_genders_known",
                 "language_EN-ES",
-                "subjunctive1",
-                "subjunctivo",
-                "verb"
+                "verb",
+                "verb_subjunctive"
             ]
         },
         {
@@ -42950,7 +42944,7 @@
             "tags": [
                 "indication_2_pieces_known",
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -42973,7 +42967,7 @@
             "tags": [
                 "indication_2_pieces_known",
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -42995,7 +42989,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -43017,7 +43011,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -43039,7 +43033,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -43061,7 +43055,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -43083,7 +43077,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -43105,7 +43099,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -43128,7 +43122,7 @@
             "tags": [
                 "indication_2_pieces_known",
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -43150,7 +43144,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -43173,7 +43167,7 @@
             "tags": [
                 "indication_2_pieces_known",
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -43195,7 +43189,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -43217,7 +43211,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -43239,7 +43233,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -43261,7 +43255,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -43283,7 +43277,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -43305,7 +43299,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -43327,7 +43321,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -43349,7 +43343,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -43371,7 +43365,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -43393,7 +43387,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -43415,7 +43409,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -43437,7 +43431,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -43459,7 +43453,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -43481,7 +43475,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -43503,7 +43497,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -43525,7 +43519,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -43547,7 +43541,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -43570,7 +43564,7 @@
             "tags": [
                 "indication_2_pieces_known",
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -43592,7 +43586,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verb"
             ]
         },
@@ -47664,7 +47658,6 @@
             "guid": "nlD`1-ACy!",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "imperative",
                 "language_EN-ES",
                 "verb"
             ]
@@ -56979,7 +56972,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences"
+                "sentence"
             ]
         },
         {
@@ -58574,7 +58567,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences"
+                "sentence"
             ]
         },
         {
@@ -58679,9 +58672,9 @@
             "guid": ";V|GM",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "Marked",
                 "language_EN-ES",
-                "marked",
-                "sentences"
+                "sentence"
             ]
         },
         {
@@ -58942,7 +58935,7 @@
             "tags": [
                 "Marked",
                 "language_EN-ES",
-                "prepositions"
+                "preposition"
             ]
         },
         {
@@ -59243,7 +59236,7 @@
             "tags": [
                 "indication_expression",
                 "language_EN-ES",
-                "sentences"
+                "sentence"
             ]
         },
         {
@@ -59830,7 +59823,7 @@
                 "indication_expression",
                 "language_EN-ES",
                 "noun",
-                "sentences"
+                "sentence"
             ]
         },
         {
@@ -61144,7 +61137,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences"
+                "sentence"
             ]
         },
         {
@@ -61629,7 +61622,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences"
+                "sentence"
             ]
         },
         {
@@ -61779,7 +61772,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verified"
             ]
         },
@@ -61801,7 +61794,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences",
+                "sentence",
                 "verified"
             ]
         },
@@ -62943,8 +62936,7 @@
             "tags": [
                 "language_EN-ES",
                 "mostcommonwords",
-                "noun",
-                "vocab"
+                "noun"
             ]
         },
         {
@@ -63080,7 +63072,7 @@
                 "language_EN-ES",
                 "mostcommonwords",
                 "phrases",
-                "prepositions"
+                "preposition"
             ]
         },
         {
@@ -63188,8 +63180,7 @@
                 "adjective",
                 "indication_2_genders_learned",
                 "language_EN-ES",
-                "mostcommonwords",
-                "vocab"
+                "mostcommonwords"
             ]
         },
         {
@@ -63655,8 +63646,7 @@
                 "clarification_adverb_known",
                 "language_EN-ES",
                 "mostcommonwords",
-                "tiempo",
-                "vocab"
+                "tiempo"
             ]
         },
         {
@@ -63951,8 +63941,7 @@
                 "indication_singular_plural_learned",
                 "language_EN-ES",
                 "marked",
-                "mostcommonwords",
-                "prases"
+                "mostcommonwords"
             ]
         },
         {
@@ -64197,8 +64186,7 @@
                 "adjective",
                 "indication_2_genders_learned",
                 "language_EN-ES",
-                "mostcommonwords",
-                "vocab"
+                "mostcommonwords"
             ]
         },
         {
@@ -64308,8 +64296,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "mostcommonwords",
-                "random"
+                "mostcommonwords"
             ]
         },
         {
@@ -64483,8 +64470,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "mostcommonwords",
-                "vocab"
+                "mostcommonwords"
             ]
         },
         {
@@ -64876,7 +64862,7 @@
             "tags": [
                 "clothes",
                 "language_EN-ES",
-                "sentences"
+                "sentence"
             ]
         },
         {
@@ -64922,7 +64908,7 @@
                 "colour",
                 "language_EN-ES",
                 "phrases2",
-                "sentences"
+                "sentence"
             ]
         },
         {
@@ -65058,8 +65044,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "mostcommonwords",
-                "random"
+                "mostcommonwords"
             ]
         },
         {
@@ -65080,8 +65065,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "mostcommonwords",
-                "vocab"
+                "mostcommonwords"
             ]
         },
         {
@@ -65103,8 +65087,7 @@
             "tags": [
                 "language_EN-ES",
                 "mostcommonwords",
-                "noun",
-                "vocab"
+                "noun"
             ]
         },
         {
@@ -65192,8 +65175,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "noun",
-                "vocab"
+                "noun"
             ]
         },
         {
@@ -65302,7 +65284,7 @@
                 "language_EN-ES",
                 "mostcommonwords",
                 "phrases",
-                "prepositions"
+                "preposition"
             ]
         },
         {
@@ -65324,8 +65306,7 @@
             "tags": [
                 "language_EN-ES",
                 "mostcommonwords",
-                "phrases",
-                "random"
+                "phrases"
             ]
         },
         {
@@ -65370,8 +65351,7 @@
             "tags": [
                 "language_EN-ES",
                 "marked",
-                "mostcommonwords",
-                "vocab"
+                "mostcommonwords"
             ]
         },
         {
@@ -65861,6 +65841,27 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "along (=along the length of) / throughout/along",
+                "a lo largo de",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️"
+            ],
+            "flags": 0,
+            "guid": "K~m^Ikww7O",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "prepositional_phrases"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "tranquil, calm, quiet",
                 "tranquilo",
                 "",
@@ -66092,8 +66093,7 @@
             "tags": [
                 "food",
                 "language_EN-ES",
-                "noun",
-                "vocab"
+                "noun"
             ]
         },
         {
@@ -66506,8 +66506,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "mostcommonwords",
-                "vocab"
+                "mostcommonwords"
             ]
         },
         {
@@ -66570,7 +66569,6 @@
             "guid": "opmE}l@*V;",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "cram4test",
                 "language_EN-ES",
                 "verb"
             ]
@@ -66592,7 +66590,6 @@
             "guid": "J<zR2n0SA@",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "cram4test",
                 "language_EN-ES",
                 "verb"
             ]
@@ -67675,7 +67672,6 @@
             "guid": "y3`[Sb~!TU",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "cram4test",
                 "language_EN-ES",
                 "verb"
             ]
@@ -67868,7 +67864,6 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "Marked",
-                "cram4test",
                 "language_EN-ES",
                 "verb"
             ]
@@ -70102,9 +70097,9 @@
             "guid": "r<r62l%W<+",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -70124,9 +70119,9 @@
             "guid": "f<B>GYmeNG",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "infinitive",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -72563,7 +72558,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "sentences"
+                "sentence"
             ]
         },
         {
