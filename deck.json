@@ -2661,6 +2661,29 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "the pea",
+                "el guisante",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "uxB>-GwLrK",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "food",
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "the tripe, the intestine, the gut",
                 "la tripa",
                 "",
@@ -2908,6 +2931,29 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "the spouse",
+                "el cónyuge, la cónyuge<br>el esposo, la esposa",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "r)p8C]*Uby",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "indication_2_genders_learned",
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "the daughter in law",
                 "la nuera",
                 "",
@@ -3059,6 +3105,28 @@
             "tags": [
                 "language_EN-ES",
                 "marked",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "the shampoo",
+                "el champú",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "oVlerMFVBb",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
                 "noun"
             ]
         },
@@ -3325,6 +3393,28 @@
             ],
             "flags": 0,
             "guid": "r,+k|85$$b",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "the square metre",
+                "el metro cuadrado",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "kVs=:s`30I",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -3756,6 +3846,50 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "the vanilla",
+                "la vainilla",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "mENMSX7;o=",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "the cider",
+                "la sidra",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "p+S6x3J}v`",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "the letter box (Br) / the mail box (Am)",
                 "el buzón",
                 "",
@@ -3818,6 +3952,28 @@
                 "indication_expression",
                 "language_EN-ES",
                 "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "I've lost my handbag.",
+                "He perdido mi bolso.",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "t4lRL,|7%&",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "sentence"
             ]
         },
         {
@@ -4145,6 +4301,28 @@
             ],
             "flags": 0,
             "guid": "pM|YlQG8+u",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "the cinnamon",
+                "la canela",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "qyPw}g>;|i",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -6754,6 +6932,28 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "the mask",
+                "la máscara",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "7:7oH",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "to knit, to crochet, to weave",
                 "tejer",
                 "",
@@ -7406,6 +7606,28 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "the ice cream",
+                "el helado",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "vZq8G",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "the waiter, the waitress",
                 "el camarero, la camarera",
                 "",
@@ -7811,6 +8033,29 @@
             ],
             "flags": 0,
             "guid": "EF}:9",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "indication_2_genders",
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "the stepmother, the stepfather",
+                "la madrastra, el padrastro",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "_9*B9",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "indication_2_genders",
@@ -32686,6 +32931,28 @@
             "tags": [
                 "Marked",
                 "language_EN-ES"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "the sour cherry",
+                "la guinda",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "4TFUk",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
             ]
         },
         {
@@ -58089,6 +58356,28 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "equivalent",
+                "equivalente",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "BHY@rUO2q|",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "adjective",
+                "language_EN-ES"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "the holder, the owner",
                 "el titular",
                 "Este beneficio del seguro no es para la familia entera, sino solo para el titular.",
@@ -68716,6 +69005,28 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "the hamburger",
+                "la hamburguesa",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "dSWtQULz<,",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "to, at",
                 "a",
                 "",
@@ -69677,6 +69988,28 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "the handbag",
+                "el bolso",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "C4tw!i?g8m",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "the effect",
                 "el efecto",
                 "",
@@ -69808,6 +70141,28 @@
                 "language_EN-ES",
                 "mostcommonwords",
                 "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "sensitive",
+                "sensible",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "+0Mpyh$v?",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "adjective",
+                "language_EN-ES"
             ]
         },
         {
@@ -77079,6 +77434,94 @@
             ],
             "flags": 0,
             "guid": "nE/{G",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "the square [⬜]",
+                "el cuadrado",
+                "",
+                "",
+                "",
+                "",
+                "✔️ ",
+                "✔️ ",
+                ""
+            ],
+            "flags": 0,
+            "guid": "wjZ0T",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "the lust",
+                "la lujuria",
+                "",
+                "",
+                "",
+                "",
+                "✔️ ",
+                "✔️ ",
+                ""
+            ],
+            "flags": 0,
+            "guid": "4I:iT",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "the detergent",
+                "el detergente",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "y(@9d@-M8{",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "the tub (eg. of shampoo)",
+                "la tarrina",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "l!K3#!H`NP",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
