@@ -61330,28 +61330,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "en la práctica",
-                "a la pràctica",
-                "",
-                "",
-                "",
-                "",
-                "✔️",
-                "✔️",
-                ""
-            ],
-            "flags": 0,
-            "guid": "yk9A8",
-            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
-            "tags": [
-                "indication_expression",
-                "language_ES-CA"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "the temporal lobe [👾]",
                 "el lóbulo temporal",
                 "",
@@ -75063,29 +75041,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "el literato, la literata",
-                "el literat, la literata,<br>el lletraferit, la lletraferida",
-                "",
-                "",
-                "",
-                "",
-                "✔️ ",
-                "✔️ ",
-                ""
-            ],
-            "flags": 0,
-            "guid": "F)t/2",
-            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
-            "tags": [
-                "indication_2_genders_learned",
-                "language_ES-CA",
-                "noun"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "the monogamy",
                 "la monogamia",
                 "",
@@ -76345,28 +76300,6 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "noun"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "la funda de almohada",
-                "la coixinera",
-                "",
-                "",
-                "",
-                "",
-                "✔️ ",
-                "✔️ ",
-                ""
-            ],
-            "flags": 0,
-            "guid": "*|O6V",
-            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
-            "tags": [
-                "language_ES-CA",
                 "noun"
             ]
         },
