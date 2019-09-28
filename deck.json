@@ -1496,7 +1496,7 @@
             "data": "",
             "fields": [
                 "the flamenco [💃]",
-                "el flamenco",
+                "el flamenco [💃]",
                 "",
                 "",
                 "",
@@ -8850,7 +8850,8 @@
             "guid": "+/PnQ",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "language_EN-ES"
+                "language_EN-ES",
+                "marked"
             ]
         },
         {
@@ -9047,7 +9048,8 @@
             "tags": [
                 "clarification_adjective_learned",
                 "indication_2_genders_learned",
-                "language_EN-ES"
+                "language_EN-ES",
+                "marked"
             ]
         },
         {
@@ -46863,8 +46865,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "to restart a laptop",
-                "reiniciar un portátil",
+                "to restart the laptop",
+                "reiniciar el portátil",
                 "",
                 "",
                 "",
@@ -55171,6 +55173,7 @@
             "guid": "KvI:]s]%fA",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "indication_2_genders_learned",
                 "language_EN-ES",
                 "marked",
                 "noun"
@@ -55335,7 +55338,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "detective",
+                "the detective",
                 "el detective",
                 "",
                 "",
@@ -56173,7 +56176,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "resistance",
+                "the resistance",
                 "la resistencia",
                 "",
                 "",
@@ -57574,7 +57577,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "selection",
+                "the selection",
                 "la selección",
                 "",
                 "",
@@ -69398,7 +69401,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "the tape",
+                "the (adhesive) tape",
                 "la cinta",
                 "",
                 "",
@@ -71148,7 +71151,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "the traveller",
+                "the voyager, the traveller",
                 "el viajero",
                 "",
                 "",
