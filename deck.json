@@ -1033,6 +1033,7 @@
             "guid": "eWjp#E2ZM`",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "adjective",
                 "language_EN-ES",
                 "sentence"
             ]
@@ -38101,6 +38102,8 @@
             "guid": "o!W;WO[;CC",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "adverb",
+                "indication_expression_learned",
                 "language_EN-ES"
             ]
         },
@@ -46282,7 +46285,8 @@
             "tags": [
                 "language_EN-ES",
                 "sentence",
-                "verb"
+                "verb",
+                "verb_subjunctive"
             ]
         },
         {
@@ -46873,8 +46877,9 @@
             "guid": "?J8#I",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "Marked",
-                "language_EN-ES"
+                "language_EN-ES",
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
