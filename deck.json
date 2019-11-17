@@ -4002,6 +4002,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
+                "marked",
                 "noun"
             ]
         },
@@ -5737,8 +5738,8 @@
             "guid": "prie/",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "Marked",
                 "language_EN-ES",
+                "marked",
                 "verb"
             ]
         },
@@ -6499,6 +6500,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
+                "marked",
                 "verb"
             ]
         },
@@ -8494,8 +8496,8 @@
             "guid": "{7sd6",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "Marked",
-                "language_EN-ES"
+                "language_EN-ES",
+                "marked"
             ]
         },
         {
@@ -11142,8 +11144,8 @@
             "guid": "?m2JL",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "Marked",
-                "language_EN-ES"
+                "language_EN-ES",
+                "marked"
             ]
         },
         {
@@ -31418,7 +31420,8 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "adjective",
-                "language_EN-ES"
+                "language_EN-ES",
+                "marked"
             ]
         },
         {
@@ -31705,6 +31708,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
+                "marked",
                 "verb",
                 "verb_infinitive"
             ]
@@ -33836,8 +33840,8 @@
             "guid": "kLnkE",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "Marked",
                 "language_EN-ES",
+                "marked",
                 "verb"
             ]
         },
@@ -36272,8 +36276,8 @@
             "guid": "BjFrz#H15z",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "Marked",
                 "language_EN-ES",
+                "marked",
                 "verb"
             ]
         },
@@ -37147,8 +37151,8 @@
             "guid": "g!Nltg%=}S",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "Marked",
                 "language_EN-ES",
+                "marked",
                 "verb"
             ]
         },
@@ -38332,6 +38336,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
+                "marked",
                 "noun"
             ]
         },
@@ -39233,7 +39238,8 @@
             "guid": "JGmLH*n>>M",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "language_EN-ES"
+                "language_EN-ES",
+                "marked"
             ]
         },
         {
@@ -41232,8 +41238,8 @@
             "guid": "xaL2`y(_7U",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "Marked",
-                "language_EN-ES"
+                "language_EN-ES",
+                "marked"
             ]
         },
         {
@@ -48356,7 +48362,8 @@
             "guid": "r@tL4",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "language_EN-ES"
+                "language_EN-ES",
+                "marked"
             ]
         },
         {
@@ -50010,7 +50017,8 @@
             "guid": ",U^VU",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "language_EN-ES"
+                "language_EN-ES",
+                "marked"
             ]
         },
         {
@@ -54314,8 +54322,8 @@
             "guid": "eN,Cb{}u7P",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "Marked",
                 "language_EN-ES",
+                "marked",
                 "noun"
             ]
         },
@@ -55835,6 +55843,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
+                "marked",
                 "noun"
             ]
         },
@@ -57359,8 +57368,8 @@
             "guid": "u:CG/jJdZ?",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "Marked",
                 "language_EN-ES",
+                "marked",
                 "noun"
             ]
         },
@@ -61626,8 +61635,8 @@
             "guid": "a5oyK",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "Marked",
                 "language_EN-ES",
+                "marked",
                 "noun"
             ]
         },
@@ -63382,9 +63391,9 @@
             "guid": ";jOhS",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "Marked",
                 "adjective",
-                "language_EN-ES"
+                "language_EN-ES",
+                "marked"
             ]
         },
         {
@@ -66239,8 +66248,8 @@
             "guid": "D!$UH",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "Marked",
                 "language_EN-ES",
+                "marked",
                 "noun"
             ]
         },
@@ -70964,8 +70973,8 @@
             "guid": "Hdo$+uQm3d",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "Marked",
                 "language_EN-ES",
+                "marked",
                 "verb"
             ]
         },
