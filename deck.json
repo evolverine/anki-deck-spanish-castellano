@@ -59,8 +59,14 @@
     "media_files": [
         "2019-01-27 11.27.49.jpg",
         "2019-02-10 10.42.19.jpg",
+        "Prunus_Persica_var._Platycarpa.JPG",
         "butterflies_small.jpg",
+        "cc-sa_icon.svg",
+        "cc.svg",
+        "cc_person.svg",
         "grapes_small.jpg",
+        "pinch.jpg",
+        "vase.jpg",
         "y7FEUD_1511738390412.jpg"
     ],
     "mid": 1511738390412,
@@ -3453,12 +3459,12 @@
                 "the vase",
                 "el jarrón",
                 "",
-                "",
+                "<img src=\"vase.jpg\">",
                 "",
                 "",
                 "✔️",
                 "✔️",
-                ""
+                "Photo by&nbsp;<strong><a href=\"https://www.pexels.com/@vadim51\">Vadim Bocharov</a>&nbsp;</strong>from&nbsp;<strong><a href=\"https://www.pexels.com/photo/animal-antenna-biology-butterfly-2395264/?utm_content=attributionCopyText&amp;utm_medium=referral&amp;utm_source=pexels\">Pexels</a></strong>"
             ],
             "flags": 0,
             "guid": "sn6#@WGM#C",
@@ -62281,18 +62287,19 @@
                 "the pinch [👌😮]",
                 "el pellizco",
                 "",
-                "",
+                "<img src=\"pinch.jpg\">",
                 "",
                 "",
                 "✔️",
                 "✔️",
-                ""
+                "<p style=\"font-size: 0.9rem;font-style: italic;\"><a href=\"https://www.flickr.com/photos/12719710@N00/2220591590\">\"Hmm, now THAT'S Art!\"</a>&nbsp;<span>by <a href=\"https://www.flickr.com/photos/12719710@N00\">Betchaboy</a></span> is licensed under <a href=\"https://creativecommons.org/licenses/by-sa/2.0/?ref=ccsearch&amp;atype=html\" style=\"margin-right: 5px;\">CC BY-SA 2.0</a><a href=\"https://creativecommons.org/licenses/by-sa/2.0/?ref=ccsearch&amp;atype=html\" rel=\"noopener noreferrer\" style=\"display: inline-block;white-space: none;opacity: .7;margin-top: 2px;margin-left: 3px;height: 22px !important;\" target=\"_blank\"><img src=\"cc.svg\" style=\"height: inherit;margin-right: 3px;display: inline-block;\"><img src=\"cc_person.svg\" style=\"height: inherit;margin-right: 3px;display: inline-block;\"><img src=\"cc-sa_icon.svg\" style=\"height: inherit;margin-right: 3px;display: inline-block;\"></a></p>"
             ],
             "flags": 0,
             "guid": "C27kN",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
+                "marked",
                 "noun"
             ]
         },
