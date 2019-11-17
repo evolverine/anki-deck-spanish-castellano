@@ -187,6 +187,8 @@
             ],
             "sortf": 0,
             "tags": [
+                "expression",
+                "indication_colloquial",
                 "language_EN-ES",
                 "sentence"
             ],
@@ -9110,6 +9112,7 @@
             "guid": "q3b>U",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "indication_2_genders",
                 "language_EN-ES",
                 "noun"
             ]
@@ -30497,9 +30500,8 @@
             "guid": "izwgU",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "Marked",
-                "indication_expression",
                 "language_EN-ES",
+                "marked",
                 "noun"
             ]
         },
@@ -45965,7 +45967,9 @@
             "guid": "ME8O7!kA)3",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "language_EN-ES"
+                "indication_2_pieces_known",
+                "language_EN-ES",
+                "verb_subjunctive"
             ]
         },
         {
@@ -47784,6 +47788,7 @@
             "guid": "a1]e3",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "indication_2_pieces_known",
                 "language_EN-ES",
                 "verb"
             ]
@@ -64915,6 +64920,7 @@
             "guid": "[>_(9",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "indication_singular_plural_learned",
                 "language_EN-ES",
                 "noun"
             ]
