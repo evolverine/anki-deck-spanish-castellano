@@ -473,6 +473,28 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "the toasted bread",
+                "el pan tostado",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "fCdR>vLgyO",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "silly, foolish",
                 "tonto, tonta, bobo, boba",
                 "",
@@ -2573,6 +2595,28 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "financial",
+                "financiero",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "s0x*)`xBiu",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "adjective",
+                "language_EN-ES"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "hungry",
                 "hambriento",
                 "Te veo hambrienta; ¿cuando comiste la última vez?",
@@ -2610,6 +2654,29 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "adjective",
+                "language_EN-ES"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "handwritten",
+                "manuscrito",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "vxKNH%,bmO",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "adjective",
+                "clarification_adjective_known",
                 "language_EN-ES"
             ]
         },
@@ -2676,6 +2743,30 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "food",
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "the raisin",
+                "la pasa, las pasas",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "vrpR.,j(dg",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "food",
+                "indication_singular_plural_learned",
                 "language_EN-ES",
                 "noun"
             ]
@@ -3779,6 +3870,28 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "the duvet cover",
+                "la funda de edredón",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "gpaBh8?b_A",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "the torch, the flashlight",
                 "la linterna",
                 "",
@@ -4156,6 +4269,29 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "to exist",
+                "existir",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "h3(x,{Ls$4",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "verb",
+                "verb_infinitive"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "the brake",
                 "el freno [🚲]",
                 "",
@@ -4261,6 +4397,51 @@
             "tags": [
                 "language_EN-ES",
                 "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "smoked",
+                "ahumado",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "tn),<0^{A<",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "adjective",
+                "clarification_adjective_known",
+                "language_EN-ES"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "toasted",
+                "tostado<br>",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "qD}gJP=4Fj",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "adjective",
+                "language_EN-ES"
             ]
         },
         {
@@ -5359,6 +5540,29 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "the eviction",
+                "el desahucio, el desalojo",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "cn8S>>r]}g",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "marked",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "the coworker, the workmate",
                 "el compañero (de trabajo)",
                 "",
@@ -5580,6 +5784,29 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "I'm really tired. [💨]",
+                "Estoy hecho polvo.",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "nwpT9",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "indication_expression_learned",
+                "language_EN-ES",
+                "sentence"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "the helmet, the hull",
                 "el casco",
                 "",
@@ -5635,6 +5862,28 @@
             ],
             "flags": 0,
             "guid": "fUt/I",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "the baseball bat",
+                "el bate de béisbol",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "OO$4Q",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -8181,6 +8430,28 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "the baseball",
+                "el béisbol",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": ">Tl/T",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "the racket 🎾",
                 "la raqueta",
                 "",
@@ -8613,6 +8884,29 @@
                 "Marked",
                 "language_EN-ES",
                 "verb"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "to motivate",
+                "motivar",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "@i3HA",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -9358,6 +9652,29 @@
             "tags": [
                 "language_EN-ES",
                 "verb"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "the Saturn peach",
+                "el paraguayo",
+                "",
+                "<img src=\"Prunus_Persica_var._Platycarpa.JPG\">",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                "Photo by <strong><a href=\"https://commons.wikimedia.org/wiki/User:Daum\">Daum</a>&nbsp;</strong>from <strong><a href=\"https://ca.wikipedia.org/wiki/Fitxer:Prunus_Persica_var._Platycarpa.JPG\">Wikipedia</a></strong>"
+            ],
+            "flags": 0,
+            "guid": "Wi*r4",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "food",
+                "language_EN-ES",
+                "noun"
             ]
         },
         {
@@ -10603,6 +10920,29 @@
             "tags": [
                 "language_EN-ES",
                 "marked"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "to encourage",
+                "animar, alentar",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "MUKuO",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -30158,6 +30498,30 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "to evict",
+                "desalojar [🏡]",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "A1DwG",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "marked",
+                "verb",
+                "verb_infinitive"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "tenacious, persistent",
                 "tenaz",
                 "",
@@ -30457,6 +30821,29 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "the slave",
+                "el esclavo, la esclava",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "tctgN&>J;f",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "indication_2_genders_learned",
+                "language_EN-ES",
+                "noun"
             ]
         },
         {
@@ -30825,6 +31212,28 @@
             ],
             "flags": 0,
             "guid": "8?4PN",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "the wheat",
+                "el trigo",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ly.EqI9MLz",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -33143,6 +33552,28 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "paradoxically",
+                "paradójicamente",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "9hqju",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "adjective",
+                "language_EN-ES"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "the auction, the bidding",
                 "la subasta",
                 "",
@@ -33519,6 +33950,28 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "the brick",
+                "el ladrillo",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "wO.K1B=7:>",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "until, even",
                 "hasta",
                 "",
@@ -33762,6 +34215,29 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "to trim, to prune",
+                "podar",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "C|(LolqA/[",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "verb",
+                "verb_infinitive"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "the Easter",
                 "la Pascua",
                 "",
@@ -33959,6 +34435,28 @@
             "tags": [
                 "indication_expression",
                 "language_EN-ES"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "the cashew nut",
+                "el anacardo",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "oBmO|4g:fI",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
             ]
         },
         {
@@ -40281,6 +40779,29 @@
             "tags": [
                 "language_EN-ES",
                 "mostcommonwords"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "to row",
+                "remar",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "dr(;C",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -57155,6 +57676,28 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "the preparation",
+                "la preparación",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "C8Updx?0*,",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "the decrease",
                 "la disminución",
                 "",
@@ -58349,6 +58892,28 @@
             ],
             "flags": 0,
             "guid": "w{U{1j,1rP",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "the repair, the reparation",
+                "la reparación",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "JEKbfJIdNz",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -69879,6 +70444,29 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "the radish",
+                "el rábano",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "k5^|ULv|5y",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "food",
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "the grape",
                 "la uva",
                 "",
@@ -70259,6 +70847,29 @@
                 "language_EN-ES",
                 "marked",
                 "mostcommonwords"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "the corn",
+                "el maíz",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "e(u1=CCSQ}",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "food",
+                "language_EN-ES",
+                "noun"
             ]
         },
         {
@@ -70797,6 +71408,29 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "to deny [belief]",
+                "negar",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "zrK|.@}-kW",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "verb",
+                "verb_infinitive"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "to teach",
                 "enseñar [📚] ",
                 "",
@@ -71151,6 +71785,28 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "the existence",
+                "la existencia",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "MRpr&?r%oP",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "the voyager, the traveller",
                 "el viajero",
                 "",
@@ -71256,6 +71912,29 @@
                 "adjective",
                 "adverb",
                 "indication_expression_learned",
+                "language_EN-ES",
+                "marked"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "fast, rapid",
+                "rápido, veloz",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "K0bV>PZh#%",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "adjective",
                 "language_EN-ES",
                 "marked"
             ]
@@ -71667,6 +72346,28 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "to punish",
+                "castigar",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "t@1lwj+.sO",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "verb"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "to fight, to struggle",
                 "luchar",
                 "",
@@ -71794,6 +72495,52 @@
                 "Marked",
                 "language_EN-ES",
                 "verb"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "to stir, to mix",
+                "revolver, remover",
+                "Recomiendo remover la sopa para que se enfríe más rápidamente.<div>Revuelve, por favor, el azúcar en el café hasta te paso su contacto.</div>",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "r_X7+AYk&I",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "verb",
+                "verb_infinitive"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "to challenge",
+                "desafiar, retar",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "C75Fb::fX;",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -77461,7 +78208,367 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
+                "marked",
                 "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "the capital / uppercase letter",
+                "la letra mayúscula",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "h/c0WAa:i#",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "indication_2_pieces_known",
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "inhumane",
+                "inhumano",
+                "",
+                "",
+                "",
+                "",
+                "✔️ ",
+                "✔️ ",
+                ""
+            ],
+            "flags": 0,
+            "guid": "vrJ{O",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "adjective",
+                "language_EN-ES"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "the piggy bank, the money box",
+                "la hucha",
+                "",
+                "",
+                "",
+                "",
+                "✔️ ",
+                "✔️ ",
+                ""
+            ],
+            "flags": 0,
+            "guid": "`rUMS",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "punishable",
+                "punible, sancionable",
+                "",
+                "",
+                "",
+                "",
+                "✔️ ",
+                "✔️ ",
+                ""
+            ],
+            "flags": 0,
+            "guid": ",#o+B",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "adjective",
+                "language_EN-ES"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "worrying",
+                "preocupante, inquietante",
+                "",
+                "",
+                "",
+                "",
+                "✔️ ",
+                "✔️ ",
+                ""
+            ],
+            "flags": 0,
+            "guid": "G4R]8",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "adjective",
+                "clarification_adjective_known",
+                "language_EN-ES"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "the barbed wire",
+                "el alambre de púas",
+                "",
+                "",
+                "",
+                "",
+                "✔️ ",
+                "✔️ ",
+                ""
+            ],
+            "flags": 0,
+            "guid": "~=&IG",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "expression",
+                "language_EN-ES"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "the otherness",
+                "la otredad",
+                "",
+                "",
+                "",
+                "",
+                "✔️ ",
+                "✔️ ",
+                ""
+            ],
+            "flags": 0,
+            "guid": "h~W]I",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "knackered",
+                "reventado",
+                "",
+                "",
+                "",
+                "",
+                "✔️ ",
+                "✔️ ",
+                ""
+            ],
+            "flags": 0,
+            "guid": "DVf/D",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "adjective",
+                "indication_colloquial",
+                "language_EN-ES"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "the pecan (nut)",
+                "la pacana",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "goMciDuB2m",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "the pine nut",
+                "el piñon",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ue;e50`OJG",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "the peanut",
+                "el cacahuete",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "gRH74/II~#",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "food",
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "the acidity",
+                "la acidez",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "e=}(>xT/a{",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "upside-down",
+                "boca abajo, patas arriba",
+                "Llegó boca abajo en la suspensión de shibari.",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "iklqkTSt&-",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "adjective",
+                "language_EN-ES",
+                "marked"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "the paradox",
+                "la paradoja",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ptd;>`|~}>",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "happily",
+                "felizmente",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "BQQQvlj+R>",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "adverb",
+                "language_EN-ES"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "It's very cold.",
+                "Hace rasca.",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "cm3;yD<G;K",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "expression",
+                "indication_colloquial",
+                "language_EN-ES",
+                "sentence"
             ]
         }
     ]
