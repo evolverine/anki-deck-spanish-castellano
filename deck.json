@@ -36903,29 +36903,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "to put in, to get involved in, to be part of",
-                "meter(se)",
-                "",
-                "",
-                "",
-                "",
-                "✔️",
-                "✔️",
-                ""
-            ],
-            "flags": 0,
-            "guid": "Hn$&S5f>,=",
-            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
-            "tags": [
-                "Marked",
-                "language_EN-ES",
-                "verb"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "to appear, to show up",
                 "aparecer",
                 "",
@@ -74132,28 +74109,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "the rehearsal, trial, essay",
-                "el ensayo",
-                "",
-                "",
-                "",
-                "",
-                "✔️",
-                "✔️",
-                ""
-            ],
-            "flags": 0,
-            "guid": "j_9zjb265:",
-            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
-            "tags": [
-                "language_EN-ES",
-                "noun"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "the reservation, the reserve",
                 "la reserva",
                 "",
@@ -77878,28 +77833,6 @@
                 "language_EN-ES",
                 "verb",
                 "verb_infinitive"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "the homesickness",
-                "la morriña, la nostalgia",
-                "",
-                "",
-                "",
-                "",
-                "✔️ ",
-                "✔️",
-                ""
-            ],
-            "flags": 0,
-            "guid": "<UrTH",
-            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
-            "tags": [
-                "language_EN-ES",
-                "noun"
             ]
         },
         {
