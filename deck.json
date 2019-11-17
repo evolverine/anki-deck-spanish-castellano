@@ -1013,8 +1013,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "certain, sure, true",
-                "cierto",
+                "It's true that ...",
+                "Es cierto que ...<br>Es verdad que ...",
                 "",
                 "",
                 "",
