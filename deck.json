@@ -188,7 +188,7 @@
             "sortf": 0,
             "tags": [
                 "language_EN-ES",
-                "noun"
+                "sentence"
             ],
             "tmpls": [
                 {
@@ -1034,7 +1034,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "mostcommonwords"
+                "sentence"
             ]
         },
         {
@@ -39863,7 +39863,8 @@
             "guid": "Eiu]67JeAc",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "language_EN-ES"
+                "language_EN-ES",
+                "sentence"
             ]
         },
         {
@@ -42336,7 +42337,8 @@
             "guid": "xB3cYsDX`n",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "language_EN-ES"
+                "language_EN-ES",
+                "sentence"
             ]
         },
         {
