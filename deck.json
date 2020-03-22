@@ -359,6 +359,7 @@
             ],
             "flags": 0,
             "guid": "uCC^b($pPD",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "indication_2_genders_learned",
@@ -382,6 +383,7 @@
             ],
             "flags": 0,
             "guid": "vXrH0D3/<2",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "expression",
@@ -405,6 +407,7 @@
             ],
             "flags": 0,
             "guid": "c*2XT)t;zW",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "expression",
@@ -428,6 +431,7 @@
             ],
             "flags": 0,
             "guid": "mU^!u8P_jb",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES"
@@ -449,6 +453,7 @@
             ],
             "flags": 0,
             "guid": "gzaCXsc?t5",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -471,6 +476,7 @@
             ],
             "flags": 0,
             "guid": "vHvA@W#ft3",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -493,6 +499,7 @@
             ],
             "flags": 0,
             "guid": "fCdR>vLgyO",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -515,6 +522,7 @@
             ],
             "flags": 0,
             "guid": "c0ZmgA3%4Y",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "adjective",
@@ -539,6 +547,7 @@
             ],
             "flags": 0,
             "guid": "g,pn:KTsBV",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "expression",
@@ -562,6 +571,7 @@
             ],
             "flags": 0,
             "guid": "lUqxqjQS)b",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -584,6 +594,7 @@
             ],
             "flags": 0,
             "guid": "qL}MWxC`_Q",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -606,6 +617,7 @@
             ],
             "flags": 0,
             "guid": "hvY=11?StG",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -628,6 +640,7 @@
             ],
             "flags": 0,
             "guid": "iS6k8ZtzOt",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -651,6 +664,7 @@
             ],
             "flags": 0,
             "guid": "cIs*B@.SLv",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -674,6 +688,7 @@
             ],
             "flags": 0,
             "guid": "efC(%>/zHH",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "expression",
@@ -696,6 +711,7 @@
             ],
             "flags": 0,
             "guid": "b63,xD0qj4",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -719,6 +735,7 @@
             ],
             "flags": 0,
             "guid": "g`WJ^EwZ!v",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -741,6 +758,7 @@
             ],
             "flags": 0,
             "guid": "oF^.X[sn78",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -763,6 +781,7 @@
             ],
             "flags": 0,
             "guid": "b%M)L,wPR_",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -785,6 +804,7 @@
             ],
             "flags": 0,
             "guid": "cZ3n<(8/gF",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -808,6 +828,7 @@
             ],
             "flags": 0,
             "guid": "h%b,4cyN-Q",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -877,6 +898,7 @@
             ],
             "flags": 0,
             "guid": "uzbzL/jj/d",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -900,6 +922,7 @@
             ],
             "flags": 0,
             "guid": "j|76tY#d&Y",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -922,6 +945,7 @@
             ],
             "flags": 0,
             "guid": "o!p+Ii~K..",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -944,6 +968,7 @@
             ],
             "flags": 0,
             "guid": "h:KCvJ(/+i",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -966,6 +991,7 @@
             ],
             "flags": 0,
             "guid": "n5f>SA9[_9",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -989,6 +1015,7 @@
             ],
             "flags": 0,
             "guid": "l5lSsUfZoY",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -1011,6 +1038,7 @@
             ],
             "flags": 0,
             "guid": "oKfbbW#UO1",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -1033,6 +1061,7 @@
             ],
             "flags": 0,
             "guid": "eWjp#E2ZM`",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "adjective",
@@ -1079,6 +1108,7 @@
             ],
             "flags": 0,
             "guid": "dx~FriI$#B",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -1101,6 +1131,7 @@
             ],
             "flags": 0,
             "guid": "l{9O7/<6E4",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -1123,6 +1154,7 @@
             ],
             "flags": 0,
             "guid": "e8seKD:KuV",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -1146,6 +1178,7 @@
             ],
             "flags": 0,
             "guid": "c6J#$sb_&]",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -1169,6 +1202,7 @@
             ],
             "flags": 0,
             "guid": "qHyNEQ_@)v",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -1192,6 +1226,7 @@
             ],
             "flags": 0,
             "guid": "d2kPYZ-,Q%",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -1214,6 +1249,7 @@
             ],
             "flags": 0,
             "guid": "pZcUjg%%JP",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "indication_2_genders_learned",
@@ -1239,6 +1275,7 @@
             ],
             "flags": 0,
             "guid": "rK)YruN(r^",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -1261,6 +1298,7 @@
             ],
             "flags": 0,
             "guid": "p&z~0)Mtc`",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "indication_2_genders_learned",
@@ -1285,6 +1323,7 @@
             ],
             "flags": 0,
             "guid": "l&ID!#Pjg-",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -1307,6 +1346,7 @@
             ],
             "flags": 0,
             "guid": "hlvR#jnZfK",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "beginner",
@@ -1331,6 +1371,7 @@
             ],
             "flags": 0,
             "guid": "e$EmFDdmc`",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "beginner",
@@ -1354,6 +1395,7 @@
             ],
             "flags": 0,
             "guid": "bYIC^([4aP",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "adverb",
@@ -1378,6 +1420,7 @@
             ],
             "flags": 0,
             "guid": "ii1w6zjO+l",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "indication_2_genders_learned",
@@ -1402,6 +1445,7 @@
             ],
             "flags": 0,
             "guid": "px3mR-GWvF",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -1425,6 +1469,7 @@
             ],
             "flags": 0,
             "guid": "jQ`?E`BDOF",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -1471,6 +1516,7 @@
             ],
             "flags": 0,
             "guid": "hr}kAvK_p4",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -1494,6 +1540,7 @@
             ],
             "flags": 0,
             "guid": "tHS`TP9c>c",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -1516,6 +1563,7 @@
             ],
             "flags": 0,
             "guid": "q:W|D[0&)M",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -1538,6 +1586,7 @@
             ],
             "flags": 0,
             "guid": "o_OqvYlq7Y",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -1560,6 +1609,7 @@
             ],
             "flags": 0,
             "guid": "b{]h^,WLdH",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -1583,6 +1633,7 @@
             ],
             "flags": 0,
             "guid": "f(axg>vgdm",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -1606,6 +1657,7 @@
             ],
             "flags": 0,
             "guid": "oVgsp*x)`A",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "beginner",
@@ -1629,6 +1681,7 @@
             ],
             "flags": 0,
             "guid": "jYc_z/Hq5X",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -1653,6 +1706,7 @@
             ],
             "flags": 0,
             "guid": "fPD=,QxE9+",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "indication_2_genders_learned",
@@ -1677,6 +1731,7 @@
             ],
             "flags": 0,
             "guid": "t^othU0Xt%",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "indication_2_genders_learned",
@@ -1701,6 +1756,7 @@
             ],
             "flags": 0,
             "guid": "iD}@2^6/sx",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -1724,6 +1780,7 @@
             ],
             "flags": 0,
             "guid": "o~MT3E<Vkr",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -1747,6 +1804,7 @@
             ],
             "flags": 0,
             "guid": "dJ$Pl^L:z2",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -1771,6 +1829,7 @@
             ],
             "flags": 0,
             "guid": "hO1}uri(~~",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -1794,6 +1853,7 @@
             ],
             "flags": 0,
             "guid": "eBmGCqzI@`",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -1817,6 +1877,7 @@
             ],
             "flags": 0,
             "guid": "s!EpY.uf$q",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -1840,6 +1901,7 @@
             ],
             "flags": 0,
             "guid": "haj3Zl<o}O",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "indication_singular_plural_learned",
@@ -1864,6 +1926,7 @@
             ],
             "flags": 0,
             "guid": "t^[EJy(_Iv",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -1886,6 +1949,7 @@
             ],
             "flags": 0,
             "guid": "b>.-j~*TWv",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "emotions",
@@ -1910,6 +1974,7 @@
             ],
             "flags": 0,
             "guid": "egh`,BYoSM",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -1932,6 +1997,7 @@
             ],
             "flags": 0,
             "guid": "rN#*~(lP@J",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "indication_singular_plural",
@@ -1955,6 +2021,7 @@
             ],
             "flags": 0,
             "guid": "i5-L:>m,<<",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -1977,6 +2044,7 @@
             ],
             "flags": 0,
             "guid": "j]g9we.gd|",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -2000,6 +2068,7 @@
             ],
             "flags": 0,
             "guid": "iFoTMl5Tj3",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -2023,6 +2092,7 @@
             ],
             "flags": 0,
             "guid": "cdI/(Lvp]O",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "indication_2_genders_learned",
@@ -2046,6 +2116,7 @@
             ],
             "flags": 0,
             "guid": "b{.ed?Gd3K",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -2069,6 +2140,7 @@
             ],
             "flags": 0,
             "guid": "o#{T@_7jg{",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "indication_2_genders",
@@ -2093,6 +2165,7 @@
             ],
             "flags": 0,
             "guid": "q]Tz6us{L.",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "indication_2_genders_learned",
@@ -2116,6 +2189,7 @@
             ],
             "flags": 0,
             "guid": "gf+4sm$g>)",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -2138,6 +2212,7 @@
             ],
             "flags": 0,
             "guid": "e[&92IKZV5",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -2161,6 +2236,7 @@
             ],
             "flags": 0,
             "guid": "ci3,vHYH/l",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -2184,6 +2260,7 @@
             ],
             "flags": 0,
             "guid": "iD:iNkA1{H",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -2207,6 +2284,7 @@
             ],
             "flags": 0,
             "guid": "n=%T|_jXpt",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -2230,6 +2308,7 @@
             ],
             "flags": 0,
             "guid": "rkvSv,L&^L",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -2253,6 +2332,7 @@
             ],
             "flags": 0,
             "guid": "qP?cE`JIZ}",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -2275,6 +2355,7 @@
             ],
             "flags": 0,
             "guid": "lt<QNQrpTJ",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "indication_2_genders_learned",
@@ -2299,6 +2380,7 @@
             ],
             "flags": 0,
             "guid": "mOpqx.@>n4",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -2321,6 +2403,7 @@
             ],
             "flags": 0,
             "guid": "gT0emXW<*$",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -2343,6 +2426,7 @@
             ],
             "flags": 0,
             "guid": "Jv.COFxN|",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -2365,6 +2449,7 @@
             ],
             "flags": 0,
             "guid": "nzCH2s_;O0",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -2387,6 +2472,7 @@
             ],
             "flags": 0,
             "guid": "cpcsMbKg!*",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -2433,6 +2519,7 @@
             ],
             "flags": 0,
             "guid": "s@b$<-%Ly-",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -2455,6 +2542,7 @@
             ],
             "flags": 0,
             "guid": "f=M91;F1IY",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "adjective",
@@ -2479,6 +2567,7 @@
             ],
             "flags": 0,
             "guid": "vj`Thu_?q6",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -2501,6 +2590,7 @@
             ],
             "flags": 0,
             "guid": "d=<yan*<xI",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "beginner",
@@ -2525,6 +2615,7 @@
             ],
             "flags": 0,
             "guid": "t/YG#g:j|i",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "indication_2_genders_learned",
@@ -2549,6 +2640,7 @@
             ],
             "flags": 0,
             "guid": "s^pN(a-!74",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -2571,6 +2663,7 @@
             ],
             "flags": 0,
             "guid": "t+f?MdktGZ",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "humanbody",
@@ -2594,6 +2687,7 @@
             ],
             "flags": 0,
             "guid": "sKQ5!Qd]JH",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "adjective",
@@ -2616,6 +2710,7 @@
             ],
             "flags": 0,
             "guid": "s0x*)`xBiu",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "adjective",
@@ -2638,6 +2733,7 @@
             ],
             "flags": 0,
             "guid": "u]`35&I/F4",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "adjective",
@@ -2660,6 +2756,7 @@
             ],
             "flags": 0,
             "guid": "b_0,Q|E7A&",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "adjective",
@@ -2682,6 +2779,7 @@
             ],
             "flags": 0,
             "guid": "vxKNH%,bmO",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "adjective",
@@ -2705,6 +2803,7 @@
             ],
             "flags": 0,
             "guid": "f|P1Nf8:Jp",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "adjective",
@@ -2727,6 +2826,7 @@
             ],
             "flags": 0,
             "guid": "f>groAUQJ+",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "adjective",
@@ -2749,6 +2849,7 @@
             ],
             "flags": 0,
             "guid": "uxB>-GwLrK",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "food",
@@ -2772,6 +2873,7 @@
             ],
             "flags": 0,
             "guid": "vrpR.,j(dg",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "food",
@@ -2796,6 +2898,7 @@
             ],
             "flags": 0,
             "guid": "rM;%~XC2.3",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "Marked",
@@ -2820,6 +2923,7 @@
             ],
             "flags": 0,
             "guid": "ff;j`aGp&U",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "housing",
@@ -2843,6 +2947,7 @@
             ],
             "flags": 0,
             "guid": "o{iFYii*3I",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "adjective",
@@ -2865,6 +2970,7 @@
             ],
             "flags": 0,
             "guid": "c{2r,SP+ie",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "housing",
@@ -2888,6 +2994,7 @@
             ],
             "flags": 0,
             "guid": "pN.|UjY<uN",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -2932,6 +3039,7 @@
             ],
             "flags": 0,
             "guid": "ben+EsW[Aj",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "Marked",
@@ -2956,6 +3064,7 @@
             ],
             "flags": 0,
             "guid": "u(l#szI;E_",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -2978,6 +3087,7 @@
             ],
             "flags": 0,
             "guid": "jQ2sESW,ZK",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES"
@@ -2999,6 +3109,7 @@
             ],
             "flags": 0,
             "guid": "bygWqi^%7,",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -3021,6 +3132,7 @@
             ],
             "flags": 0,
             "guid": "lLvD1B~jIL",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -3043,6 +3155,7 @@
             ],
             "flags": 0,
             "guid": "r)p8C]*Uby",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "indication_2_genders_learned",
@@ -3066,6 +3179,7 @@
             ],
             "flags": 0,
             "guid": "qkdyrIpG&.",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -3088,6 +3202,7 @@
             ],
             "flags": 0,
             "guid": "dNA{$B3<[~",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -3133,6 +3248,7 @@
             ],
             "flags": 0,
             "guid": "tl-:P_!,e?",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "Marked",
@@ -3156,6 +3272,7 @@
             ],
             "flags": 0,
             "guid": "kKZd6=1:ub",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "adjective",
@@ -3179,6 +3296,7 @@
             ],
             "flags": 0,
             "guid": "s#%xV2HbVl",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -3201,6 +3319,7 @@
             ],
             "flags": 0,
             "guid": "j9PK!k7n)~",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -3224,6 +3343,7 @@
             ],
             "flags": 0,
             "guid": "oVlerMFVBb",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -3246,6 +3366,7 @@
             ],
             "flags": 0,
             "guid": "rn*hX$Z;>d",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "expression",
@@ -3269,6 +3390,7 @@
             ],
             "flags": 0,
             "guid": "t?Na7R<:DK",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "adjective",
@@ -3292,6 +3414,7 @@
             ],
             "flags": 0,
             "guid": "cp%+/gZ#`~",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -3314,6 +3437,7 @@
             ],
             "flags": 0,
             "guid": "s~9j&v89u:",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "indication_singular_plural_learned",
@@ -3337,6 +3461,7 @@
             ],
             "flags": 0,
             "guid": "bDkCibuo6M",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES"
@@ -3358,6 +3483,7 @@
             ],
             "flags": 0,
             "guid": "vTxb0UY.1Q",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -3381,6 +3507,7 @@
             ],
             "flags": 0,
             "guid": "qUN^HCv]qB",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "indication_expression",
