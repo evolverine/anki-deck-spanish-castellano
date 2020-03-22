@@ -559,6 +559,30 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "the peaceful life ",
+                "la vida tranquila, la vida en paz",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "e3?OV;^,>x",
+            "newlyAdded": false,
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun",
+                "phrases"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "the solar energy",
                 "la energía solar",
                 "",
@@ -723,6 +747,29 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "the mild laxative ",
+                "el laxante suave",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "bD+=i+!Cy-",
+            "newlyAdded": false,
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "the constipation",
                 "el estreñimiento",
                 "",
@@ -852,12 +899,61 @@
             ],
             "flags": 0,
             "guid": "b*}}~l:7ph",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "Marked",
+                "language_EN-ES",
+                "marked",
+                "verb",
+                "verb_infinitive"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "to unglue, to detach",
+                "despegar [🍯]",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "j?U<=Fmar-",
+            "newlyAdded": false,
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
                 "language_EN-ES",
                 "verb",
                 "verb_infinitive"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "the toothache",
+                "el dolor de muelas / dientes",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ibp<we6pz/",
+            "newlyAdded": false,
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "indication_2_pieces_learned",
+                "language_EN-ES",
+                "noun"
             ]
         },
         {
@@ -876,10 +972,35 @@
             ],
             "flags": 0,
             "guid": "lTK~:=*@n^",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
                 "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "to characterize",
+                "caracterizar",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "q&)&lV/>Tk",
+            "newlyAdded": false,
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -1856,6 +1977,31 @@
             "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "language_EN-ES",
+                "marked",
+                "mostcommonwords"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "bad, wrong",
+                "mal, malo",
+                "",
+                "",
+                "\"Mal\" antes de un sustantivo, \"malo\" después o en su ausencia.",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "voeVtq9f!8",
+            "newlyAdded": false,
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "adjective",
                 "language_EN-ES",
                 "marked",
                 "mostcommonwords"
@@ -2911,7 +3057,30 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "cement",
+                "the caramel",
+                "el caramelo [👩‍🍳]",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "iahDi@%ew=",
+            "newlyAdded": false,
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "the cement",
                 "el cemento",
                 "",
                 "",
@@ -3017,10 +3186,36 @@
             ],
             "flags": 0,
             "guid": "i9;1Uu7MQ9",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
                 "span3200test1"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "to calm down [intransitive]",
+                "calmarse, tranquilizarse",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "g61n;^nGCj",
+            "newlyAdded": false,
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "clarification_intransitive_verb_known",
+                "language_EN-ES",
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -3225,6 +3420,31 @@
             ],
             "flags": 0,
             "guid": "r_yZ&=FH9!",
+            "newlyAdded": false,
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "adjective",
+                "indication_2_genders_learned",
+                "language_EN-ES"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Muslim",
+                "musulmán, musulmana",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "gk7D/9(izw",
+            "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "adjective",
