@@ -6163,7 +6163,6 @@
             "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "!vocab",
                 "Marked",
                 "language_EN-ES"
             ]
@@ -6441,7 +6440,6 @@
             "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "!vocab",
                 "language_EN-ES"
             ]
         },
@@ -19809,6 +19807,7 @@
             "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "indication_2_pieces_known",
                 "language_EN-ES",
                 "preterit",
                 "verb"
@@ -20911,6 +20910,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
+                "marked",
                 "preterit",
                 "verb"
             ]
@@ -27902,6 +27902,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
+                "marked",
                 "verb",
                 "verb_future"
             ]
@@ -41486,7 +41487,8 @@
             "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "language_EN-ES"
+                "language_EN-ES",
+                "marked"
             ]
         },
         {
@@ -43534,7 +43536,8 @@
             "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "language_EN-ES"
+                "language_EN-ES",
+                "marked"
             ]
         },
         {
@@ -46811,7 +46814,8 @@
             "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "language_EN-ES"
+                "language_EN-ES",
+                "marked"
             ]
         },
         {
@@ -55693,6 +55697,7 @@
             "tags": [
                 "indication_expression",
                 "language_EN-ES",
+                "marked",
                 "verb"
             ]
         },
@@ -68496,7 +68501,8 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_subjunctive"
             ]
         },
         {
@@ -79969,7 +79975,6 @@
             "newlyAdded": false,
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "!vocab",
                 "language_EN-ES"
             ]
         },
@@ -83429,7 +83434,6 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "marked",
                 "verb",
                 "verb_infinitive"
             ]
@@ -86177,6 +86181,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "adverb",
+                "indication_expression_learned",
                 "language_EN-ES"
             ]
         },
