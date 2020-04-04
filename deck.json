@@ -23576,7 +23576,7 @@
             "data": "",
             "fields": [
                 "We took in (drank)",
-                "tomamos (pasado)",
+                "tomamos [pasado]",
                 "",
                 "",
                 "",
@@ -71261,7 +71261,7 @@
             "data": "",
             "fields": [
                 "the hyphen",
-                "el guion",
+                "el guion [puntuación]",
                 "",
                 "",
                 "",
@@ -83533,8 +83533,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "to wither",
-                "marchitar",
+                "to wither [🌿]",
+                "marchitar(se)",
                 "",
                 "",
                 "",
