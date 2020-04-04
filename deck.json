@@ -8800,6 +8800,29 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "the script, the screenplay",
+                "el guion [🎭🎙️🎬]",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "j:|dI",
+            "newlyAdded": false,
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "to premiere, to release, to use / try / wear for first time",
                 "estrenar",
                 "Apenas había estrenado mi nueva raqueta de tenis que se rompió.<br><br>Mi banda favorita acaba de estrenar su nuevo single.",
@@ -10847,6 +10870,29 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "the small village, the hamlet",
+                "la aldea",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "{;b#S",
+            "newlyAdded": false,
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "the fat, the grease",
                 "la grasa",
                 "",
@@ -11713,6 +11759,29 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "loyal",
+                "leal",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "b>+SM",
+            "newlyAdded": false,
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "adjective",
+                "language_EN-ES"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "to untie, to loosen",
                 "desatar",
                 "",
@@ -12401,6 +12470,29 @@
             "tags": [
                 "language_EN-ES",
                 "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "to recruit",
+                "reclutar",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": ",#MJU",
+            "newlyAdded": false,
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "verb"
             ]
         },
         {
@@ -63041,6 +63133,29 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "the loyalty",
+                "la lealtad",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "u5!r7^@B3V",
+            "newlyAdded": false,
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "the toilet [room]",
                 "el servicio, el lavabo, el aseo",
                 "",
@@ -86466,6 +86581,29 @@
             "tags": [
                 "adjective",
                 "language_EN-ES"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "the punctuation",
+                "la puntuación",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "flags": 0,
+            "guid": "@EmeK",
+            "newlyAdded": false,
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
             ]
         }
     ]
