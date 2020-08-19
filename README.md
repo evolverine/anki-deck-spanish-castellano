@@ -1,7 +1,7 @@
 An Anki deck for learning Spanish castellano as used in mainland Spain. The source language is British English. This is a continuously evolving deck.
 
 # Requirements
-This deck uses the [lungs-anki-note](https://gitlab.com/evolverine/lungs-Anki-note), and one of the implications is that the desktop client of Anki cannot render them yet (as they use JavaScript).
+This deck uses the [lela-anki-note](https://gitlab.com/evolverine/lela-Anki-note). If you have any issue related to the content, please open a ticket here. If it's about the functionality, it will be related to Lela.
 
 To import this deck you will need [the CrowdAnki addon](https://ankiweb.net/shared/info/1788670778).
 
@@ -10,8 +10,8 @@ The main goal of this deck is to be continually improved by learners. For this t
 
 ## Way of working
 
-* make as small commits as possible. Ideally one commit for each changed note. (Admittedly I have yet to start following this rule, but once collaboration starts to happen it will be very important.)
-* specify, whenever possible, the source of the changes - was it a native speaker (from which country / region?) who recommended it, was it a dictionary (which?), an online forum (which?), etc.
+* make as small commits as possible. Ideally one commit for each changed note. (Admittedly I have yet to start following this rule, but once collaboration starts to happen it will be more important.)
+* specify, whenever possible, the source of the changes in your commit messages - was it a native speaker (from which country / region?) who recommended it, was it a dictionary (which?), an online forum (which?), etc.
 
 ### Conventions
 
@@ -31,4 +31,3 @@ The main goal of this deck is to be continually improved by learners. For this t
 * in the case of synonyms order them by frequency of use.
 * prefer avoiding extraneous synonyms. For example, "la fatiga" translates into "the fatigue" and, based on the context, into other of its synonyms, such as "the tiredness". However, a better a-contextual translation for "the tiredness" is "el cansancio", so the latter should be its own separate note, and "la fatiga" should be translated only into "the fatigue".
 * When there are specific notes for when to use one or the other of the versions in a note, explain this in the "usage note" field.
-* 
