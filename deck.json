@@ -76424,6 +76424,26 @@
         {
             "__type__": "Note",
             "fields": [
+                "Please don't delete this note. Maybe suspend it, if desired. It ensures that the files required by Lela won't be accidentally removed by Anki.",
+                "<!--anki-->¡Gracias!",
+                "",
+                "<img src=\"vase.jpg\">",
+                "<img src=\"_lela_style.css\">\n<img src=\"_lela_main.min.js\">\n<img src=\"_lela_chicken.png\">\n<img src=\"_lela_giraffe.png\">\n<img src=\"_lela_shapes_background.jpg\">\n<img src=\"_lela_squid.png\">\n<img src=\"_lela_tiger.png\">\n<img src=\"_lela_zebra.png\">\n<img src=\"_lela_hinted-subset-BluePrinted.woff\">",
+                "",
+                "✔️",
+                "✔️",
+                "Photo by&nbsp;<strong><a href=\"https://www.pexels.com/@vadim51\">Vadim Bocharov</a>&nbsp;</strong>from&nbsp;<strong><a href=\"https://www.pexels.com/photo/animal-antenna-biology-butterfly-2395264/?utm_content=attributionCopyText&amp;utm_medium=referral&amp;utm_source=pexels\">Pexels</a></strong>"
+            ],
+            "guid": "N]@gDKl@U6",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "el cerebro",
                 "el seso",
                 "",
