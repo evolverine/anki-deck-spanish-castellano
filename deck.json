@@ -200,8 +200,8 @@
             ],
             "sortf": 0,
             "tags": [
-                "language_EN-ES",
-                "noun"
+                "language_ES-CA",
+                "adjective"
             ],
             "tmpls": [
                 {
@@ -1459,6 +1459,8 @@
             "guid": "ii1w6zjO+l",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
+                "clarification_adjective_known",
                 "indication_2_genders_learned",
                 "language_EN-ES",
                 "marked",
@@ -3433,6 +3435,7 @@
             "guid": "e^mI!UC!l}",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "noun"
             ]
@@ -4332,6 +4335,26 @@
         {
             "__type__": "Note",
             "fields": [
+                "I keep a diary every day.",
+                "Escribo en mi diario todos los días.",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "g3h9!CeDn-",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "sentence"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "the weather",
                 "el tiempo [🌞]",
                 "",
@@ -5030,6 +5053,26 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the diary [planner]",
+                "la agenda [📚]",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "da)P!@YT[^",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
             ]
         },
         {
@@ -11012,6 +11055,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
+                "marked",
                 "verb"
             ]
         },
@@ -25968,6 +26012,7 @@
             "guid": "h)(A_+=hlt",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "verb",
@@ -29666,7 +29711,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "winery, winepress",
+                "the winery, the winepress",
                 "el lagar",
                 "",
                 "",
@@ -29698,7 +29743,8 @@
             "guid": "OJbnTFvd]4",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "language_EN-ES"
+                "language_EN-ES",
+                "marked"
             ]
         },
         {
@@ -31992,7 +32038,7 @@
             "__type__": "Note",
             "fields": [
                 "the weekday",
-                "el día de entre semana, el día laborable",
+                "el día de entre semana, el día laborable, el día de diario",
                 "",
                 "",
                 "",
@@ -32006,7 +32052,6 @@
             "tags": [
                 "indication_expression_learned",
                 "language_EN-ES",
-                "marked",
                 "noun"
             ]
         },
@@ -32177,8 +32222,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "suitable, ideal",
-                "idóneo",
+                "ideal",
+                "ideal, idóneo",
                 "",
                 "",
                 "",
@@ -32573,6 +32618,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
+                "marked",
                 "noun"
             ]
         },
@@ -33131,7 +33177,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Honey! sweetheart! Etc",
+                "Honey!<br>Sweetheart!",
                 "¡Cariño!",
                 "",
                 "",
@@ -33145,7 +33191,6 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "beginner",
-                "indication_2_pieces_known",
                 "language_EN-ES"
             ]
         },
@@ -34493,7 +34538,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "to annoy, to bother, to pester",
+                "to annoy, to bother",
                 "molestar",
                 "Te molesta si toco el piano mientras lees?<br><br>Si hermano pequeño le molesta especialmente cuando hace su deberes.",
                 "",
@@ -34670,6 +34715,7 @@
             "tags": [
                 "indication_expression_known",
                 "language_EN-ES",
+                "marked",
                 "verb"
             ]
         },
@@ -36259,6 +36305,7 @@
             "guid": "Jx4KTlC[U3",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "noun"
             ]
@@ -38907,7 +38954,7 @@
             "__type__": "Note",
             "fields": [
                 "maybe",
-                "tal vez, quizás, a lo mejor",
+                "quizás, a lo mejor, tal vez",
                 "",
                 "",
                 "",
@@ -38919,6 +38966,7 @@
             "guid": "t:kk6XZ8kU",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "mostcommonwords"
             ]
@@ -41998,7 +42046,8 @@
             "guid": "kh6Y8-2As^",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "language_EN-ES"
+                "language_EN-ES",
+                "marked"
             ]
         },
         {
@@ -44871,6 +44920,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
+                "marked",
                 "noun"
             ]
         },
@@ -49110,7 +49160,7 @@
                 "mantenerse / estar al día / tanto",
                 "",
                 "",
-                "",
+                "<div>Hablante nativo 1: \"Sí, yo también creo que son intercambiables\"</div><div><br></div>Hablante nativo 2: \"'Mantenerse' tiene una connotación de continuidad y 'estar' de estado. 'Al tanto' creo que implica cierta regularidad y 'al día' como más acumulativo/global.\"",
                 "",
                 "✔️",
                 "✔️",
@@ -49121,7 +49171,6 @@
             "tags": [
                 "indication_expression",
                 "language_EN-ES",
-                "marked",
                 "verb"
             ]
         },
@@ -49368,8 +49417,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "the swimsuit is too tight for me",
-                "el bañador es demasiado ajustado para mí",
+                "The swimsuit is too tight for me.",
+                "El bañador es demasiado ajustado para mí.",
                 "",
                 "",
                 "",
@@ -49381,7 +49430,8 @@
             "guid": "A?~.3",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "language_EN-ES"
+                "language_EN-ES",
+                "sentence"
             ]
         },
         {
@@ -51730,6 +51780,27 @@
                 "Marked",
                 "language_EN-ES",
                 "needs_context",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the gene",
+                "el gene, los genes",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "nQi7a7YKcu",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "indication_singular_plural_learned",
+                "language_EN-ES",
                 "noun"
             ]
         },
@@ -54457,6 +54528,26 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "indication_2_genders_learned",
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the diary [journal]",
+                "el diario [📚]",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "vV~a&FJ~u[",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
                 "language_EN-ES",
                 "noun"
             ]
@@ -63787,6 +63878,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
+                "marked",
                 "mostcommonwords",
                 "noun"
             ]
@@ -65260,6 +65352,26 @@
         {
             "__type__": "Note",
             "fields": [
+                "every day",
+                "todos los días, cada día",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "A,jPW0Hf|N",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "adverb",
+                "language_EN-ES"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "the foam, the froth",
                 "la espuma",
                 "",
@@ -66616,6 +66728,27 @@
         {
             "__type__": "Note",
             "fields": [
+                "The cook prepares different dishes every day.",
+                "El cocinero prepara platos diferentes todos los días.",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "HaJDdhM=^M",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "food",
+                "language_EN-ES",
+                "sentence"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "the cream [🍰] ",
                 "la crema [🍰]",
                 "",
@@ -67002,6 +67135,26 @@
             "tags": [
                 "language_EN-ES",
                 "verb"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to use",
+                "usar, utilizar",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "Eeb#:YqAiX",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "verb_infinitive"
             ]
         },
         {
@@ -68182,7 +68335,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "to notify, to warn, to tell / to inform, to advise, to warn",
+                "to inform, to advise, to warn",
                 "avisar",
                 "",
                 "",
@@ -68195,8 +68348,8 @@
             "guid": "lc)A;zIPQg",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "Marked",
                 "language_EN-ES",
+                "marked",
                 "verb"
             ]
         },
@@ -70196,9 +70349,9 @@
         {
             "__type__": "Note",
             "fields": [
-                "the adjustment, the fixing",
-                "el ajuste",
-                "A veces dura mucho el ajuste a la vida en un nuevo país.<br>Las empresas fueron acusadas por ajuste ilegal de precios.",
+                "the adjustment",
+                "el ajuste [👖]",
+                "A veces dura mucho el ajuste a la vida en un nuevo país.",
                 "",
                 "",
                 "",
@@ -70210,6 +70363,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
+                "marked",
                 "noun"
             ]
         },
@@ -70844,7 +70998,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "light (weight)",
+                "light [⚖️]",
                 "ligero",
                 "",
                 "",
@@ -70857,6 +71011,8 @@
             "guid": "Od_:F?SH>!",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "adjective",
+                "clarification_adjective_known",
                 "language_EN-ES"
             ]
         },
@@ -76620,6 +76776,128 @@
                 ""
             ],
             "guid": "p*PU7",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "verb_infinitive"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the pleasant things",
+                "las cosas agradables, las cosas placenteras",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "kD8~uj(!&n",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the fixing, the tampering",
+                "el ajuste, el amaño",
+                "Las empresas fueron acusadas por ajuste ilegal de precios.",
+                "",
+                "",
+                "",
+                "✔",
+                "✔",
+                ""
+            ],
+            "guid": "|5[CL",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "deafening",
+                "ensordecedor",
+                "",
+                "",
+                "",
+                "",
+                "✔",
+                "✔",
+                ""
+            ],
+            "guid": "5x>%L",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "adjective",
+                "language_EN-ES"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Yay!, Hurray!",
+                "¡Hurra!, ¡Yupi!",
+                "",
+                "",
+                "",
+                "",
+                "✔",
+                "✔",
+                ""
+            ],
+            "guid": "A*KZS",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "exclamation",
+                "language_EN-ES",
+                "sentence"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "highly, as hard/much as possible [🏔️]",
+                "a tope",
+                "Se está entrenando a tope antes del campeonato.",
+                "",
+                "",
+                "",
+                "✔",
+                "✔",
+                ""
+            ],
+            "guid": ">olH5",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "adverb",
+                "indication_expression_learned",
+                "language_EN-ES"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "We will sell",
+                "venderemos",
+                "",
+                "",
+                "",
+                "",
+                "✔",
+                "✔",
+                ""
+            ],
+            "guid": "L#M6H",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
