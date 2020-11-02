@@ -841,6 +841,49 @@
         {
             "__type__": "Note",
             "fields": [
+                "Don't sleep!",
+                "¡No duermas! ",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "n-`iCuecLi",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "exclamation",
+                "language_EN-ES",
+                "sentence",
+                "verb_subjunctive"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "I hope she sleeps.",
+                "Espero que duerma.",
+                "Espero que duerma profundamente; si no, mis ronquidos la volverán loca.",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "b[o-Q_IdRD",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "sentence",
+                "verb_subjunctive"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "to clarify, to explain",
                 "aclarar, clarificar",
                 "",
