@@ -71050,6 +71050,26 @@
         {
             "__type__": "Note",
             "fields": [
+                "the subject [🔠🔣]",
+                "el sujeto [🔠🔣]",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "gUiNVt$MEo",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "the objective",
                 "el objetivo",
                 "",
@@ -78997,6 +79017,299 @@
             "tags": [
                 "adverb",
                 "language_EN-ES"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "correct!",
+                "¡corrige!",
+                "",
+                "",
+                "",
+                "",
+                "✔",
+                "✔",
+                ""
+            ],
+            "guid": "]w{B7",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "clarification_verb_known",
+                "language_EN-ES",
+                "verb",
+                "verb_imperative"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Please correct me when I make mistakes.",
+                "Por favor corrígeme cuando cometo errores.",
+                "",
+                "",
+                "",
+                "",
+                "✔",
+                "✔",
+                ""
+            ],
+            "guid": ">OJ#8",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "beginner",
+                "language_EN-ES",
+                "sentence",
+                "verb_imperative"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "That would allow people to satisfy their needs.",
+                "Eso permitiría que la gente satisficiera sus necesidades.",
+                "",
+                "",
+                "",
+                "",
+                "✔",
+                "✔",
+                ""
+            ],
+            "guid": "egSmT",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "sentence",
+                "verb_conditional",
+                "verb_subjunctive"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the saw [🔨]",
+                "la sierra [🔨]",
+                "",
+                "",
+                "",
+                "",
+                "✔",
+                "✔",
+                ""
+            ],
+            "guid": "Z_7B8",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the mountain range",
+                "la sierra, la cordillera",
+                "",
+                "",
+                "Una sierra generalmente forma parte de una cordillera, pero una cordillera jamás es parte de una sierra, ya que la cordillera es de mayor tamaño, y la primera generalmente está integrada a ella.",
+                "",
+                "✔",
+                "✔",
+                ""
+            ],
+            "guid": "xzEBT",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "we heard",
+                "oímos [pasado]",
+                "",
+                "",
+                "",
+                "",
+                "✔",
+                "✔",
+                ""
+            ],
+            "guid": "29[*3",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "beginner",
+                "language_EN-ES",
+                "verb",
+                "verb_past"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the cardboard [thin]",
+                "la cartulina",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "An4Gnpd2g7",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "deliberately",
+                "deliberadamente",
+                "",
+                "",
+                "",
+                "",
+                "✔",
+                "✔",
+                ""
+            ],
+            "guid": "zuwHQ",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "adverb",
+                "language_EN-ES"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "on purpose",
+                "a propósito",
+                "",
+                "",
+                "",
+                "",
+                "✔",
+                "✔",
+                ""
+            ],
+            "guid": "eH1wL",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "adverb",
+                "expression",
+                "language_EN-ES"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a propósito, intencionadamente, deliberadamente",
+                "adrede",
+                "",
+                "",
+                "Su etimología última viene del lat. \"ad directum\". https://dle.rae.es/adrede?m=form",
+                "",
+                "✔",
+                "✔",
+                ""
+            ],
+            "guid": "-b0MJ",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "adverb",
+                "indication_synonym",
+                "language_ES-ES"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "adrede, intencionadamente, deliberadamente",
+                "a propósito",
+                "",
+                "",
+                "",
+                "",
+                "✔",
+                "✔",
+                ""
+            ],
+            "guid": "dC!NO",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "adverb",
+                "indication_synonym",
+                "language_ES-ES"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "adrede",
+                "aposta",
+                "",
+                "",
+                "",
+                "",
+                "✔",
+                "✔",
+                ""
+            ],
+            "guid": "0o~qQ",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "adverb",
+                "indication_colloquial_learned",
+                "language_ES-ES"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the hinge",
+                "la bisagra, el gozne",
+                "",
+                "",
+                "\"Bisagra\" is the more generic term, while \"gozne\" represents the hinges used especially on windows and doors.",
+                "",
+                "✔",
+                "✔",
+                ""
+            ],
+            "guid": "2`5bA",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "I hope they sleep.",
+                "Espero que duerman.",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "n{MO+gIG^#",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "sentence",
+                "verb_subjunctive"
             ]
         }
     ]
