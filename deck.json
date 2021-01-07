@@ -35847,29 +35847,6 @@
         {
             "__type__": "Note",
             "fields": [
-                "to fail, to fall through",
-                "fracasar",
-                "Asistí a una charla llamada \"¿por que fracasan las parejas?\"<br>Es evidente que su plan fracasó.",
-                "",
-                "",
-                "",
-                "✔️",
-                "✔️",
-                ""
-            ],
-            "guid": "p!Sdj)#+W8",
-            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
-            "tags": [
-                "indication_expression_known",
-                "language_EN-ES",
-                "Marked",
-                "verb",
-                "verb_infinitive"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
                 "to promote",
                 "promover",
                 "",
