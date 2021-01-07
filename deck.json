@@ -12858,7 +12858,7 @@
             "__type__": "Note",
             "fields": [
                 "We build",
-                "construimos",
+                "construimos [presente]",
                 "",
                 "",
                 "",
@@ -13489,8 +13489,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "We sleep",
-                "dormimos",
+                "we sleep",
+                "dormimos [presente]",
                 "",
                 "",
                 "",
@@ -13747,7 +13747,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "You are (temporary condition)",
+                "You are [temporary condition]",
                 "estás",
                 "",
                 "",
@@ -13794,7 +13794,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "We are (temporary condition)",
+                "We are [temporary condition]",
                 "estamos",
                 "",
                 "",
@@ -13807,15 +13807,17 @@
             "guid": "pDT0.Lm*_-",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "present",
-                "verb"
+                "verb",
+                "verb_present"
             ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "They are (temporary condition)",
+                "They are [temporary condition]",
                 "están",
                 "",
                 "",
@@ -14518,7 +14520,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "We read (present tense)",
+                "We read [present]",
                 "leemos",
                 "",
                 "",
@@ -14540,7 +14542,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "They read (present tense)",
+                "They read [present]",
                 "leen",
                 "",
                 "",
@@ -14732,8 +14734,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "We take",
-                "llevamos",
+                "we take",
+                "llevamos [presente]",
                 "",
                 "",
                 "",
@@ -16180,7 +16182,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "You are (permanent condition)",
+                "You are [permanent condition]",
                 "eres",
                 "",
                 "",
@@ -16224,7 +16226,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "We are (permanent condition)",
+                "We are [permanent condition]",
                 "somos",
                 "",
                 "",
@@ -16237,16 +16239,18 @@
             "guid": "s|lyZfp/xj",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "present",
-                "verb"
+                "verb",
+                "verb_present"
             ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "They are (permanent condition)",
+                "They are [permanent condition]",
                 "son",
                 "",
                 "",
@@ -29021,7 +29025,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "being (permanent condition)",
+                "being [permanent condition]",
                 "siendo",
                 "",
                 "",
@@ -44965,8 +44969,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "I don't believe that they are (ser)",
-                "No creo que sean",
+                "I don't believe that they are. [permanent condition]",
+                "No creo que sean.",
                 "",
                 "",
                 "",
@@ -46465,7 +46469,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "to soak [to leave in water]",
+                "to soak [🥜]",
                 "remojar",
                 "Tienes que remojar los frijoles antes de cocinarlos.",
                 "",
@@ -49999,7 +50003,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "the scratch",
+                "the scratch [💅]",
                 "el arañazo",
                 "El parquet tiene un par de arañazos después de la fiesta de anoche.<br>Su extraño masaje incluyó muchos arañazos en la espalda.",
                 "",
@@ -52242,7 +52246,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "the seat",
+                "the seat [💺]",
                 "el asiento",
                 "",
                 "",
@@ -56883,7 +56887,7 @@
             "__type__": "Note",
             "fields": [
                 "the current, the stream",
-                "la corriente",
+                "la corriente [🏞️🌬️]",
                 "",
                 "",
                 "",
@@ -65340,7 +65344,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "late [adverb]",
+                "late",
                 "tarde",
                 "",
                 "",
@@ -71037,8 +71041,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "to dawn, to wake up",
-                "amanecer",
+                "to dawn [☀️]",
+                "amanecer, clarear",
                 "",
                 "",
                 "",
@@ -71345,8 +71349,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "the gentleman, the knight",
-                "el caballero",
+                "the knight [🏇]",
+                "el caballero [🏇]",
                 "",
                 "",
                 "",
@@ -71768,8 +71772,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "the lunch (Spain), the meal, the food",
-                "la comida",
+                "the meal, the food",
+                "la comida [🥡] ",
                 "",
                 "",
                 "",
@@ -73935,7 +73939,7 @@
             "__type__": "Note",
             "fields": [
                 "to treat",
-                "tratar",
+                "tratar [👩‍⚕️]",
                 "",
                 "",
                 "",
@@ -78368,7 +78372,7 @@
             "__type__": "Note",
             "fields": [
                 "we were (permanent condition)",
-                "fuimos [🙏]",
+                "fuimos [ser]",
                 "",
                 "",
                 "",
@@ -79191,7 +79195,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "to help [☠]",
+                "to help [avoid]",
                 "evitar",
                 "No creo que se podía evitar ese conflicto.",
                 "",
