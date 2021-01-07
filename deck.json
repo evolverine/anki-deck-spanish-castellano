@@ -11269,15 +11269,15 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "Marked",
+                "marked",
                 "verb"
             ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "the summit, the peak, the pinnacle",
-                "la cumbre, el culmen, la cima",
+                "the summit, the peak",
+                "el pico, la cima, la cumbre",
                 "",
                 "",
                 "",
