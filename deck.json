@@ -33552,6 +33552,26 @@
         {
             "__type__": "Note",
             "fields": [
+                "the cardboard [stiff]",
+                "el cartón",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "cOE(`",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "the pawn shop",
                 "la tienda de empeño",
                 "",
@@ -33668,6 +33688,26 @@
                 "language_EN-ES",
                 "verb",
                 "verb_infinitive"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the quote [💰]",
+                "el presupuesto",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                ""
+            ],
+            "guid": "hq:4T",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
             ]
         },
         {
