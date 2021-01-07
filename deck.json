@@ -4319,28 +4319,6 @@
         {
             "__type__": "Note",
             "fields": [
-                "to relieve, to alleviate [⚕️]",
-                "aliviar, atenuar [⚕️]",
-                "",
-                "",
-                "",
-                "",
-                "✔️",
-                "✔️",
-                ""
-            ],
-            "guid": "tTM)[h?RH%",
-            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
-            "tags": [
-                "language_EN-ES",
-                "Marked",
-                "verb",
-                "verb_infinitive"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
                 "the filling [👄😷🏥]",
                 "el empaste",
                 "",
@@ -38921,26 +38899,6 @@
             "guid": "OKyBbAmGE?",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "language_EN-ES"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "in spite of",
-                "a pesar de",
-                "",
-                "",
-                "",
-                "",
-                "✔️",
-                "✔️",
-                ""
-            ],
-            "guid": "zlP[rwo)=&",
-            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
-            "tags": [
-                "indication_expression",
                 "language_EN-ES"
             ]
         },
