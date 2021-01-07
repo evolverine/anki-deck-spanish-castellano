@@ -34774,26 +34774,6 @@
         {
             "__type__": "Note",
             "fields": [
-                "the obstinacy, the stubbornness",
-                "la tozudez",
-                "Es ya una situación peligrosa; su tozudez no ayuda para nada...",
-                "",
-                "",
-                "",
-                "✔️",
-                "✔️",
-                ""
-            ],
-            "guid": "H*`p7w&4DC",
-            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
-            "tags": [
-                "language_EN-ES",
-                "Marked"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
                 "either way, anyway",
                 "de cualquier manera",
                 "",
@@ -44241,21 +44221,6 @@
             "note_model_uuid": "dbd82d5d-bbe6-11e8-b58c-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "verb"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "dormir (subjuntivo)",
-                "duerma, duermas, duerma, durmamos, durmáis, duerman",
-                ""
-            ],
-            "guid": "g{k@1V+=mA",
-            "note_model_uuid": "dbd82d5d-bbe6-11e8-b58c-848f69a951ca",
-            "tags": [
-                "language_EN-ES",
-                "Marked",
                 "verb"
             ]
         },
