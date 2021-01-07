@@ -11738,9 +11738,9 @@
         {
             "__type__": "Note",
             "fields": [
-                "street [eg. street performer]",
+                "street",
                 "callejero",
-                "",
+                "A menudo trabaja como artista callejera.",
                 "",
                 "",
                 "",
