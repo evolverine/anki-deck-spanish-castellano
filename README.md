@@ -3,7 +3,7 @@ An Anki deck for learning Spanish castellano as used in mainland Spain. The sour
 # Requirements
 This deck uses the [lela-anki-note](https://gitlab.com/evolverine/lela-Anki-note). If you have any issue related to the content, please open a ticket here. If it's about the functionality, it will be related to Lela.
 
-To import this deck you will need [the CrowdAnki addon](https://ankiweb.net/shared/info/1788670778).
+To import this deck you will need [the CrowdAnki](https://ankiweb.net/shared/info/1788670778), and the [CookieMonster](https://ankiweb.net/shared/info/1501583548) addons.
 
 # Collaboration
 The main goal of this deck is to be continually improved by learners. For this to be possible, though, one currently needs a working understanding and knowledge of [the git versioning system](https://git-scm.com/). If that is the case, make sure you've installed it, and then install [CrowdAnki](https://ankiweb.net/shared/info/1788670778).
