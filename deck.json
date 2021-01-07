@@ -14213,8 +14213,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "We speak",
-                "hablamos",
+                "we speak",
+                "hablamos [presente]",
                 "",
                 "",
                 "",
@@ -14451,7 +14451,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "I read (present tense)",
+                "I read [present]",
                 "leo",
                 "",
                 "",
@@ -14626,8 +14626,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "We call",
-                "llamamos",
+                "we call",
+                "llamamos [presente]",
                 "",
                 "",
                 "",
@@ -15040,7 +15040,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "They hear",
+                "they hear",
                 "oyen",
                 "",
                 "",
@@ -16026,7 +16026,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "They leave",
+                "they leave",
                 "salen",
                 "",
                 "",
@@ -16442,7 +16442,7 @@
             "__type__": "Note",
             "fields": [
                 "We take in (drink)",
-                "tomamos",
+                "tomamos [presente]",
                 "",
                 "",
                 "",
@@ -16898,7 +16898,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "They live",
+                "they live",
                 "viven",
                 "",
                 "",
@@ -17043,15 +17043,17 @@
             "guid": "b#h+As&^(M",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "You finished",
+                "you finished",
                 "acabaste",
                 "",
                 "",
@@ -17137,13 +17139,14 @@
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "You walked",
+                "you walked",
                 "anduviste",
                 "",
                 "",
@@ -17377,7 +17380,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "You fell",
+                "you fell",
                 "caíste",
                 "",
                 "",
@@ -17486,15 +17489,17 @@
             "guid": "g|n951l?T4",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "You sang",
+                "you sang",
                 "cantaste",
                 "",
                 "",
@@ -17576,16 +17581,18 @@
             "guid": "sj@Ay<s%w-",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "You began",
+                "you began",
                 "comenzaste",
                 "",
                 "",
@@ -17698,7 +17705,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "You ate",
+                "you ate",
                 "comiste",
                 "",
                 "",
@@ -17806,13 +17813,14 @@
                 "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "You bought",
+                "you bought",
                 "compraste",
                 "",
                 "",
@@ -17917,15 +17925,17 @@
             "guid": "jU7K7HCIVB",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "You knew [👥, 🐶, ⛲, 🗺️, etc.]",
+                "you knew [👥, 🐶, ⛲, 🗺️, etc.]",
                 "conociste",
                 "",
                 "",
@@ -18030,15 +18040,17 @@
             "guid": "g^!Q!9)X,x",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "You built",
+                "you built",
                 "construiste",
                 "",
                 "",
@@ -18148,13 +18160,14 @@
                 "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "You counted, you recounted (told)",
+                "you counted, you recounted (told)",
                 "contaste",
                 "",
                 "",
@@ -18238,15 +18251,17 @@
             "guid": "fb/K&rVR#?",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "You believed",
+                "you believed",
                 "creíste",
                 "",
                 "",
@@ -18365,7 +18380,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "You gave",
+                "you gave",
                 "diste",
                 "",
                 "",
@@ -18474,15 +18489,17 @@
             "guid": "qrf5@Qr$9b",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "You owed",
+                "you owed",
                 "debiste",
                 "",
                 "",
@@ -18587,16 +18604,18 @@
             "guid": "jPod<i8Wb[",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "You said",
+                "you said",
                 "dijiste",
                 "",
                 "",
@@ -18705,15 +18724,17 @@
             "guid": "cu%Q-6#.NZ",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "You slept",
+                "you slept",
                 "dormiste",
                 "",
                 "",
@@ -18824,13 +18845,14 @@
                 "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "You entered",
+                "you entered",
                 "entraste",
                 "",
                 "",
@@ -18922,7 +18944,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "You wrote",
+                "you wrote",
                 "escribiste",
                 "",
                 "",
@@ -19038,7 +19060,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "You were (temporary condition)",
+                "you were (temporary condition)",
                 "estuviste",
                 "",
                 "",
@@ -19155,7 +19177,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "You studied",
+                "you studied",
                 "estudiaste",
                 "",
                 "",
@@ -19366,7 +19388,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "You had (haber)",
+                "you had (haber)",
                 "hubiste",
                 "",
                 "",
@@ -19483,7 +19505,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "You spoke",
+                "you spoke",
                 "hablaste",
                 "",
                 "",
@@ -19598,7 +19620,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "You did",
+                "you did",
                 "hiciste",
                 "",
                 "",
@@ -19716,7 +19738,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "You read (past tense)",
+                "you read (past tense)",
                 "leíste",
                 "",
                 "",
@@ -19835,7 +19857,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "You called",
+                "you called",
                 "llamaste",
                 "",
                 "",
@@ -19950,7 +19972,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "You took",
+                "you took",
                 "llevaste",
                 "",
                 "",
@@ -20161,7 +20183,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "You looked",
+                "you looked",
                 "miraste",
                 "",
                 "",
@@ -20372,7 +20394,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "You paid",
+                "you paid",
                 "pagaste",
                 "",
                 "",
@@ -20487,7 +20509,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "You thought",
+                "you thought",
                 "pensaste",
                 "",
                 "",
@@ -20600,7 +20622,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "You lost",
+                "you lost",
                 "perdiste",
                 "",
                 "",
@@ -20716,7 +20738,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "You could (were able to)",
+                "you could (were able to)",
                 "pudiste",
                 "",
                 "",
@@ -20836,7 +20858,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "You put [past tense]",
+                "you put [past tense]",
                 "pusiste",
                 "",
                 "",
@@ -20908,7 +20930,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "They put (past tense)",
+                "They put [past]",
                 "pusieron",
                 "",
                 "",
@@ -20955,7 +20977,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "You stayed (remained)",
+                "you stayed (remained)",
                 "quedaste",
                 "",
                 "",
@@ -21071,7 +21093,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "You wanted",
+                "you wanted",
                 "quisiste",
                 "",
                 "",
@@ -21143,7 +21165,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "They wanted",
+                "they wanted",
                 "quisieron",
                 "",
                 "",
@@ -21191,7 +21213,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "You knew  [📖, 💾, 📰, 🔮]",
+                "you knew  [📖, 💾, 📰, 🔮]",
                 "supiste [📖, 💾, 📰, 🔮]",
                 "",
                 "",
@@ -21310,7 +21332,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "You left",
+                "you left",
                 "saliste",
                 "",
                 "",
@@ -21425,7 +21447,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "You felt",
+                "you felt",
                 "sentiste",
                 "",
                 "",
@@ -21473,7 +21495,7 @@
             "__type__": "Note",
             "fields": [
                 "We felt",
-                "sentimos (pasado)",
+                "sentimos [pasado]",
                 "",
                 "",
                 "",
@@ -21662,7 +21684,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "You took in (drank)",
+                "you took in (drank)",
                 "tomaste",
                 "",
                 "",
@@ -21778,7 +21800,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "You brought",
+                "you brought",
                 "trajiste",
                 "",
                 "",
@@ -21898,7 +21920,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "You came",
+                "you came",
                 "viniste",
                 "",
                 "",
@@ -22018,7 +22040,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "You saw",
+                "you saw",
                 "viste",
                 "",
                 "",
@@ -22134,7 +22156,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "You lived",
+                "you lived",
                 "viviste",
                 "",
                 "",
@@ -22249,7 +22271,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "You returned [🏃️↩️🏃️]",
+                "you returned [🏃️↩️🏃️]",
                 "volviste",
                 "",
                 "",
@@ -22560,7 +22582,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "You took out (removed)",
+                "you took out (removed)",
                 "sacaste",
                 "",
                 "",
@@ -23075,7 +23097,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "You will sing",
+                "you will sing",
                 "cantarás",
                 "",
                 "",
@@ -25012,7 +25034,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "You will speak",
+                "you will speak",
                 "hablarás",
                 "",
                 "",
@@ -42479,7 +42501,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "To fail",
+                "to fail",
                 "fallar, fracasar",
                 "",
                 "",
@@ -45366,8 +45388,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "I am happy that we sleep",
-                "Me alegro de que durmamos",
+                "I am happy that we sleep.",
+                "Me alegro de que durmamos.",
                 "",
                 "",
                 "",
@@ -64422,8 +64444,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "goodbye",
-                "adiós",
+                "Goodbye!",
+                "¡Adiós!",
                 "",
                 "",
                 "",
@@ -66360,7 +66382,7 @@
             "__type__": "Note",
             "fields": [
                 "He wears socks and shoes.",
-                "Èl lleva calcetines y zapatos.",
+                "(Èl) lleva calcetines y zapatos.",
                 "",
                 "",
                 "",
@@ -72144,8 +72166,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "We hear / We heard",
-                "oímos",
+                "We hear",
+                "oímos [presente]",
                 "",
                 "",
                 "",
@@ -72193,7 +72215,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "You were (permanent condition)",
+                "you were (permanent condition)",
                 "fuiste",
                 "",
                 "",
@@ -72870,7 +72892,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "That doesn't sound right.<br>That sounds clunky.<br>(sound metaphor)",
+                "That doesn't sound right.<br>That sounds clunky.",
                 "Eso (me) chirría.",
                 "Sus descripciones chirrían a veces.",
                 "",
