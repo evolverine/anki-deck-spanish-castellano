@@ -201,8 +201,8 @@
             "sortf": 0,
             "tags": [
                 "language_EN-ES",
-                "verb",
-                "verb_infinitive"
+                "verb_subjunctive",
+                "sentence"
             ],
             "tmpls": [
                 {
@@ -1886,8 +1886,8 @@
             "guid": "eBmGCqzI@`",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
-                "Marked",
                 "mostcommonwords"
             ]
         },
@@ -5535,6 +5535,7 @@
             "guid": "je}*a?|FR,",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "noun"
             ]
@@ -7617,6 +7618,8 @@
             "guid": "z>)GG",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "adjective",
+                "beginner",
                 "language_EN-ES"
             ]
         },
@@ -8753,8 +8756,8 @@
             "guid": "S.m^P",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "language_EN-ES",
-                "Marked"
+                "adverb",
+                "language_EN-ES"
             ]
         },
         {
@@ -8815,6 +8818,7 @@
             "guid": "|%eGL",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "indication_2_genders_learned",
                 "language_EN-ES",
                 "noun"
@@ -12362,6 +12366,7 @@
             "guid": "cTcI=Bf{-=",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "present",
@@ -12811,6 +12816,7 @@
             "guid": "cHD-)$X*:a",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "present",
@@ -13182,6 +13188,7 @@
             "guid": "i|a3w)uB:U",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "present",
                 "verb"
@@ -13353,6 +13360,7 @@
             "guid": "9Bk%zf_e{",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "present",
                 "verb"
@@ -13483,6 +13491,7 @@
             "guid": "k#[9%|qS2Y",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "present",
@@ -13716,6 +13725,7 @@
             "guid": "^hqjw;n`=",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "present",
@@ -14042,11 +14052,12 @@
             "guid": "grg54=dL+,",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
-                "Marked",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -14412,9 +14423,10 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "beginner",
+                "clarification_verb_learned",
                 "language_EN-ES",
-                "present",
-                "verb"
+                "verb",
+                "verb_present"
             ]
         },
         {
@@ -14502,7 +14514,8 @@
                 "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -14647,6 +14660,7 @@
             "guid": "rP@I*]6vEJ",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "present",
                 "verb"
@@ -14905,9 +14919,11 @@
             "guid": "bAp*U?k09H",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -16853,6 +16869,7 @@
             "guid": "b3dLi/P+`<",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "present",
                 "verb"
@@ -17005,9 +17022,11 @@
             "guid": "f!,>/agj[Y",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -17029,7 +17048,8 @@
                 "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -17048,9 +17068,11 @@
             "guid": "uAL7w_e*|g",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -17092,10 +17114,12 @@
             "guid": "b6EI%CC^lD",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -17114,10 +17138,12 @@
             "guid": "uMU!cCuod]",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -17136,10 +17162,12 @@
             "guid": "gz_xp,vq=|",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -17158,10 +17186,12 @@
             "guid": "q$Pn,Vt)wR",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -17180,15 +17210,17 @@
             "guid": "l$0;2mlqiE",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "You learned",
+                "you learned",
                 "aprendiste",
                 "",
                 "",
@@ -17201,9 +17233,11 @@
             "guid": "vcLB(w65e9",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -17225,7 +17259,8 @@
                 "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -17244,9 +17279,11 @@
             "guid": "u<82Kx@^@I",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -17268,7 +17305,8 @@
                 "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -17287,9 +17325,11 @@
             "guid": "tNRm2`cuzS",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -17308,10 +17348,12 @@
             "guid": "rDlXDf$NTc",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -17330,10 +17372,12 @@
             "guid": "t8fCzFv!R~",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -17352,10 +17396,12 @@
             "guid": "rsih^%{h8b",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -17378,7 +17424,8 @@
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -17418,9 +17465,11 @@
             "guid": "k6Y/Q4njsE",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -17439,9 +17488,11 @@
             "guid": "g)@92CdO@s",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -17463,7 +17514,8 @@
                 "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -17504,9 +17556,11 @@
             "guid": "nv#*Yuw>}g",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -17525,9 +17579,11 @@
             "guid": "fRvr:oJAE4",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -17549,7 +17605,8 @@
                 "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -17568,9 +17625,11 @@
             "guid": "op48pkpV)/",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -17610,9 +17669,11 @@
             "guid": "m,TQb34.WJ",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -17631,9 +17692,11 @@
             "guid": "ijc8%6d;c3",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -17652,9 +17715,11 @@
             "guid": "qa3r?v{#j",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -17673,9 +17738,11 @@
             "guid": "lP8fG%5j)A",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -17716,9 +17783,11 @@
             "guid": "p.#(v}kqbx",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -17737,9 +17806,11 @@
             "guid": "cu[+>85bv|",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -17758,9 +17829,11 @@
             "guid": "cE0$2ij7gG",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -17779,9 +17852,11 @@
             "guid": "r#{BSpgJ{3",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -17821,9 +17896,11 @@
             "guid": "c*%}?su6+X",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -17842,9 +17919,11 @@
             "guid": "kRx0,|qIiP",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -17863,9 +17942,11 @@
             "guid": "qqGiOq|7gz",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -17884,9 +17965,11 @@
             "guid": "m1[&xs?Rb",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -17926,9 +18009,11 @@
             "guid": "u17v%3F@-R",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -17947,10 +18032,12 @@
             "guid": "h/N>m%#Uja",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -17969,9 +18056,11 @@
             "guid": "i%k}Z5i::q",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -17990,10 +18079,12 @@
             "guid": "iK5EeHf(i`",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -18034,9 +18125,11 @@
             "guid": "k3T36f&y5{",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -18055,10 +18148,12 @@
             "guid": "eAZ:jRN>*t",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "indication_2_pieces_known",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -18081,7 +18176,8 @@
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -18125,7 +18221,8 @@
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -18144,10 +18241,12 @@
             "guid": "t%Of=qaSzk",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -18166,9 +18265,11 @@
             "guid": "r4/cp|oJmH",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -18187,10 +18288,12 @@
             "guid": "zw|Vb2T:r",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -18209,11 +18312,12 @@
             "guid": "d~(w6lS4Cd",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
-                "Marked",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -18232,10 +18336,12 @@
             "guid": "c!NWk)-4F~",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -18254,10 +18360,12 @@
             "guid": "e87|a-h)wc",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -18276,10 +18384,12 @@
             "guid": "nY@;[gtn{$",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -18298,10 +18408,12 @@
             "guid": "rQaF[U{T@I",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -18341,9 +18453,11 @@
             "guid": "hyRf(~Pu2i",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -18362,9 +18476,11 @@
             "guid": "qh<o@.Z0^=",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -18383,9 +18499,11 @@
             "guid": "ty3qo&2Q?r",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -18404,9 +18522,11 @@
             "guid": "uS@^AJ|!hg",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -18447,10 +18567,12 @@
             "guid": "i*7[%or*;",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -18473,7 +18595,8 @@
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -18492,10 +18615,12 @@
             "guid": "ifU--;3eg}",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -18514,10 +18639,12 @@
             "guid": "clw4<&c~g5",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -18561,7 +18688,8 @@
                 "language_EN-ES",
                 "leech",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -18580,10 +18708,12 @@
             "guid": "6$?cZs_Zc",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -18602,9 +18732,11 @@
             "guid": ".u.XbN%Dy",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -18623,10 +18755,12 @@
             "guid": "bgvSxN~q-X",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -18667,9 +18801,11 @@
             "guid": "d|o9]p3%Gd",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -18688,9 +18824,11 @@
             "guid": "eM.-ivVd7`",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -18709,9 +18847,11 @@
             "guid": "lN~~BzY(Y`",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -18730,9 +18870,11 @@
             "guid": "j]`98eGKNr",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -18751,9 +18893,11 @@
             "guid": "km/>o-{Rq$",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -18772,9 +18916,11 @@
             "guid": "mupDNQ?[i8",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -18793,9 +18939,11 @@
             "guid": "tT<K.g%!G0",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -18814,9 +18962,11 @@
             "guid": "kLc|5;:d_w",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -18835,10 +18985,12 @@
             "guid": "iL<S,ae/Vp",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -18857,10 +19009,12 @@
             "guid": "dLm>G]dPj-",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -18879,10 +19033,12 @@
             "guid": "tJiHv!~&bs",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -18927,7 +19083,8 @@
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -18949,7 +19106,8 @@
                 "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -18971,7 +19129,8 @@
                 "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -18990,9 +19149,11 @@
             "guid": "h1v&w*Ygbc",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -19011,9 +19172,11 @@
             "guid": "p[zZkOF?Wb",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -19032,10 +19195,12 @@
             "guid": "mk{/UBB+h.",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "Marked",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -19054,10 +19219,12 @@
             "guid": "s2:q6T&66!",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "Marked",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -19076,9 +19243,11 @@
             "guid": "p72*]?=Zp5",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -19097,9 +19266,11 @@
             "guid": "r6`81p]1je",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -19118,9 +19289,11 @@
             "guid": "pQBkty6aMx",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -19139,10 +19312,12 @@
             "guid": "e53p[8c,Hp",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
                 "verb",
+                "verb_past",
                 "verified"
             ]
         },
@@ -19162,10 +19337,12 @@
             "guid": "o$10idYZ+w",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -19206,10 +19383,12 @@
             "guid": "l~mzxz]]-%",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -19228,10 +19407,12 @@
             "guid": "A5QxL[x:`",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -19253,7 +19434,8 @@
                 "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -19272,9 +19454,11 @@
             "guid": "hKSa*IX.}A",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -19293,9 +19477,11 @@
             "guid": "lKN2[&*,:S",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -19314,9 +19500,11 @@
             "guid": "ce&*MD^4&g",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -19335,9 +19523,11 @@
             "guid": "kWuJp[}4D-",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -19356,9 +19546,11 @@
             "guid": "mWa&ZrD+x~",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -19377,9 +19569,11 @@
             "guid": "c>>liGS3e{",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -19402,7 +19596,8 @@
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -19421,10 +19616,12 @@
             "guid": "sq(8uP,t3M",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -19443,10 +19640,12 @@
             "guid": "l^m/!#<=G#",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -19468,7 +19667,8 @@
                 "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -19491,7 +19691,8 @@
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -19514,7 +19715,8 @@
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -19537,7 +19739,8 @@
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -19560,7 +19763,8 @@
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -19579,9 +19783,11 @@
             "guid": "qrw7=vgi?J",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -19603,7 +19809,8 @@
                 "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -19625,7 +19832,8 @@
                 "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -19644,9 +19852,11 @@
             "guid": "rCn1}#^W0P",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -19665,9 +19875,11 @@
             "guid": "i)77lw]]Ql",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -19689,7 +19901,8 @@
                 "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -19708,9 +19921,11 @@
             "guid": "k~CC_ahtG8",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -19732,7 +19947,8 @@
                 "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -19751,9 +19967,11 @@
             "guid": "ftkX|mT#w9",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -19772,9 +19990,11 @@
             "guid": "i.b]{K3&,O",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -19793,6 +20013,7 @@
             "guid": "jRz00qe?!/",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "indication_2_pieces_known",
                 "language_EN-ES",
                 "preterit",
@@ -19816,10 +20037,12 @@
             "guid": "usA#:8dycZ",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "indication_2_pieces_known",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -19838,10 +20061,12 @@
             "guid": "lQ._=pB<>x",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "indication_2_pieces_known",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -19860,10 +20085,12 @@
             "guid": "u]^=0>;>?6",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "indication_2_pieces_known",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -19882,9 +20109,11 @@
             "guid": "f7O]qIk8U(",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -19903,9 +20132,11 @@
             "guid": "s!SX%;0.l/",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -19927,7 +20158,8 @@
                 "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -19946,9 +20178,11 @@
             "guid": "q6}n#fpE?",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -19967,9 +20201,11 @@
             "guid": "cFwrz^KuD5",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -19991,7 +20227,8 @@
                 "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -20014,7 +20251,8 @@
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -20037,7 +20275,8 @@
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -20060,7 +20299,8 @@
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -20079,10 +20319,12 @@
             "guid": "gTxnSwe;;}",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -20101,9 +20343,11 @@
             "guid": "deSH*k1[Yr",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -20125,7 +20369,8 @@
                 "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -20144,9 +20389,11 @@
             "guid": "ph~yI70bm7",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -20165,9 +20412,11 @@
             "guid": "jfR22xPnrK",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -20186,9 +20435,11 @@
             "guid": "vpb~8Ic<%B",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -20207,9 +20458,9 @@
             "guid": "iQ7d<1Ay:,",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
-                "preterit",
-                "verb"
+                "verb_past"
             ]
         },
         {
@@ -20228,9 +20479,11 @@
             "guid": "nUaNIbb<<|",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -20249,9 +20502,11 @@
             "guid": "9JXPI4JUG",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -20273,7 +20528,8 @@
                 "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -20292,9 +20548,11 @@
             "guid": "tQj*n*^rXq",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -20313,9 +20571,11 @@
             "guid": "b)2ipSJ.F2",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -20337,7 +20597,8 @@
                 "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -20356,9 +20617,11 @@
             "guid": "i{SYGV$pVs",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -20377,9 +20640,11 @@
             "guid": "gFw)UH(5~(",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -20402,7 +20667,8 @@
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -20421,10 +20687,12 @@
             "guid": "e@^~vHc|kR",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -20443,10 +20711,12 @@
             "guid": "tx;A8:9[4-",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -20465,10 +20735,12 @@
             "guid": "=2^da8k|z",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -20487,10 +20759,12 @@
             "guid": "hbk,]sw7P6",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -20513,7 +20787,8 @@
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -20536,7 +20811,8 @@
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -20559,7 +20835,8 @@
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -20582,7 +20859,8 @@
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -20605,7 +20883,8 @@
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -20627,7 +20906,8 @@
                 "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -20646,9 +20926,11 @@
             "guid": "dBau&}6Sc#",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -20670,7 +20952,8 @@
                 "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -20689,9 +20972,11 @@
             "guid": "dt}#tyG7{^",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -20710,9 +20995,11 @@
             "guid": "fQ2$se(`@p",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -20735,7 +21022,8 @@
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -20758,7 +21046,8 @@
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -20781,7 +21070,8 @@
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -20804,7 +21094,8 @@
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -20827,7 +21118,8 @@
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -20846,10 +21138,12 @@
             "guid": "l$v*(I^Pc!",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -20872,7 +21166,8 @@
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -20895,7 +21190,8 @@
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -20914,10 +21210,12 @@
             "guid": "lV8CUu`4qM",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -20936,10 +21234,12 @@
             "guid": "hrpf1fvU-+",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -20958,9 +21258,11 @@
             "guid": "bBEuFEYG8=",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -20979,9 +21281,11 @@
             "guid": "s5Z?`4yxki",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -21003,7 +21307,8 @@
                 "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -21022,9 +21327,11 @@
             "guid": "t6gkYr2r4y",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -21043,9 +21350,11 @@
             "guid": "imGDB8RS_&",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -21064,9 +21373,11 @@
             "guid": "t(&{V;sw/I",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -21085,9 +21396,11 @@
             "guid": "sjDF,&<4R",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -21106,10 +21419,12 @@
             "guid": "c?rjsYw_V}",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -21128,9 +21443,11 @@
             "guid": "kvf2Bg7omi",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -21149,10 +21466,12 @@
             "guid": "kg/~=-0s4s",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -21171,10 +21490,12 @@
             "guid": "hba~yo4|aW",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -21193,10 +21514,12 @@
             "guid": "hBP|P]lS/!",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -21219,7 +21542,8 @@
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -21238,10 +21562,12 @@
             "guid": "t<dC]a%=v4",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -21260,10 +21586,12 @@
             "guid": "bOH5pG+vV@",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -21282,9 +21610,11 @@
             "guid": "jID_l2B<,{",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -21303,9 +21633,11 @@
             "guid": "q]b^G~ni%r",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -21324,9 +21656,11 @@
             "guid": "vF`{MeeOd,",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -21345,9 +21679,11 @@
             "guid": "n%|+OSZ~Fo",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -21366,9 +21702,11 @@
             "guid": "mCIWjA+QT(",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -21391,7 +21729,8 @@
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -21414,7 +21753,8 @@
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -21433,10 +21773,12 @@
             "guid": "q0}aND3<C,",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -21455,10 +21797,12 @@
             "guid": "s3N|Ic_()]",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -21481,7 +21825,8 @@
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -21504,7 +21849,8 @@
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -21527,7 +21873,8 @@
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -21546,10 +21893,12 @@
             "guid": "h^911gA]gd",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -21568,10 +21917,12 @@
             "guid": "m;MGm&wg?2",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -21594,7 +21945,8 @@
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -21613,10 +21965,12 @@
             "guid": "p/x;bsmnpU",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -21635,9 +21989,11 @@
             "guid": "s0Z9+VL=vp",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -21656,10 +22012,12 @@
             "guid": "s^ogW8n|!T",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -21681,7 +22039,8 @@
                 "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -21700,9 +22059,11 @@
             "guid": "tGV!:]xK0O",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -21721,9 +22082,11 @@
             "guid": "u]{tY*{Ln*",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -21742,9 +22105,11 @@
             "guid": "cLfpvEr;it",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -21763,9 +22128,11 @@
             "guid": "iv0eW77HLP",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -21784,9 +22151,11 @@
             "guid": "kF]b&pU(kN",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -21805,9 +22174,11 @@
             "guid": "mOU>^d{Kw=",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -21826,9 +22197,11 @@
             "guid": "g2w5OFqD]f",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -21847,9 +22220,11 @@
             "guid": "OFjR/tWGF",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -21871,7 +22246,8 @@
                 "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -21890,9 +22266,11 @@
             "guid": "o[5t|haKlJ",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -21911,9 +22289,11 @@
             "guid": "fW=0W!!M&_",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -22127,10 +22507,12 @@
             "guid": "g%)wKlqz[g",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -22149,9 +22531,11 @@
             "guid": "hJ5`/3;95v",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -22170,9 +22554,11 @@
             "guid": "n#qBM*iNyH",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -22191,9 +22577,11 @@
             "guid": "gpI2S5M;}/",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -22212,9 +22600,11 @@
             "guid": "e{CG{!:)R}",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -22656,6 +23046,7 @@
             "guid": "dl-5oJQb{t",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_future"
@@ -24034,6 +24425,7 @@
             "guid": "nT8fLW%r-$",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_future"
@@ -24591,6 +24983,7 @@
             "guid": "qvHZ-S[%RB",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_future"
@@ -25840,6 +26233,7 @@
             "guid": "t*eTl%yW)M",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "verb",
@@ -28896,6 +29290,7 @@
             "guid": "cXGIVK`c[#",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "present",
                 "verb"
@@ -28982,6 +29377,7 @@
             "guid": "j[PMsq2NmH",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "present",
                 "verb"
@@ -29218,6 +29614,7 @@
             "guid": "jw%]H./e5:",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "present",
                 "verb"
@@ -30218,11 +30615,11 @@
             "guid": "C8[|VK:QQC",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "indication_colloquial_learned",
                 "indication_expression_learned",
-                "indication_literary_learned",
                 "language_EN-ES",
-                "Marked",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -31710,6 +32107,7 @@
             "guid": "Ha;dH<Q%R1",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "clarification_verb_learned",
                 "language_EN-ES",
                 "verb",
@@ -35570,7 +35968,6 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "Marked",
                 "verb",
                 "verb_infinitive"
             ]
@@ -36004,8 +36401,8 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "Marked",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -36441,10 +36838,9 @@
             "guid": "v3D3lyc`)#",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "indication_expression_known",
                 "language_EN-ES",
-                "Marked",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -38103,6 +38499,8 @@
             "guid": "ABxV+wRA=|",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "adverb",
+                "beginner",
                 "language_EN-ES"
             ]
         },
@@ -41153,6 +41551,7 @@
             "tags": [
                 "beginner",
                 "language_EN-ES",
+                "sentence",
                 "verb",
                 "verb_past"
             ]
@@ -42051,7 +42450,9 @@
             "guid": "kjts${sG;u",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "language_EN-ES"
+                "language_EN-ES",
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -44938,7 +45339,7 @@
             "tags": [
                 "language_EN-ES",
                 "sentence",
-                "verb"
+                "verb_subjunctive"
             ]
         },
         {
@@ -51745,6 +52146,7 @@
             "guid": "zI>==$DNw<",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "noun"
             ]
@@ -52355,7 +52757,6 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "Marked",
                 "noun"
             ]
         },
@@ -59244,9 +59645,7 @@
             "guid": "SOYaN",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "indication_expression",
                 "language_EN-ES",
-                "Marked",
                 "noun"
             ]
         },
@@ -60745,7 +61144,7 @@
             "guid": "y|GhB",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "indication_expression",
+                "expression",
                 "language_EN-ES",
                 "noun"
             ]
@@ -62576,6 +62975,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "adjective",
+                "clarification_adjective_known",
                 "language_EN-ES"
             ]
         },
@@ -63993,8 +64393,11 @@
             "guid": "n!?smseGa3",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
+                "expression",
                 "language_EN-ES",
-                "mostcommonwords"
+                "mostcommonwords",
+                "sentence"
             ]
         },
         {
@@ -64077,10 +64480,12 @@
             "guid": "l@tl21Sbhz",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "mostcommonwords",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -64246,6 +64651,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "adjective",
+                "beginner",
                 "indication_2_genders_learned",
                 "language_EN-ES",
                 "mostcommonwords"
@@ -65820,7 +66226,6 @@
             "tags": [
                 "expression",
                 "language_EN-ES",
-                "Marked",
                 "verb"
             ]
         },
@@ -66623,6 +67028,7 @@
             "guid": "Oe1(WU&[L~",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "mostcommonwords",
                 "phrases"
@@ -68095,6 +68501,7 @@
             "guid": "Eeb#:YqAiX",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb_infinitive"
             ]
@@ -69756,8 +70163,10 @@
             "guid": "k|OIcT^%q}",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -71633,10 +72042,12 @@
             "guid": "Q6G?A[yi-G",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "present",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -71655,10 +72066,12 @@
             "guid": "Gx^D%kt:Aj",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "present",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -71677,11 +72090,13 @@
             "guid": "m68R~i1qCp",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "Marked",
                 "present",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -71703,10 +72118,9 @@
                 "beginner",
                 "irregular",
                 "language_EN-ES",
-                "Marked",
                 "present",
-                "preterit",
-                "verb"
+                "verb",
+                "verb_present"
             ]
         },
         {
@@ -71725,11 +72139,13 @@
             "guid": "eV.z)YH3$/",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "Marked",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -71752,7 +72168,8 @@
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -71771,10 +72188,12 @@
             "guid": "ua_oj$,>+B",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -71793,10 +72212,12 @@
             "guid": "Dy0gW3bx`(",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -71819,7 +72240,8 @@
                 "irregular",
                 "language_EN-ES",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -71842,7 +72264,8 @@
                 "language_EN-ES",
                 "present",
                 "preterit",
-                "verb"
+                "verb",
+                "verb_past"
             ]
         },
         {
@@ -71861,6 +72284,7 @@
             "guid": "d}Coha<hdD",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "preterit",
                 "verb",
@@ -74153,9 +74577,11 @@
             "guid": "NZ@4G",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "expression",
+                "indication_2_pieces_learned",
                 "language_EN-ES",
                 "phrases",
-                "verb"
+                "verb_present"
             ]
         },
         {
