@@ -926,6 +926,27 @@
         {
             "__type__": "Note",
             "fields": [
+                "to throw away",
+                "tirar, botar",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "kR0VDpp]3?",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "verb",
+                "verb_infinitive"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "to make an appointment, to cite",
                 "citar [📅]",
                 "No esperaba que me citaran al tribunal para un error tan pequeño en el trabajo.",
@@ -5722,6 +5743,27 @@
             "tags": [
                 "language_EN-ES",
                 "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to make mistakes",
+                "cometer errores",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "gi+en2,4;m",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "expression",
+                "language_EN-ES",
+                "verb_infinitive"
             ]
         },
         {
