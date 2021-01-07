@@ -335,6 +335,7 @@
             "guid": "vXrH0D3/<2",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "expression",
                 "language_EN-ES",
                 "sentence"
@@ -2069,6 +2070,7 @@
             "guid": "cdI/(Lvp]O",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "indication_2_genders_learned",
                 "language_EN-ES",
                 "mostcommonwords"
@@ -2216,6 +2218,7 @@
             "guid": "iD:iNkA1{H",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "mostcommonwords",
                 "noun"
@@ -2985,7 +2988,9 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive",
+                "verb_reflexive"
             ]
         },
         {
@@ -3636,6 +3641,8 @@
             "guid": "o:]qAj#KEb",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
+                "colour",
                 "language_EN-ES",
                 "noun"
             ]
@@ -6058,7 +6065,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "Marked"
+                "marked"
             ]
         },
         {
@@ -6278,8 +6285,8 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "Marked",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -7166,8 +7173,9 @@
             "guid": "FZ$z7",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "adjective",
                 "language_EN-ES",
-                "Marked"
+                "marked"
             ]
         },
         {
@@ -7736,7 +7744,9 @@
             "guid": "ktW_H",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "language_EN-ES"
+                "beginner",
+                "language_EN-ES",
+                "verb_infinitive"
             ]
         },
         {
@@ -8455,6 +8465,7 @@
             "guid": "N0/;6",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "noun"
             ]
@@ -9497,7 +9508,10 @@
             "guid": ",C3[O",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "language_EN-ES"
+                "beginner",
+                "language_EN-ES",
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -11234,7 +11248,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "Marked",
+                "marked",
                 "noun"
             ]
         },
@@ -11696,8 +11710,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "clarification_adjective_known",
-                "language_EN-ES",
-                "Marked"
+                "language_EN-ES"
             ]
         },
         {
@@ -12491,6 +12504,7 @@
             "guid": "dA7CM]%2+C",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "present",
                 "verb"
@@ -12554,9 +12568,11 @@
             "guid": "coF{Ce=a<l",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "present",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -13421,6 +13437,7 @@
             "guid": "tPXbBvzaYa",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "present",
@@ -13443,9 +13460,11 @@
             "guid": "k:m>[#wIiq",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "present",
-                "verb"
+                "verb",
+                "verb_present"
             ]
         },
         {
@@ -13634,6 +13653,7 @@
             "guid": "eqYyrwjp?=",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "present",
                 "verb"
@@ -13702,7 +13722,8 @@
                 "irregular",
                 "language_EN-ES",
                 "present",
-                "verb"
+                "verb",
+                "verb_present"
             ]
         },
         {
@@ -13765,10 +13786,12 @@
             "guid": "sT@x|_:p-j",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "present",
-                "verb"
+                "verb",
+                "verb_present"
             ]
         },
         {
@@ -13830,6 +13853,7 @@
             "guid": "|B7E7{(oa",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "present",
                 "verb"
@@ -13897,7 +13921,8 @@
             "tags": [
                 "language_EN-ES",
                 "present",
-                "verb"
+                "verb",
+                "verb_present"
             ]
         },
         {
@@ -13959,9 +13984,11 @@
             "guid": "b?CLeZ::Pj",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "present",
-                "verb"
+                "verb",
+                "verb_present"
             ]
         },
         {
