@@ -3771,6 +3771,26 @@
         {
             "__type__": "Note",
             "fields": [
+                "the knight [♟]",
+                "el caballo [♟]",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "tzX{!OTw_c",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "the takeoff [🛫]",
                 "el despegue",
                 "",
@@ -5181,6 +5201,28 @@
             "tags": [
                 "language_EN-ES",
                 "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is your name? [formal]",
+                "¿Cómo se llama usted?",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "f`Zg&a*f!%",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "chat",
+                "indication_formal_learned",
+                "language_EN-ES",
+                "sentence"
             ]
         },
         {
@@ -8021,6 +8063,28 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "indication_2_genders",
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the horse",
+                "el caballo",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "wO~aL",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "animals",
+                "beginner",
                 "language_EN-ES",
                 "noun"
             ]
@@ -30624,6 +30688,26 @@
         {
             "__type__": "Note",
             "fields": [
+                "the pride, the arrogance",
+                "la arrogancia, la prepotencia",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "w0Z57Ng(G9",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "to fret [🍳]",
                 "comerse la olla",
                 "",
@@ -33651,6 +33735,28 @@
         {
             "__type__": "Note",
             "fields": [
+                "to drive mad",
+                "<div>enloquecer [🅰️➡️🅱️]</div>",
+                "Me está enloqueciendo con sus quejas infinitas.",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "itZ/e`SmyD",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "verb",
+                "verb_infinitive",
+                "verb_transitive"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "the quote [💰]",
                 "el presupuesto",
                 "",
@@ -33806,6 +33912,26 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the stagnation",
+                "el estancamiento",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "Jq9K#Szm,.",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
             ]
         },
         {
@@ -34647,6 +34773,27 @@
             "tags": [
                 "language_EN-ES",
                 "Marked"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the usury",
+                "la usura",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "Lytz1?171)",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "economy",
+                "language_EN-ES",
+                "noun"
             ]
         },
         {
@@ -36879,7 +37026,28 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "Marked",
+                "marked",
+                "verb",
+                "verb_infinitive"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to omit",
+                "omitir",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "dX^@da^/D#",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
                 "verb",
                 "verb_infinitive"
             ]
@@ -50092,6 +50260,25 @@
         {
             "__type__": "Note",
             "fields": [
+                "the fluffy cake",
+                "el pastel esponjoso",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "eQt0$#&Xip",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "the bruise",
                 "la magulladura, el morado",
                 "",
@@ -52676,6 +52863,26 @@
                 ""
             ],
             "guid": "E}};^nnh1n",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the partner, the member, the associate",
+                "el socio",
+                "Desde la semana pasada tenemos 300 nuevos socios.<div>Los socios benefician de descuentos en todos los eventos que organizamos.</div><div>Practicamente somos dos socios en la empresa, pero intentamos tomar las decisiones con todo el equipo.</div>",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "p|~.mMT<8w",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -57711,6 +57918,27 @@
         {
             "__type__": "Note",
             "fields": [
+                "the lad, the boy, the youngster",
+                "el muchacho, el chaval",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "w98&*qxBQ#",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "marked",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "the humour",
                 "el humor",
                 "",
@@ -58168,6 +58396,26 @@
                 ""
             ],
             "guid": "nfE|O4c9A+",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the archbishop",
+                "el arzobispo",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "dIBA%iuz7g",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -60713,6 +60961,26 @@
                 ""
             ],
             "guid": "yZ_PH",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the pantry",
+                "la despensa",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "#XD>D",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -64580,6 +64848,27 @@
         {
             "__type__": "Note",
             "fields": [
+                "when",
+                "cuando, cuándo",
+                "",
+                "",
+                "\"Cuándo\" se utiliza en interrogaciones o exclamaciones.",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "dg5]!3:rA.",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "beginner",
+                "language_EN-ES",
+                "mostcommonwords"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "the bill [🍝💳] ",
                 "la cuenta [🍝💳] ",
                 "",
@@ -66470,6 +66759,29 @@
         {
             "__type__": "Note",
             "fields": [
+                "What is your surname? [formal]",
+                "¿Cuál es su apellido?",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "L8-u)/G/u%",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "beginner",
+                "chat",
+                "language_EN-ES",
+                "questions",
+                "sentence"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Where can I buy a toothbrush?",
                 "¿Dónde puedo comprar un cepillo de dientes?",
                 "",
@@ -66529,6 +66841,48 @@
                 "apperance",
                 "clothes",
                 "colour",
+                "language_EN-ES",
+                "sentence"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The girl likes horses.",
+                "A la niña le gustan los caballos.",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "kvsLK`>?rS",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "animals",
+                "language_EN-ES",
+                "sentence"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The brown horse is fast.",
+                "El caballo marrón es rápido.",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "PcI.jPyj?(",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "animals",
                 "language_EN-ES",
                 "sentence"
             ]
@@ -67361,6 +67715,28 @@
         {
             "__type__": "Note",
             "fields": [
+                "the party [💃️🕺️]",
+                "la fiesta [💃️🕺️]",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "HfG-llp|`V",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "beginner",
+                "language_EN-ES",
+                "mostcommonwords",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "the (adhesive) tape",
                 "la cinta",
                 "",
@@ -67716,8 +68092,29 @@
         {
             "__type__": "Note",
             "fields": [
-                "rich, delicious",
-                "rico",
+                "What is your name? [informal]",
+                "¿Cómo te llamas?",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "H}D+4+/eeR",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "beginner",
+                "language_EN-ES",
+                "sentence"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "rich [💰️]",
+                "rico [💰️]",
                 "",
                 "",
                 "",
@@ -68001,6 +68398,27 @@
                 "language_EN-ES",
                 "mostcommonwords",
                 "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "We can leave after lunch.",
+                "Podemos salir después de la comida.",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "x/hv]WoRYL",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "food",
+                "language_EN-ES",
+                "sentence"
             ]
         },
         {
@@ -68361,6 +68779,29 @@
                 "beginner",
                 "language_EN-ES",
                 "mostcommonwords"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "I wash my hands before eating.",
+                "Me lavo las manos antes de comer.",
+                "",
+                "",
+                "Given the multiple meanings of \"comer\" another translation that the context might suggest is \"I wash my hands before lunch\".",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "E%9)iJ&]EN",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "day",
+                "food",
+                "hygiene",
+                "language_EN-ES",
+                "sentence"
             ]
         },
         {
@@ -69181,6 +69622,27 @@
         {
             "__type__": "Note",
             "fields": [
+                "the reading",
+                "la lectura",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "zNB]kjDA;f",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "marked",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "the suggestion",
                 "la sugerencia",
                 "",
@@ -69192,6 +69654,26 @@
                 ""
             ],
             "guid": "v7k!LF=U5D",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the bishop",
+                "el obispo",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "w;R2Y(cWpv",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -79245,6 +79727,377 @@
                 "language_EN-ES",
                 "sentence",
                 "verb_subjunctive"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the lender",
+                "el prestamista",
+                "",
+                "",
+                "",
+                "",
+                "✔",
+                "✔",
+                ""
+            ],
+            "guid": "0ndtA",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the borrower",
+                "el prestatario",
+                "",
+                "",
+                "",
+                "",
+                "✔",
+                "✔",
+                ""
+            ],
+            "guid": "4[tT5",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the ugliness",
+                "la fealdad",
+                "",
+                "",
+                "",
+                "",
+                "✔",
+                "✔",
+                ""
+            ],
+            "guid": "EHa4M",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the faithfulness",
+                "la fidelidad",
+                "",
+                "",
+                "",
+                "",
+                "✔",
+                "✔",
+                ""
+            ],
+            "guid": "FQll4",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the plus sign",
+                "el más [🔣️]",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "tWh4mC[a3<",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "mostcommonwords",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "delicious, rich",
+                "rico [🎂️]",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "I#7wU:5[p{",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "adjective",
+                "language_EN-ES",
+                "mostcommonwords"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the holiday [📅️⛔️🔧️]",
+                "la fiesta, el (día) festivo",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "oXM?8SdN>*",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "mostcommonwords",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the lunch",
+                "la comida [🕛👩‍🍳]",
+                "",
+                "",
+                "",
+                "",
+                "✔️ ",
+                "✔️ ",
+                ""
+            ],
+            "guid": "+`}R3",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "infinite",
+                "infinito",
+                "",
+                "",
+                "",
+                "",
+                "✅️",
+                "✅️",
+                ""
+            ],
+            "guid": "uk&g5g3j1y",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "adjective",
+                "language_EN-ES"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to go mad",
+                "enloquecer [🅰️🔄️]",
+                "No quiero enloquecer allí, con tan poco contacto social.",
+                "",
+                "",
+                "",
+                "✅️",
+                "✅️",
+                ""
+            ],
+            "guid": "uEG-jnR(/F",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "verb",
+                "verb_infinitive",
+                "verb_intransitive"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the sore throat",
+                "el dolor de garganta",
+                "",
+                "",
+                "",
+                "",
+                "✔️ ",
+                "✔️ ",
+                ""
+            ],
+            "guid": "#:d)2",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "expression",
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the angina",
+                "la angina",
+                "",
+                "",
+                "",
+                "",
+                "✔️ ",
+                "✔️ ",
+                ""
+            ],
+            "guid": "4_nqU",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the bark [🎄]",
+                "la corteza [🎄]",
+                "",
+                "",
+                "",
+                "",
+                "✔️ ",
+                "✔️ ",
+                ""
+            ],
+            "guid": "IZtJC",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the cortex",
+                "el cortex, la corteza",
+                "",
+                "",
+                "",
+                "",
+                "✔️ ",
+                "✔️ ",
+                ""
+            ],
+            "guid": "P=6^C",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "wealthy [🏞️]",
+                "caudaloso [💷]",
+                "El cuadro fue encargado por un terrateniente caudaloso.",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️ ",
+                ""
+            ],
+            "guid": "4tw6C",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "adjective",
+                "indication_literary_learned",
+                "language_EN-ES"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "prolific [🏞️]",
+                "caudaloso [📚]",
+                "Fue un escritor caudaloso.",
+                "",
+                "",
+                "",
+                "✔️ ",
+                "✔️ ",
+                ""
+            ],
+            "guid": "zG4}E",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "adjective",
+                "indication_literary_learned",
+                "language_EN-ES"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "prolific",
+                "prolífico",
+                "",
+                "",
+                "",
+                "",
+                "✅️",
+                "✅️",
+                ""
+            ],
+            "guid": "rwl@^4Z^wj",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "adjective",
+                "language_EN-ES"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to put off [😕]",
+                "quitar las ganas",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️ ",
+                ""
+            ],
+            "guid": "ZN_kC",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "expression",
+                "indication_expression",
+                "language_EN-ES",
+                "verb",
+                "verb_infinitive"
             ]
         }
     ]
