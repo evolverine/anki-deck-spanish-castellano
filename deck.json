@@ -201,8 +201,7 @@
             "sortf": 0,
             "tags": [
                 "language_EN-ES",
-                "verb_subjunctive",
-                "sentence"
+                "adjective"
             ],
             "tmpls": [
                 {
@@ -237,74 +236,6 @@
                     "name": "ProductionFromImage",
                     "ord": 2,
                     "qfmt": "{{#image}}<div id=\"lelaFront\"><script src=\"_lela_index.min.js\"></script><div id=\"promptBox\" class=\"promptBox messageGroup hvr-shadow known\"><div class=\"senderBox\"><div class=\"sender\"></div><div id=\"knownLanguage\" class=\"language mainTexts\"></div></div><div class=\"messagesBox\"><div id=\"known\" class=\"message known mainTexts image\"><div class=\"message-content\">{{image}}<div id=\"mediaCredits\">{{media_credits}}</div></div></div><div id=\"badges_table\" class=\"message\"><div id=\"badge_indication_expression\"></div><div id=\"badge_indication_colloquial\"></div><div id=\"badge_indication_use_subjunctive\"></div><div id=\"badge_indication_2_pieces\"></div><div id=\"badge_indication_3_pieces\"></div><div id=\"badge_indication_4_pieces\" class=\"badge_indication_3_plus_pieces\"></div><div id=\"badge_indication_5_pieces\" class=\"badge_indication_3_plus_pieces\"></div><div id=\"badge_indication_2_genders\"></div><div id=\"badge_indication_singular_plural\"></div><div id=\"badge_indication_literary\"></div><div id=\"badge_indication_gerund\" class=\"badge_indication_gerund\"></div><div id=\"badge_clarification_gerund\" class=\"badge_indication_gerund\"></div><div id=\"badge_clarification_adjective\"></div><div id=\"badge_clarification_adverb\"></div><div id=\"badge_clarification_verb\"></div><div id=\"badge_clarification_number\"></div><div id=\"badge_clarification_formal\"></div><div id=\"badge_clarification_informal\"></div><div id=\"badge_clarification_expression\"></div><div id=\"badge_verified\"></div></div></div><div id=\"learned\" class=\"hidden\">{{learned}}</div></div><div id=\"answerBoxPreview\" class=\"messageGroup learned only-front\"><div class=\"senderBox\"><div class=\"sender\"></div><div id=\"requestedLanguagePrompt\" class=\"language mainTexts\"></div></div><div class=\"messagesBox\"><div class=\"message\" id=\"previewMessage\">...</div></div></div><div id=\"cardData\" class=\"hidden\"><div id=\"cardData_known\">{{known}}</div><div id=\"cardData_learned\">{{learned}}</div><div id=\"cardData_tags\">{{Tags}}</div></div></div>{{/image}}"
-                }
-            ],
-            "type": 0,
-            "vers": []
-        },
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "dbd82d5d-bbe6-11e8-b58c-848f69a951ca",
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.front {\n color: blue;\n}\n\n.back {\n color: green;\n}",
-            "flds": [
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Front",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Back",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Example",
-                    "ord": 2,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Front Back Example",
-            "req": [
-                [
-                    0,
-                    "all",
-                    [
-                        0
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tags": [
-                "grammar",
-                "language_EN-ES",
-                "verbs"
-            ],
-            "tmpls": [
-                {
-                    "afmt": "<span class=\"front\">{{FrontSide}}</span>\n\n<hr id=answer>\n\n<span class=\"back\">{{Back}}</span>\n\n<hr id=example>\n\n{{Example}}",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "Card 1",
-                    "ord": 0,
-                    "qfmt": "{{Front}}"
                 }
             ],
             "type": 0,
