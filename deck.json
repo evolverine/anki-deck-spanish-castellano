@@ -10,6 +10,7 @@
             "autoplay": true,
             "crowdanki_uuid": "db6d3680-bbe6-11e8-991c-848f69a951ca",
             "dyn": false,
+            "interdayLearningMix": 0,
             "lapse": {
                 "delays": [
                     10.0
@@ -39,6 +40,8 @@
                 "perDay": 25,
                 "separate": true
             },
+            "newMix": 0,
+            "newPerDayMinimum": 0,
             "replayq": true,
             "rev": {
                 "bury": true,
@@ -50,6 +53,7 @@
                 "minSpace": 1,
                 "perDay": 200
             },
+            "reviewOrder": 0,
             "timer": 0
         }
     ],
@@ -90,25 +94,25 @@
             "css": "/**\n * (the bundled result of) this file is meant to be\n * copy-pasted into Anki's CSS field. But for development\n * builds, ie. for testing in the browser, it needs to be\n * loaded into the browser\n */\n\n#lelaFront,#lelaBack {\n    display: none;\n}",
             "flds": [
                 {
-                    "font": "Arial",
+                    "font": "Liberation Sans",
                     "media": [],
                     "name": "known",
                     "ord": 0,
                     "rtl": false,
-                    "size": 12,
+                    "size": 20,
                     "sticky": true
                 },
                 {
-                    "font": "Arial",
+                    "font": "Liberation Sans",
                     "media": [],
                     "name": "learned",
                     "ord": 1,
                     "rtl": false,
-                    "size": 12,
+                    "size": 20,
                     "sticky": true
                 },
                 {
-                    "font": "Arial",
+                    "font": "Liberation Sans",
                     "media": [],
                     "name": "example",
                     "ord": 2,
@@ -117,7 +121,7 @@
                     "sticky": false
                 },
                 {
-                    "font": "Arial",
+                    "font": "Liberation Sans",
                     "media": [],
                     "name": "image",
                     "ord": 3,
@@ -201,7 +205,9 @@
             "sortf": 0,
             "tags": [
                 "language_EN-ES",
-                "adjective"
+                "verb",
+                "verb_infinitive",
+                "indication_literary_known"
             ],
             "tmpls": [
                 {
@@ -445,7 +451,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "the toasted bread",
+                "the toast(ed bread)",
                 "el pan tostado",
                 "",
                 "",
@@ -458,6 +464,27 @@
             "guid": "fCdR>vLgyO",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the fish [🐟]",
+                "el pez, los peces",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "eC0*B4^&A0",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "indication_singular_plural_learned",
                 "language_EN-ES",
                 "noun"
             ]
@@ -602,6 +629,7 @@
             "guid": "iS6k8ZtzOt",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_gerund"
@@ -1146,8 +1174,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "the companion, the friend",
-                "el compañero, la compañera",
+                "the companion, the friend, the partner",
+                "el compañero, la compañera [👥]",
                 "",
                 "",
                 "",
@@ -1161,7 +1189,6 @@
             "tags": [
                 "indication_2_genders_learned",
                 "language_EN-ES",
-                "Marked",
                 "mostcommonwords",
                 "noun"
             ]
@@ -1307,6 +1334,7 @@
             "tags": [
                 "indication_2_genders_learned",
                 "language_EN-ES",
+                "leech",
                 "Marked",
                 "mostcommonwords",
                 "noun"
@@ -1394,7 +1422,8 @@
                 "beginner",
                 "indication_2_genders_learned",
                 "language_EN-ES",
-                "mostcommonwords"
+                "mostcommonwords",
+                "pronoun"
             ]
         },
         {
@@ -1443,7 +1472,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "that",
+                "that [adjective, nearby]",
                 "ese, esa",
                 "",
                 "",
@@ -1457,10 +1486,8 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "beginner",
-                "clarification_adjective_known",
                 "indication_2_genders_learned",
                 "language_EN-ES",
-                "Marked",
                 "mostcommonwords"
             ]
         },
@@ -1564,8 +1591,10 @@
             "guid": "tHS`TP9c>c",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
-                "mostcommonwords"
+                "mostcommonwords",
+                "noun"
             ]
         },
         {
@@ -1719,7 +1748,7 @@
             "__type__": "Note",
             "fields": [
                 "the judge",
-                "el juez, la juez",
+                "el juez, la jueza",
                 "",
                 "",
                 "",
@@ -1762,9 +1791,9 @@
         {
             "__type__": "Note",
             "fields": [
-                "the pity, the shame",
-                "la lástima, la pena",
-                "",
+                "What a pity / shame!",
+                "¡Qué lástima / pena!",
+                "¡Qué lástima / pena que no pudiste asistir a su taller!",
                 "",
                 "",
                 "",
@@ -1775,9 +1804,11 @@
             "guid": "o~MT3E<Vkr",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "indication_2_pieces",
                 "language_EN-ES",
                 "mostcommonwords",
-                "noun"
+                "noun",
+                "sentence"
             ]
         },
         {
@@ -1805,8 +1836,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "to wash (oneself)",
-                "lavar(se)",
+                "to wash",
+                "lavar",
                 "",
                 "",
                 "",
@@ -1818,6 +1849,7 @@
             "guid": "hO1}uri(~~",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "mostcommonwords",
                 "verb"
@@ -2028,8 +2060,8 @@
             "guid": "j]g9we.gd|",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
-                "Marked",
                 "mostcommonwords"
             ]
         },
@@ -2176,6 +2208,7 @@
             "guid": "e[&92IKZV5",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "mostcommonwords",
                 "noun"
@@ -2282,6 +2315,7 @@
             "guid": "qP?cE`JIZ}",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "mostcommonwords"
             ]
@@ -2532,6 +2566,7 @@
             "guid": "s^pN(a-!74",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "mostcommonwords"
             ]
@@ -2785,7 +2820,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "the tripe, the intestine, the gut",
+                "the tripe, the gut",
                 "la tripa",
                 "",
                 "",
@@ -2800,7 +2835,6 @@
             "tags": [
                 "food",
                 "language_EN-ES",
-                "Marked",
                 "noun"
             ]
         },
@@ -3056,7 +3090,7 @@
             "__type__": "Note",
             "fields": [
                 "the spouse",
-                "el cónyuge, la cónyuge<br>el esposo, la esposa",
+                "el esposo, la esposa<div>el cónyuge, la cónyuge<br></div>",
                 "",
                 "",
                 "",
@@ -3107,6 +3141,26 @@
                 ""
             ],
             "guid": "dNA{$B3<[~",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the gentleman",
+                "el caballero, el señor",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "e9+sszwEi!",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
@@ -3179,7 +3233,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "thin, slim",
+                "thin, skinny",
                 "delgado, flaco",
                 "",
                 "",
@@ -3193,8 +3247,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "adjective",
-                "language_EN-ES",
-                "Marked"
+                "language_EN-ES"
             ]
         },
         {
@@ -3235,6 +3288,27 @@
             "tags": [
                 "language_EN-ES",
                 "Marked",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the fisherman, the fisherwoman",
+                "el pescador, la pescadora",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "rC;DrZc/vc",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "indication_2_genders",
+                "language_EN-ES",
                 "noun"
             ]
         },
@@ -3628,6 +3702,27 @@
         {
             "__type__": "Note",
             "fields": [
+                "to bore [😴]",
+                "aburrir",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "s=].+Qu~qP",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "verb",
+                "verb_infinitive"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "the light blue",
                 "el azul claro",
                 "",
@@ -3953,7 +4048,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "according to the (weather) forecast",
+                "according to the ⛅ forecast",
                 "según el pronóstico",
                 "",
                 "",
@@ -4114,7 +4209,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "the cidre",
+                "the cider",
                 "la sidra",
                 "",
                 "",
@@ -4128,7 +4223,6 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "Marked",
                 "noun"
             ]
         },
@@ -4414,6 +4508,26 @@
             "tags": [
                 "language_EN-ES",
                 "Marked",
+                "sentence"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "I'll go right away.",
+                "Iré enseguida.",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "qS=imdUJ%|",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
                 "sentence"
             ]
         },
@@ -5036,6 +5150,8 @@
             "guid": "r-b-~1tb5)",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
+                "emotions",
                 "language_EN-ES",
                 "noun"
             ]
@@ -5185,7 +5301,7 @@
             "__type__": "Note",
             "fields": [
                 "What is your name? [formal]",
-                "¿Cómo se llama usted?",
+                "¿Cómo se llama (usted)?",
                 "",
                 "",
                 "",
@@ -5199,6 +5315,26 @@
             "tags": [
                 "chat",
                 "indication_formal_learned",
+                "language_EN-ES",
+                "sentence"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What kind/type of fish is this? [🎣🍽💵]",
+                "¿Qué tipo de pescado es éste?",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "pePxh7#X(E",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
                 "language_EN-ES",
                 "sentence"
             ]
@@ -5241,6 +5377,7 @@
             "guid": "g#T#S4t#2O",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "expression",
                 "language_EN-ES",
                 "meeting",
@@ -5266,6 +5403,27 @@
             "tags": [
                 "language_EN-ES",
                 "sentence"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "I'll be right with you.",
+                "Enseguida estoy contigo.",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "kua^@{?3(r",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "help",
+                "indication_expression",
+                "language_EN-ES"
             ]
         },
         {
@@ -5727,6 +5885,26 @@
         {
             "__type__": "Note",
             "fields": [
+                "the floor [indoors&nbsp;👣]",
+                "el suelo, el piso",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "b=je(cAskP",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "it's doubtful that",
                 "es dudoso que + subj",
                 "",
@@ -6123,6 +6301,7 @@
             "guid": "DPE>g",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "expression",
                 "language_EN-ES",
                 "noun"
             ]
@@ -6151,8 +6330,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "the coworker, the workmate, the colleague?",
-                "el compañero (de trabajo)",
+                "the coworker, the colleague",
+                "el compañero [💼]",
                 "",
                 "",
                 "",
@@ -6165,7 +6344,6 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "Marked",
                 "noun"
             ]
         },
@@ -6352,7 +6530,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "I'm really tired. [💨]",
+                "I'm really tired / exhausted. [💨]",
                 "Estoy hecha polvo.",
                 "",
                 "",
@@ -6544,7 +6722,9 @@
             "guid": "M{HDB",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "language_EN-ES"
+                "beginner",
+                "language_EN-ES",
+                "noun"
             ]
         },
         {
@@ -6602,6 +6782,7 @@
             "guid": "@(U^H",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "noun"
             ]
@@ -6995,6 +7176,8 @@
             "guid": "[h`+1",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
+                "date",
                 "language_EN-ES"
             ]
         },
@@ -7175,27 +7358,6 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "beautiful, lovely",
-                "bonito, hermoso, bello",
-                "",
-                "",
-                "",
-                "",
-                "✔️",
-                "✔️",
-                ""
-            ],
-            "guid": "FZ$z7",
-            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
-            "tags": [
-                "adjective",
-                "language_EN-ES",
-                "marked"
             ]
         },
         {
@@ -7672,7 +7834,7 @@
             "fields": [
                 "the scarf [❄]",
                 "la bufanda",
-                "",
+                "Hace frio. ¡No te olvides la bufanda!",
                 "",
                 "",
                 "",
@@ -7684,7 +7846,6 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "Marked",
                 "noun"
             ]
         },
@@ -7772,8 +7933,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "the bank, the bench",
-                "el banco",
+                "the bank",
+                "el banco [🏦]",
                 "",
                 "",
                 "",
@@ -7785,6 +7946,7 @@
             "guid": "Ov7l8",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "noun"
             ]
@@ -8049,7 +8211,7 @@
             "__type__": "Note",
             "fields": [
                 "the horse",
-                "el caballo",
+                "el caballo [🐴]",
                 "",
                 "",
                 "",
@@ -8404,6 +8566,7 @@
             "guid": "vZq8G",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "noun"
             ]
@@ -9245,6 +9408,7 @@
             "guid": "2-T_K",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "noun"
             ]
@@ -9878,9 +10042,9 @@
         {
             "__type__": "Note",
             "fields": [
-                "none, any",
-                "ningún, ninguna",
-                "",
+                "none of, any",
+                "ningún, ninguno, ninguna",
+                "Le pedí que me dejara un pastel, pero no queda ninguno.<br><br>¡No le dejes pasar, en ningún caso!<br><br>Ninguna de las ventanas estaba limpia.",
                 "",
                 "",
                 "",
@@ -9891,16 +10055,38 @@
             "guid": "PCH37",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "adjective",
                 "clarification_adjective_learned",
                 "indication_2_genders_learned",
                 "language_EN-ES",
-                "Marked"
+                "pronoun"
             ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "immediately, right away, at once",
+                "that [adjective, far]",
+                "aquel, aquella",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "SH>41",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "adjective",
+                "indication_2_genders_learned",
+                "language_EN-ES"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "immediately, right away",
                 "enseguida",
                 "",
                 "",
@@ -9913,6 +10099,7 @@
             "guid": "b{Lm",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "adverb",
                 "language_EN-ES"
             ]
         },
@@ -10268,7 +10455,7 @@
                 "",
                 "",
                 "",
-                "",
+                "drawing a tie",
                 "✔️",
                 "✔️",
                 ""
@@ -10694,7 +10881,7 @@
             "__type__": "Note",
             "fields": [
                 "to go back, to move back",
-                "retrodecer",
+                "retroceder",
                 "",
                 "",
                 "",
@@ -10707,7 +10894,9 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "Marked"
+                "Marked",
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -10835,7 +11024,7 @@
             "__type__": "Note",
             "fields": [
                 "the olive",
-                "la oliva, la aceituna",
+                "la aceituna, la oliva",
                 "",
                 "",
                 "",
@@ -10869,6 +11058,26 @@
                 "language_EN-ES",
                 "Marked",
                 "verb"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "affectionate",
+                "cariñoso, afectuoso",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "rktyL",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "adjective",
+                "language_EN-ES"
             ]
         },
         {
@@ -11135,7 +11344,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "the banner, the placard [in a protest]",
+                "the banner, the placard [e.g. in a protest]",
                 "la pancarta",
                 "",
                 "",
@@ -11463,7 +11672,7 @@
                 "corporal",
                 "",
                 "",
-                "",
+                "El inglés también tiene la palabra \"corporal\", que significa lo mismo, pero no está utilizada habitualmente — excepto la expresión \"corporal punishment\".",
                 "",
                 "✔️",
                 "✔️",
@@ -11514,6 +11723,27 @@
             "tags": [
                 "language_EN-ES",
                 "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to defrost",
+                "descongelar",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "yQP!L",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -11637,7 +11867,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "gunfire, shootout, shooting",
+                "the shooting",
                 "el tiroteo",
                 "",
                 "",
@@ -11650,7 +11880,8 @@
             "guid": "r^XmO",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "language_EN-ES"
+                "language_EN-ES",
+                "noun"
             ]
         },
         {
@@ -11697,7 +11928,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "to appease, to quiet",
+                "to appease, to pacify",
                 "apaciguar",
                 "",
                 "",
@@ -11997,7 +12228,7 @@
             "__type__": "Note",
             "fields": [
                 "to pull",
-                "tirar (intransitivo)",
+                "tirar [intransitivo]",
                 "Tiró de la puerta justo cuando iba a abrirla.",
                 "",
                 "",
@@ -12122,7 +12353,7 @@
             "__type__": "Note",
             "fields": [
                 "the deck [♠♣♥♦]",
-                "la baraja, el mazo",
+                "el mazo, la baraja",
                 "",
                 "",
                 "",
@@ -12135,7 +12366,6 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "Marked",
                 "noun"
             ]
         },
@@ -12201,7 +12431,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "the bread box, the bread basket",
+                "the bread box / basket",
                 "la panera",
                 "",
                 "",
@@ -12439,6 +12669,7 @@
             "guid": "obH+Z9{WoB",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "present",
                 "verb"
@@ -12482,6 +12713,7 @@
             "guid": "d`?x~rOrc4",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "clarification_verb_learned",
                 "language_EN-ES",
                 "present",
@@ -12504,6 +12736,7 @@
             "guid": "e}__6lEp89",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "present",
                 "verb"
@@ -12525,6 +12758,7 @@
             "guid": "R8o<JXrX=",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "present",
                 "verb"
@@ -12568,6 +12802,7 @@
             "guid": "eiJ[|/i]vH",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "present",
                 "verb"
@@ -12589,6 +12824,7 @@
             "guid": "bNY]oLSa=8",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "present",
                 "verb"
@@ -12633,6 +12869,7 @@
             "guid": "gAxzoHK=*+",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "present",
                 "verb"
@@ -12654,6 +12891,7 @@
             "guid": "k0/yxbCrr+",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "present",
                 "verb"
@@ -12662,7 +12900,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "They buy",
+                "they buy",
                 "compran",
                 "",
                 "",
@@ -12675,6 +12913,7 @@
             "guid": "d~#?%G`Z9v",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "present",
                 "verb"
@@ -13198,6 +13437,7 @@
             "guid": "vO!x<R/W*K",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "present",
                 "verb"
@@ -13291,7 +13531,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "They owe",
+                "They&nbsp;owe",
                 "deben",
                 "",
                 "",
@@ -13304,9 +13544,11 @@
             "guid": "d?Atk}OSNd",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "present",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -13325,6 +13567,7 @@
             "guid": "iClXk4}TRy",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "present",
@@ -13347,6 +13590,7 @@
             "guid": "mWm2{;BCU,",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "present",
@@ -13369,6 +13613,7 @@
             "guid": "n;/t.5LH}$",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "present",
@@ -13413,6 +13658,7 @@
             "guid": "lk>=nI>|CD",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "present",
@@ -13854,6 +14100,7 @@
             "guid": "hWsPx5A8a,",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "clarification_verb",
                 "language_EN-ES",
                 "present",
@@ -13863,7 +14110,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "You study",
+                "you&nbsp;study",
                 "estudias",
                 "",
                 "",
@@ -13876,6 +14123,7 @@
             "guid": "j%o*N[7+|Y",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "present",
                 "verb"
@@ -13919,6 +14167,7 @@
             "guid": "pc203xp[YV",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "present",
                 "verb"
@@ -13927,8 +14176,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "I taste",
-                "gusto",
+                "I like",
+                "me gusta",
                 "",
                 "",
                 "",
@@ -13940,18 +14189,17 @@
             "guid": "fPQAwACbbF",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "clarification_verb",
+                "beginner",
                 "language_EN-ES",
-                "marked",
                 "present",
-                "verb"
+                "verb_present"
             ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "you taste",
-                "gustas",
+                "you like",
+                "te gusta",
                 "",
                 "",
                 "",
@@ -13963,6 +14211,7 @@
             "guid": "o/$6NY,+jG",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "present",
                 "verb",
@@ -13973,7 +14222,7 @@
             "__type__": "Note",
             "fields": [
                 "he/she/it likes",
-                "(le) gusta",
+                "le gusta",
                 "",
                 "",
                 "",
@@ -13985,6 +14234,7 @@
             "guid": "m%kJwh4MK6",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "present",
                 "verb"
@@ -13993,8 +14243,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "we taste",
-                "gustamos",
+                "we like",
+                "nos gusta",
                 "",
                 "",
                 "",
@@ -14006,6 +14256,7 @@
             "guid": "luyg_ly%C5",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "present",
                 "verb",
@@ -14051,6 +14302,7 @@
             "guid": "jW?FqUEtNB",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "clarification_verb",
                 "irregular",
                 "language_EN-ES",
@@ -14074,6 +14326,7 @@
             "guid": "bp@_Jj6$BG",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "present",
@@ -14143,6 +14396,7 @@
             "guid": "oAy3|szEr;",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "present",
@@ -14165,6 +14419,7 @@
             "guid": "m?@|{}pf~4",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "present",
                 "verb"
@@ -14209,6 +14464,7 @@
             "guid": "l0}{KEAf&5",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "present",
                 "verb"
@@ -14230,6 +14486,7 @@
             "guid": "mh~FQnObz+",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "present",
                 "verb"
@@ -14251,6 +14508,7 @@
             "guid": "sYUSdQsXo5",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "present",
                 "verb"
@@ -14358,6 +14616,7 @@
             "guid": "jiX2k*,iK*",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "present",
@@ -14380,6 +14639,7 @@
             "guid": "s$[[f&OCw|",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "present",
@@ -14483,7 +14743,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "You read [present]",
+                "you&nbsp;read [present]",
                 "lees",
                 "",
                 "",
@@ -15476,6 +15736,7 @@
             "guid": "tN@Gc65Zhy",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "present",
@@ -16316,6 +16577,7 @@
             "guid": "ny+eq}3/W_",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "present",
@@ -16325,7 +16587,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "You have",
+                "You&nbsp;have",
                 "tienes",
                 "",
                 "",
@@ -16338,6 +16600,7 @@
             "guid": "kCUq#.r?^f",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "present",
@@ -16404,6 +16667,7 @@
             "guid": "t(]x7}!kFd",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "present",
@@ -16642,6 +16906,7 @@
             "guid": "rI9+Qp283O",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "present",
@@ -16664,6 +16929,7 @@
             "guid": "qBcBR]xh)`",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "present",
@@ -16686,6 +16952,7 @@
             "guid": "spO0z/Ys^y",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "present",
@@ -16708,6 +16975,7 @@
             "guid": "o-Xb{iMk(A",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "present",
                 "verb"
@@ -16729,6 +16997,7 @@
             "guid": "kH@qVTZ^S1",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "present",
@@ -19287,7 +19556,7 @@
             "__type__": "Note",
             "fields": [
                 "I liked",
-                "gusté",
+                "me gustó",
                 "",
                 "",
                 "",
@@ -19301,7 +19570,6 @@
             "tags": [
                 "beginner",
                 "language_EN-ES",
-                "Marked",
                 "preterit",
                 "verb",
                 "verb_past"
@@ -19310,8 +19578,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "you tasted",
-                "gustaste",
+                "you liked",
+                "te gustó",
                 "",
                 "",
                 "",
@@ -19325,7 +19593,6 @@
             "tags": [
                 "beginner",
                 "language_EN-ES",
-                "Marked",
                 "preterit",
                 "verb",
                 "verb_past"
@@ -19380,7 +19647,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "They liked, they tasted",
+                "they tasted",
                 "gustaron",
                 "",
                 "",
@@ -19778,7 +20045,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "you read (past tense)",
+                "you read [past]",
                 "leíste",
                 "",
                 "",
@@ -19944,7 +20211,7 @@
             "__type__": "Note",
             "fields": [
                 "We called",
-                "llamamos (pasado)",
+                "llamamos [pasado]",
                 "",
                 "",
                 "",
@@ -20059,7 +20326,7 @@
             "__type__": "Note",
             "fields": [
                 "We took",
-                "llevamos (pasado)",
+                "llevamos [pasado]",
                 "",
                 "",
                 "",
@@ -22960,6 +23227,7 @@
             "guid": "ej|j6tvN`=",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_future"
@@ -23003,6 +23271,7 @@
             "guid": "bk!NloQl~[",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_future"
@@ -23024,6 +23293,7 @@
             "guid": "h0m*{b3vmy",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_future"
@@ -23342,6 +23612,7 @@
             "guid": "bn2]jze?#.",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_future"
@@ -23363,6 +23634,7 @@
             "guid": "lB7.?P{rTT",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_future"
@@ -23384,6 +23656,7 @@
             "guid": "n&D(4Mb?h6",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_future"
@@ -23427,6 +23700,7 @@
             "guid": "nfLHu=^d~v",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_future"
@@ -23448,6 +23722,7 @@
             "guid": "e{-EoN0$!2",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_future"
@@ -23469,6 +23744,7 @@
             "guid": "mHINqrScFb",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_future"
@@ -23490,6 +23766,7 @@
             "guid": "lB-ATdqK$h",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_future"
@@ -23533,6 +23810,7 @@
             "guid": "lF&;N.^T6q",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_future"
@@ -24013,6 +24291,7 @@
             "guid": "ohIe$mK_hC",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_future"
@@ -24227,6 +24506,7 @@
             "guid": "lJ.scLc+)|",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "verb",
@@ -24259,7 +24539,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "We will say",
+                "we will say",
                 "diremos",
                 "",
                 "",
@@ -24272,6 +24552,7 @@
             "guid": "fK:Lo0/=tr",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "verb",
@@ -24294,6 +24575,7 @@
             "guid": "ez@hvNkE<!",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "verb",
@@ -24576,6 +24858,7 @@
             "guid": "q.dx+vN:gg",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_future"
@@ -24789,6 +25072,7 @@
             "guid": "kd>20xcOd^",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_future"
@@ -24810,6 +25094,7 @@
             "guid": "s$rPA.h6:`",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_future"
@@ -24831,6 +25116,7 @@
             "guid": "u+(W(6X6{",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_future"
@@ -24839,8 +25125,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "I will taste",
-                "gustaré",
+                "I will like",
+                "me gustará",
                 "",
                 "",
                 "",
@@ -24852,6 +25138,7 @@
             "guid": "n{v$|?Bu!V",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_future"
@@ -24860,8 +25147,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "You will taste",
-                "gustarás",
+                "you will like",
+                "te gustará",
                 "",
                 "",
                 "",
@@ -24873,6 +25160,7 @@
             "guid": "ioL<cHljCm",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_future"
@@ -24903,8 +25191,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "We will like",
-                "gustaremos",
+                "we will like",
+                "nos gustará",
                 "",
                 "",
                 "",
@@ -24916,6 +25204,7 @@
             "guid": "lLPC@.F<B/",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_future"
@@ -24924,8 +25213,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "they will taste",
-                "gustarán",
+                "they will like",
+                "les gustará",
                 "",
                 "",
                 "",
@@ -24937,6 +25226,7 @@
             "guid": "jEk@Y`^(FL",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_future"
@@ -25004,6 +25294,7 @@
             "guid": "fx-+dZRs9c",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "verb",
@@ -25294,6 +25585,7 @@
             "guid": "q&J$MuvBUE",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_future"
@@ -25302,8 +25594,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "You will go",
-                "irás<br>",
+                "you will go",
+                "irás",
                 "",
                 "",
                 "",
@@ -25315,6 +25607,7 @@
             "guid": "fbs/HmPTm1",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_future"
@@ -25358,6 +25651,7 @@
             "guid": "hh:`SeK99|",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_future"
@@ -25379,6 +25673,7 @@
             "guid": "hx}_fpmNV*",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_future"
@@ -25836,6 +26131,7 @@
             "guid": "hrWVA3~qqd",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_future"
@@ -26116,6 +26412,7 @@
             "guid": "m:x_q8poPb",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_future"
@@ -27011,7 +27308,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "You will leave",
+                "you will leave",
                 "saldrás",
                 "",
                 "",
@@ -27330,6 +27627,7 @@
             "guid": "ih~?]:W#-}",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "verb",
@@ -27352,6 +27650,7 @@
             "guid": "mlfWG7;F%d",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "verb",
@@ -27397,6 +27696,7 @@
             "guid": "f`[V9cbL~!",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "irregular",
                 "language_EN-ES",
                 "verb",
@@ -28083,8 +28383,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "the chip [🎰]",
-                "la ficha [🎰]",
+                "the chip [🎰🎴]",
+                "la ficha [🎰🎴]",
                 "",
                 "",
                 "",
@@ -28096,7 +28396,8 @@
             "guid": "&,nk",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "language_EN-ES"
+                "language_EN-ES",
+                "noun"
             ]
         },
         {
@@ -28245,7 +28546,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Learning",
+                "learning",
                 "aprendiendo",
                 "",
                 "",
@@ -28258,6 +28559,7 @@
             "guid": "i3HM!})0Gh",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_gerund"
@@ -28330,7 +28632,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Eating",
+                "eating",
                 "comiendo",
                 "",
                 "",
@@ -28343,6 +28645,7 @@
             "guid": "fe-lbpKl/s",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "indication_gerund_learned",
                 "language_EN-ES",
                 "verb",
@@ -28365,6 +28668,7 @@
             "guid": "o^s4~P^C+!",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_gerund"
@@ -28514,6 +28818,7 @@
             "guid": "nydK~kGq`^",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_gerund"
@@ -28522,7 +28827,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Sleeping",
+                "sleeping",
                 "durmiendo",
                 "",
                 "",
@@ -28535,6 +28840,7 @@
             "guid": "deNe$KGhU:",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_gerund"
@@ -28577,6 +28883,7 @@
             "guid": "c^5]Pm^9|N",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_gerund"
@@ -28619,6 +28926,7 @@
             "guid": "c&~inOMZLA",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_gerund"
@@ -28628,7 +28936,7 @@
             "__type__": "Note",
             "fields": [
                 "liking",
-                "gustando [intransitivo]",
+                "gustando",
                 "",
                 "",
                 "",
@@ -28725,6 +29033,7 @@
             "guid": "lVBmb~32./",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_gerund"
@@ -28931,7 +29240,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Putting",
+                "putting",
                 "poniendo",
                 "",
                 "",
@@ -29531,6 +29840,7 @@
             "guid": "pQ6a1es;1J",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "present",
                 "verb"
@@ -29552,6 +29862,7 @@
             "guid": "eJ=P8h#2J&",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "present",
                 "verb"
@@ -29856,7 +30167,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "the drain",
+                "the drain [🚰]",
                 "el desagüe",
                 "",
                 "",
@@ -29870,7 +30181,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "marked",
+                "Marked",
                 "noun"
             ]
         },
@@ -30615,6 +30926,26 @@
         {
             "__type__": "Note",
             "fields": [
+                "the ox",
+                "el buey",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "mER*O8L6+a",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "along",
                 "a lo largo (de)",
                 "",
@@ -30736,7 +31067,7 @@
             "__type__": "Note",
             "fields": [
                 "the pride, the arrogance",
-                "la arrogancia, la prepotencia",
+                "la arrogancia, la prepotencia, la soberbia",
                 "",
                 "",
                 "",
@@ -30749,6 +31080,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
+                "Marked",
                 "noun"
             ]
         },
@@ -30917,7 +31249,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "to moan, to whine",
+                "to moan, to groan",
                 "gemir ",
                 "",
                 "",
@@ -30930,8 +31262,7 @@
             "guid": "T]R6Q",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "language_EN-ES",
-                "Marked"
+                "language_EN-ES"
             ]
         },
         {
@@ -31301,7 +31632,7 @@
             "fields": [
                 "to inflate, to swell",
                 "hinchar",
-                "Quien hinchó los globos?",
+                "¿Quién quiere hinchar los globos?",
                 "",
                 "",
                 "",
@@ -31313,7 +31644,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "Marked",
+                "marked",
                 "verb"
             ]
         },
@@ -31478,6 +31809,7 @@
             "guid": "l4nd.9*chP",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_infinitive"
@@ -31522,6 +31854,7 @@
             "guid": "dD8s/@#V|f",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_infinitive"
@@ -31543,6 +31876,7 @@
             "guid": "b/]lODWlN|",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_infinitive"
@@ -31551,7 +31885,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "To buy",
+                "to buy",
                 "comprar",
                 "",
                 "",
@@ -31564,6 +31898,7 @@
             "guid": "MnQAD[6T+?",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_infinitive"
@@ -31711,6 +32046,7 @@
             "guid": "l$xfj9g[im",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_infinitive"
@@ -31827,7 +32163,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "To like",
+                "to like",
                 "gustar",
                 "",
                 "",
@@ -31861,6 +32197,7 @@
             "guid": "fTqeCXpb3?",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_infinitive"
@@ -31882,6 +32219,7 @@
             "guid": "n<19`OWggL",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_infinitive"
@@ -31925,6 +32263,7 @@
             "guid": "(-mb?%$Sj",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_infinitive"
@@ -31946,6 +32285,7 @@
             "guid": "MG*pUtvFJQ",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_infinitive"
@@ -32039,7 +32379,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "To hear",
+                "to hear",
                 "oír",
                 "",
                 "",
@@ -32052,6 +32392,7 @@
             "guid": "MGm5,ycj@-",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb",
                 "verb_infinitive"
@@ -32354,6 +32695,7 @@
             "guid": "MgZw+gTM{L",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "mostcommonwords",
                 "verb",
@@ -33099,7 +33441,7 @@
             "fields": [
                 "the facade",
                 "la fachada, la portada",
-                "No anticipaba ver una bandera en la portada de su masía.",
+                "No anticipaba ver una bandera en la fachada de su masía.",
                 "",
                 "",
                 "",
@@ -33140,7 +33482,7 @@
             "__type__": "Note",
             "fields": [
                 "the lense",
-                "la lente",
+                "la/el lente",
                 "",
                 "",
                 "",
@@ -33990,7 +34332,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "to spoil, to ruin, to mess up",
+                "to spoil [🥞] ",
                 "estropear",
                 "",
                 "",
@@ -34003,10 +34345,9 @@
             "guid": "Ip`i|%%egC",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "indication_expression_known",
                 "language_EN-ES",
-                "marked",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -34237,8 +34578,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "the clothes peg, the hair pin",
-                "la pinza",
+                "the hair pin",
+                "la pinza [💇]",
                 "",
                 "",
                 "",
@@ -34251,7 +34592,6 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "Marked",
                 "noun"
             ]
         },
@@ -34300,7 +34640,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "the title page (of a book), the front page (of a newspaper), the cover (of a magazine)",
+                "the front page (🗞), the cover (of a magazine)",
                 "la portada [📰📚]",
                 "",
                 "",
@@ -34925,7 +35265,7 @@
             "guid": "mpea89TCeR",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "indication_expression",
+                "adjective",
                 "language_EN-ES"
             ]
         },
@@ -35466,7 +35806,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "to renounce, to resign from, to give up, to waive",
+                "to renounce, to give up",
                 "renunciar",
                 "",
                 "",
@@ -35480,14 +35820,13 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "Marked",
                 "verb"
             ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "to warn, to prevent, to get ready, to prepare",
+                "to prevent, to get ready, to prepare",
                 "prevenir",
                 "Su dieta ayuda en prevenir complicaciones cardíacas.<br><br>Le previne de la tormenta que habían predicho.",
                 "",
@@ -35842,6 +36181,28 @@
         {
             "__type__": "Note",
             "fields": [
+                "to sell",
+                "vender",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "A*J9!]G/2c",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "beginner",
+                "language_EN-ES",
+                "verb",
+                "verb_infinitive"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "to annoy, to bother",
                 "molestar",
                 "Te molesta si toco el piano mientras lees?<br><br>Si hermano pequeño le molesta especialmente cuando hace su deberes.",
@@ -35965,9 +36326,9 @@
         {
             "__type__": "Note",
             "fields": [
-                "to use, to wear",
-                "usar",
-                "En el verano voy a usar tu gorra.",
+                "to use",
+                "usar [🖊]",
+                "",
                 "",
                 "",
                 "",
@@ -35978,8 +36339,8 @@
             "guid": "k,;W|%T~A^",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
-                "Marked",
                 "verb",
                 "verb_infinitive"
             ]
@@ -36942,9 +37303,9 @@
         {
             "__type__": "Note",
             "fields": [
-                "to finish up (eg. food), to pressure",
-                "apurar",
-                "Apurate salir, porque perdemos el tren.<br><br>Habíamos apurado las sobras, pero seguíamos con hambre.<br><br>Mis padres me apuran a casarme.",
+                "to finish [🥘]",
+                "apurar [🥘]",
+                "Deberiamos apurar las sobras, antes de estropearse.<br>",
                 "",
                 "",
                 "",
@@ -36956,8 +37317,8 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "Marked",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -37381,8 +37742,7 @@
             "guid": "tOQNpF_&OO",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "language_EN-ES",
-                "Marked"
+                "language_EN-ES"
             ]
         },
         {
@@ -37746,7 +38106,9 @@
             "guid": "z.IB,*ATVo",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "language_EN-ES"
+                "beginner",
+                "language_EN-ES",
+                "noun"
             ]
         },
         {
@@ -37791,7 +38153,7 @@
             "__type__": "Note",
             "fields": [
                 "shortly, soon",
-                "en breve, pronto, enseguida",
+                "en breve, pronto",
                 "",
                 "",
                 "",
@@ -37803,8 +38165,8 @@
             "guid": "r/qR_^P_Dj",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "language_EN-ES",
-                "Marked"
+                "adverb",
+                "language_EN-ES"
             ]
         },
         {
@@ -37844,8 +38206,8 @@
             "guid": "Kp&p}t,OAY",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "language_EN-ES",
-                "Marked"
+                "expression",
+                "language_EN-ES"
             ]
         },
         {
@@ -38436,8 +38798,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "I want to thank you",
-                "quiero agradecerte",
+                "I want to thank you.",
+                "Quiero agradecerte.",
                 "",
                 "",
                 "",
@@ -38449,7 +38811,9 @@
             "guid": "My:N:v8qU!",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "language_EN-ES"
+                "language_EN-ES",
+                "sentence",
+                "verb"
             ]
         },
         {
@@ -38849,8 +39213,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "purple",
-                "morado, purpura",
+                "the purple",
+                "el morado, el purpura",
                 "",
                 "",
                 "",
@@ -38863,7 +39227,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "Marked"
+                "noun"
             ]
         },
         {
@@ -39400,7 +39764,7 @@
             "__type__": "Note",
             "fields": [
                 "the mnemonic",
-                "la mnemotecnia, la mnemónica",
+                "la mnemónica",
                 "Tu mnemonica me ayuda a memorizar esa palabra difícil.",
                 "",
                 "",
@@ -39519,7 +39883,7 @@
             "__type__": "Note",
             "fields": [
                 "conceited",
-                "engreído",
+                "engreído, presuntuoso",
                 "Después de ganar el premio lo veo más engreído.",
                 "",
                 "",
@@ -39609,7 +39973,6 @@
             "guid": "tLnH[~v1Ni",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "indication_expression",
                 "language_EN-ES"
             ]
         },
@@ -39891,8 +40254,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "the fountain, the source",
-                "la fuente",
+                "the fountain [⛲️]",
+                "la fuente [⛲️]",
                 "",
                 "",
                 "",
@@ -39905,7 +40268,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "Marked"
+                "noun"
             ]
         },
         {
@@ -41532,7 +41895,8 @@
             "tags": [
                 "adjective",
                 "indication_literary_learned",
-                "language_EN-ES"
+                "language_EN-ES",
+                "marked"
             ]
         },
         {
@@ -41559,8 +41923,8 @@
             "__type__": "Note",
             "fields": [
                 "How formal is the event?",
-                "¿Cómo de formal es el evento?<br>¿Qué tan formal es el evento?",
-                "Para decidirme si vengo quería saber qué tan formal es el evento.",
+                "¿Cómo de formal es el evento?<br>¿Cuán formal es el evento?",
+                "Para decidirme si vengo quería saber cuán formal será el evento.",
                 "",
                 "",
                 "",
@@ -41730,8 +42094,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "I am in the mood to travel.",
-                "Tengo ganas de viajar.",
+                "I am in the mood for traveling.",
+                "Tengo ganas de viajar.<div>Me apetece viajar.</div>",
                 "",
                 "",
                 "",
@@ -41743,6 +42107,7 @@
             "guid": "xB3cYsDX`n",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "expression",
                 "language_EN-ES",
                 "sentence"
             ]
@@ -42340,7 +42705,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "the transfer (eg. of people)",
+                "the transfer [👣👥]",
                 "el traslado",
                 "",
                 "",
@@ -42730,7 +43095,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "the entity, the being",
+                "the being, the entity",
                 "el ente",
                 "Es posible que los únicos entes que razonen en todo el universo seamos nosotras.",
                 "",
@@ -42889,7 +43254,7 @@
             "__type__": "Note",
             "fields": [
                 "the slippers",
-                "las pantuflas, las zapatillas",
+                "las zapatillas, las pantuflas",
                 "",
                 "",
                 "",
@@ -43201,7 +43566,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "to be surprised of...",
+                "to be surprised by...",
                 "extrañarse de... ",
                 "",
                 "",
@@ -43440,7 +43805,7 @@
             "fields": [
                 "the framework [💻]",
                 "el framework [💻]",
-                "El framework utilizado por mis nuevos compañeros de programación es muy viejo.",
+                "El framework utilizado por mi empresa es muy viejo.",
                 "",
                 "",
                 "",
@@ -43598,7 +43963,7 @@
             "__type__": "Note",
             "fields": [
                 "the curly hair",
-                "el pelo rizado",
+                "el pelo rizado, el cabello rizado",
                 "",
                 "",
                 "",
@@ -43610,9 +43975,7 @@
             "guid": "|z[`9",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "adjective",
-                "language_EN-ES",
-                "Marked"
+                "language_EN-ES"
             ]
         },
         {
@@ -43911,7 +44274,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "to scratch (eg. an itch)",
+                "to scratch",
                 "rascar",
                 "",
                 "",
@@ -43924,7 +44287,9 @@
             "guid": "H1@|#M^t4@",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "language_EN-ES"
+                "language_EN-ES",
+                "Marked",
+                "verb"
             ]
         },
         {
@@ -44183,8 +44548,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "X is not much of a ...",
-                "X no es para tanto",
+                "It is not a big deal.",
+                "No es para tanto.",
                 "",
                 "",
                 "",
@@ -44196,9 +44561,9 @@
             "guid": "18!3J",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "indication_expression",
+                "indication_expression_learned",
                 "language_EN-ES",
-                "Marked"
+                "sentence"
             ]
         },
         {
@@ -44367,7 +44732,7 @@
             "__type__": "Note",
             "fields": [
                 "It is possible that she gives / I give",
-                "es posible que dé",
+                "Es posible que dé",
                 "",
                 "",
                 "",
@@ -44705,8 +45070,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "I doubt that he translates",
-                "Dudo que traduzca",
+                "I doubt that he translates well.",
+                "Dudo que traduzca bien.",
                 "",
                 "",
                 "",
@@ -44718,7 +45083,9 @@
             "guid": "Bfm8GYqJ{u",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "language_EN-ES"
+                "language_EN-ES",
+                "sentence",
+                "verb_subjunctive"
             ]
         },
         {
@@ -45188,8 +45555,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "It's not certain that I produce / she produces",
-                "No es cierto que produzca",
+                "It's not certain that his factory produce all this.",
+                "No es cierto que su fábrica produzca todo esto.",
                 "",
                 "",
                 "",
@@ -45201,7 +45568,6 @@
             "guid": "Cv?1oz!`U_",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "indication_2_pieces_known",
                 "language_EN-ES",
                 "sentence",
                 "verb"
@@ -45405,7 +45771,7 @@
             "fields": [
                 "It is not certain that she smiles / I smile.",
                 "No es cierto que sonría.",
-                "",
+                "Diría que no es cierto que sonría en esta foto.",
                 "",
                 "",
                 "",
@@ -45426,8 +45792,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "It is not certain they read",
-                "No es cierto que lean",
+                "It is not certain they read this newspaper.",
+                "No es cierto que lean este periodico.",
                 "",
                 "",
                 "",
@@ -45686,8 +46052,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "I am happy that she comes",
-                "Me alegro de que venga",
+                "I am happy that she comes.",
+                "Me alegro de que venga.",
                 "",
                 "",
                 "",
@@ -45701,7 +46067,8 @@
             "tags": [
                 "language_EN-ES",
                 "sentence",
-                "verb"
+                "verb",
+                "verb_subjunctive"
             ]
         },
         {
@@ -45956,8 +46323,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "bored, boring",
-                "aburrido",
+                "I am bored.",
+                "Estoy aburrido.",
                 "",
                 "",
                 "",
@@ -45969,7 +46336,10 @@
             "guid": "+JM]R",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "language_EN-ES"
+                "adjective",
+                "beginner",
+                "language_EN-ES",
+                "sentence"
             ]
         },
         {
@@ -46302,8 +46672,7 @@
             "guid": "5NM$F",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "language_EN-ES",
-                "Marked"
+                "language_EN-ES"
             ]
         },
         {
@@ -46441,9 +46810,9 @@
             "guid": ".=<;C",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "indication_colloquial_learned",
                 "indication_expression",
                 "language_EN-ES",
-                "marked",
                 "verb"
             ]
         },
@@ -46861,7 +47230,7 @@
             "fields": [
                 "to schedule",
                 "programar, fijar",
-                "Quiero fijar una hora para discutir esto contigo",
+                "Quiero fijar una hora para discutir esto contigo.",
                 "",
                 "",
                 "",
@@ -47269,6 +47638,7 @@
             "guid": "+Mh$D",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb"
             ]
@@ -47570,7 +47940,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "to screw up, to mess up",
+                "to screw up, to blunder",
                 "meter la pata",
                 "",
                 "",
@@ -47584,8 +47954,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "indication_expression",
-                "language_EN-ES",
-                "Marked"
+                "language_EN-ES"
             ]
         },
         {
@@ -47611,7 +47980,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "boxing (sport)",
+                "the boxing",
                 "el boxeo",
                 "",
                 "",
@@ -47624,7 +47993,8 @@
             "guid": "kCpkA",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "language_EN-ES"
+                "language_EN-ES",
+                "noun"
             ]
         },
         {
@@ -47804,7 +48174,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "online (computing)",
+                "online [🖥]",
                 "en línea",
                 "",
                 "",
@@ -47817,6 +48187,7 @@
             "guid": "4Ov6P",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "adjective",
                 "language_EN-ES"
             ]
         },
@@ -48647,7 +49018,7 @@
             "__type__": "Note",
             "fields": [
                 "the break, the fracture",
-                "la rotura",
+                "la rotura, la fractura",
                 "",
                 "",
                 "",
@@ -48659,7 +49030,8 @@
             "guid": "ol{93",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "language_EN-ES"
+                "language_EN-ES,",
+                "noun"
             ]
         },
         {
@@ -49253,7 +49625,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "to warn",
+                "to warn [⚠️☢️]",
                 "advertir",
                 "",
                 "",
@@ -49266,7 +49638,9 @@
             "guid": "wA{+S",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "language_EN-ES"
+                "language_EN-ES",
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -49548,7 +49922,7 @@
             "__type__": "Note",
             "fields": [
                 "I'm so hungry!<br>I'm starving! [🤒]",
-                "¡estoy desmayado!",
+                "¡Estoy desmayado!",
                 "",
                 "",
                 "",
@@ -49568,8 +49942,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "I don't trust (in) x",
-                "no me fio de x",
+                "I don't trust that person.",
+                "No me fio de esa persona.",
                 "",
                 "",
                 "",
@@ -49583,6 +49957,7 @@
             "tags": [
                 "indication_expression",
                 "language_EN-ES",
+                "sentence",
                 "verb"
             ]
         },
@@ -49790,7 +50165,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "the swaying, the coming and going",
+                "the swaying, the to and fro",
                 "el vaivén",
                 "El vaivén de la gente en la oficina hace mi trabajo difícil.<br><br>Miraba con mucha calma el vaivén de las olas.",
                 "",
@@ -49803,7 +50178,9 @@
             "guid": "4o{8U",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "language_EN-ES"
+                "indication_expression_known",
+                "language_EN-ES",
+                "noun"
             ]
         },
         {
@@ -50520,7 +50897,8 @@
                 "indication_4_pieces_learned",
                 "indication_expression",
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verified"
             ]
         },
         {
@@ -51063,6 +51441,7 @@
             "guid": "OY+_ER)}B+",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "mostcommonwords",
                 "noun"
@@ -51531,6 +51910,7 @@
             "guid": "o4t+BF|1`6",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "noun"
             ]
@@ -51632,6 +52012,7 @@
             "guid": "Qq|RqtY<}R",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "noun"
             ]
@@ -51639,8 +52020,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "the road (for vehicles)",
-                "la carretera",
+                "the road [🚙]",
+                "la carretera [genérico]",
                 "",
                 "",
                 "\"Su definición da origen al resto, ya que se trata de una vía de transporte de dominio y uso público, proyectada y construida fundamentalmente para la circulación de vehículos automóviles. Una carretera puede ser cualquier cosa que conecte dos puntos. Así de simple.\" (https://goo.gl/rXEQqX)",
@@ -52017,6 +52398,7 @@
             "guid": "L!u[`g{[r7",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "noun"
             ]
@@ -52225,9 +52607,9 @@
         {
             "__type__": "Note",
             "fields": [
-                "the gentleman, sir, Mr.",
-                "el señor",
-                "",
+                "the gentleman, the man",
+                "el señor [🤵]",
+                "Ese señor me ayudó arrancar el coche.",
                 "",
                 "",
                 "",
@@ -52238,8 +52620,8 @@
             "guid": "DB#V9I:fI3",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
-                "Marked",
                 "noun"
             ]
         },
@@ -52837,7 +53219,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "the hero, the heroin",
+                "the hero, the heroine",
                 "el héroe, la heroína",
                 "",
                 "",
@@ -52850,6 +53232,7 @@
             "guid": "cUe&LR6}n{",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "indication_2_genders",
                 "language_EN-ES",
                 "noun"
             ]
@@ -52957,8 +53340,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "the tour [🎤✈]",
-                "la gira [🎤✈]",
+                "the tour [🎤🎸✈]",
+                "la gira [🎤🎸✈]",
                 "",
                 "",
                 "",
@@ -53486,8 +53869,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "the profit",
-                "el beneficio [💰]",
+                "the profit [💰]",
+                "los beneficios, las ganancias",
                 "",
                 "",
                 "",
@@ -53500,7 +53883,6 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "Marked",
                 "noun"
             ]
         },
@@ -53770,6 +54152,26 @@
         {
             "__type__": "Note",
             "fields": [
+                "the farm",
+                "la granja",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "B]~V=KK+)O",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "the duty",
                 "el deber",
                 "El deber de protegir a los grupos vulnerables es más importante que satisfacer a todo el mundo.",
@@ -54015,8 +54417,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "the path, the way",
-                "el camino, la andadura",
+                "the path, the way, the road",
+                "el camino",
                 "",
                 "",
                 "",
@@ -54029,7 +54431,6 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "Marked",
                 "noun"
             ]
         },
@@ -54213,6 +54614,7 @@
             "guid": "KbyK7p*1(F",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "indication_2_genders_learned",
                 "language_EN-ES",
                 "noun"
             ]
@@ -54593,6 +54995,7 @@
             "guid": "mmZW7&L,+O",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "noun"
             ]
@@ -54740,8 +55143,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "the dispute",
-                "la disputa",
+                "the dispute [🗣🥊]",
+                "la disputa [🗣🥊]",
                 "",
                 "",
                 "",
@@ -54754,7 +55157,6 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "Marked",
                 "noun"
             ]
         },
@@ -54834,6 +55236,7 @@
             "guid": "J)r?4MNU&{",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "noun"
             ]
@@ -55528,7 +55931,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "champion",
+                "the champion",
                 "el campeón, la campeona",
                 "",
                 "",
@@ -56298,7 +56701,7 @@
             "__type__": "Note",
             "fields": [
                 "the resignation [from a job / function]",
-                "la renuncia, la dimisión?",
+                "la renuncia, la dimisión",
                 "",
                 "",
                 "",
@@ -56311,7 +56714,6 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "Marked",
                 "noun"
             ]
         },
@@ -56420,7 +56822,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "the cold",
+                "the cold [❄️]",
                 "el frío",
                 "",
                 "",
@@ -57153,7 +57555,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "the holder, the owner",
+                "the holder, the owner [ID]",
                 "el titular",
                 "Este beneficio del seguro no es para la familia entera, sino solo para el titular.",
                 "",
@@ -57315,7 +57717,7 @@
             "__type__": "Note",
             "fields": [
                 "the entity",
-                "la entidad",
+                "la entidad, el ente",
                 "",
                 "",
                 "",
@@ -57328,7 +57730,6 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "Marked",
                 "noun"
             ]
         },
@@ -57609,7 +58010,6 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "Marked",
                 "noun"
             ]
         },
@@ -57717,8 +58117,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "the companion, the colleague, the partner",
-                "el compañero",
+                "the schoolmate, the classmate",
+                "el compañero [🏫🎒]",
                 "",
                 "",
                 "",
@@ -57731,7 +58131,6 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "marked",
                 "noun"
             ]
         },
@@ -58693,7 +59092,7 @@
             "__type__": "Note",
             "fields": [
                 "the spell",
-                "el hechizo",
+                "el hechizo, el encantamiento",
                 "",
                 "",
                 "",
@@ -59120,9 +59519,9 @@
         {
             "__type__": "Note",
             "fields": [
-                "to condemn, to make ugly",
+                "to make (look) ugly",
                 "afear",
-                "Esos edificios afean el paisaje.<br>Hay que afear la conducta de los policías durante el referéndum.",
+                "Esos edificios afean el paisaje.<br>",
                 "",
                 "",
                 "",
@@ -59134,7 +59533,8 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -59784,7 +60184,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "the clothesline, the clothes horse, the drying rack",
+                "the clothes horse, the drying rack",
                 "el tendedero",
                 "",
                 "",
@@ -60361,7 +60761,7 @@
             "fields": [
                 "to overtake [🚗]",
                 "adelantar [🚗]",
-                "Nos adelantan incluso las bicis, por qué conduces tan lentamente?",
+                "¿Por qué conduces tan lentamente? ¡Nos adelantan incluso las bicis!",
                 "",
                 "",
                 "",
@@ -60698,6 +61098,7 @@
             "guid": "O1yuJf]Hps",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "emotions",
                 "language_EN-ES",
                 "noun"
@@ -61178,7 +61579,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "to harvest, to reap, to pick",
+                "to harvest, to pick",
                 "cosechar",
                 "Al final del taller vamos a intentar cosechar lo que se nos quedará útil a cada una.",
                 "",
@@ -61192,8 +61593,8 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "Marked",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -61255,7 +61656,6 @@
             "tags": [
                 "indication_expression",
                 "language_EN-ES",
-                "Marked",
                 "noun"
             ]
         },
@@ -61510,7 +61910,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "the chard, the Swiss chard",
+                "the (Swiss) chard",
                 "la acelga",
                 "",
                 "",
@@ -61585,6 +61985,7 @@
             "guid": ";H:$A",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "indication_expression",
                 "language_EN-ES",
                 "noun"
@@ -61923,8 +62324,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "it's possible that they think",
-                "es posible que piensen",
+                "It's possible that they think we got lost.",
+                "Es posible que piensen que nos perdimos.",
                 "",
                 "",
                 "",
@@ -61937,7 +62338,9 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "verb"
+                "sentence",
+                "verb",
+                "verb_subjunctive"
             ]
         },
         {
@@ -63721,6 +64124,7 @@
             "guid": "3UI88",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "sentence",
                 "verb",
@@ -64562,6 +64966,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "adjective",
+                "beginner",
                 "clarification_adjective_known",
                 "language_EN-ES",
                 "mostcommonwords"
@@ -64755,9 +65160,9 @@
             "guid": "o7/{0]Vz21",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
-                "mostcommonwords",
-                "prepositional_phrases"
+                "mostcommonwords"
             ]
         },
         {
@@ -65145,6 +65550,7 @@
             "guid": "s,z$bGi#<L",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "humanbody",
                 "language_EN-ES",
                 "mostcommonwords"
@@ -65550,6 +65956,7 @@
             "guid": "uJJMcNL_94",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "humanbody",
                 "indication_singular_plural",
                 "language_EN-ES",
@@ -65617,6 +66024,7 @@
             "guid": "L5C=GMtR%E",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "connectingwords",
                 "language_EN-ES",
                 "mostcommonwords"
@@ -65794,6 +66202,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "adjective",
+                "beginner",
                 "language_EN-ES",
                 "mostcommonwords"
             ]
@@ -65858,6 +66267,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "adjective",
+                "beginner",
                 "language_EN-ES",
                 "mostcommonwords"
             ]
@@ -66078,6 +66488,28 @@
         {
             "__type__": "Note",
             "fields": [
+                "This is boring.",
+                "Esto es aburrido.",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "p8O^%FkYd0",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "adjective",
+                "beginner",
+                "language_EN-ES",
+                "sentence"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "next, following",
                 "próximo, siguiente",
                 "",
@@ -66111,6 +66543,7 @@
             "guid": "Hjle(zY`=r",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "adverb",
                 "beginner",
                 "imperfect.preterite",
                 "language_EN-ES",
@@ -66134,6 +66567,7 @@
             "guid": "nD4#S~{HJc",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "mostcommonwords",
                 "tiempo"
@@ -66279,6 +66713,7 @@
             "guid": "Qt,uRdo6xI",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "mostcommonwords"
             ]
@@ -66287,7 +66722,7 @@
             "__type__": "Note",
             "fields": [
                 "the school",
-                "la escuela",
+                "la escuela, el colegio",
                 "",
                 "",
                 "",
@@ -66320,6 +66755,7 @@
             "guid": "M[>y<hjmiH",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "mostcommonwords",
                 "noun"
@@ -66363,6 +66799,7 @@
             "guid": "wk&>-`abPy",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "mostcommonwords",
                 "noun"
@@ -66448,6 +66885,7 @@
             "guid": "v<oX2kzGD",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "mostcommonwords",
                 "noun"
@@ -66529,6 +66967,7 @@
             "guid": "l(P&q[cozW",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "mostcommonwords",
                 "noun"
@@ -66943,6 +67382,27 @@
         {
             "__type__": "Note",
             "fields": [
+                "to watch a movie",
+                "ver una película",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "N4o&EAbC+8",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "expression",
+                "language_EN-ES",
+                "verb"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "He is eighteen weeks old.",
                 "(Él) tiene dieciocho semanas.",
                 "",
@@ -67254,6 +67714,7 @@
             "guid": "EGg^s:l[w4",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "mostcommonwords"
             ]
@@ -68857,7 +69318,7 @@
                 "Me lavo las manos antes de comer.",
                 "",
                 "",
-                "Given the multiple meanings of \"comer\" another translation that the context might suggest is \"I wash my hands before lunch\".",
+                "Given the multiple meanings of \"comer\" another translation that the context might suggest is \"I wash my hands before having lunch\".",
                 "",
                 "✔️",
                 "✔️",
@@ -68954,6 +69415,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
+                "Marked",
                 "mostcommonwords"
             ]
         },
@@ -69671,6 +70133,26 @@
         {
             "__type__": "Note",
             "fields": [
+                "the fish [🎣🍽]",
+                "el pescado",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "e$apM+)l4I",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "the wave",
                 "la onda, la ola",
                 "",
@@ -69707,6 +70189,26 @@
             "tags": [
                 "language_EN-ES",
                 "marked",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the funeral",
+                "el funeral, el entierro",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "k_|Qp#;3?n",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
                 "noun"
             ]
         },
@@ -69998,7 +70500,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "fast, rapid",
+                "fast, rapid, quick",
                 "rápido, veloz",
                 "",
                 "",
@@ -70013,7 +70515,7 @@
             "tags": [
                 "adjective",
                 "language_EN-ES",
-                "Marked"
+                "marked"
             ]
         },
         {
@@ -70060,8 +70562,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "convincing, blunt",
-                "contundente",
+                "blunt [💇‍♂️🤺📍]",
+                "desafilado, desapuntado",
                 "",
                 "",
                 "",
@@ -70073,8 +70575,8 @@
             "guid": "H|$#&kP#6(",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
-                "language_EN-ES",
-                "Marked"
+                "adjective",
+                "language_EN-ES"
             ]
         },
         {
@@ -70245,8 +70747,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "to inform, to advise, to warn",
-                "avisar",
+                "to warn [📣]",
+                "avisar, advertir",
                 "",
                 "",
                 "",
@@ -70259,7 +70761,6 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "Marked",
                 "verb",
                 "verb_infinitive"
             ]
@@ -70449,6 +70950,7 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
+                "Marked",
                 "verb",
                 "verb_infinitive",
                 "verb_reflexive"
@@ -70943,7 +71445,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "to melt, to liquify, to dissolve",
+                "to melt",
                 "derretir",
                 "El sol empezó a derretir la nieve.<br>Me derrito siempre que lo veo sonriendo.",
                 "",
@@ -70957,7 +71459,8 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "verb"
+                "verb",
+                "verb_infinitive"
             ]
         },
         {
@@ -71234,7 +71737,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "to underline, to emphasize, to stress / to underscore, to emphasize",
+                "to underline, to underscore",
                 "subrayar",
                 "",
                 "",
@@ -71718,6 +72221,26 @@
         {
             "__type__": "Note",
             "fields": [
+                "the gang",
+                "la pandilla, la banda",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "g!xTU#ueuj",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "the boat, the ship",
                 "el barco",
                 "",
@@ -71772,7 +72295,6 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "Marked",
                 "noun"
             ]
         },
@@ -72021,6 +72543,26 @@
         {
             "__type__": "Note",
             "fields": [
+                "the party [💼]",
+                "el partido [💼]",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "dQalOY:y>^",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "the prescription",
                 "la receta [😷]",
                 "",
@@ -72122,8 +72664,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "the ground, the floor",
-                "el suelo",
+                "the ground [🏞]",
+                "el suelo, la tierra",
                 "",
                 "",
                 "",
@@ -72136,7 +72678,6 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "Marked",
                 "noun"
             ]
         },
@@ -72156,6 +72697,7 @@
             "guid": "chA`^$ot@=",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "noun"
             ]
@@ -73116,7 +73658,7 @@
             "__type__": "Note",
             "fields": [
                 "the stand-up comedy",
-                "el monólogo [🎤😂]",
+                "el monólogo, la comedia en vivo",
                 "",
                 "",
                 "Other terms, used more rarely: \"la comedia en vivo\", \"la comedia de pie\", \"el club de la comedia\"",
@@ -73381,7 +73923,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "joking apart, joking aside",
+                "joking apart / aside",
                 "bromas aparte, hablando seriamente",
                 "Pero, bromas aparte, ¿qué te ha pasado?",
                 "",
@@ -73653,6 +74195,27 @@
                 "verb",
                 "verb_infinitive",
                 "verb_present"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Money talks.",
+                "El dinero habla.",
+                "",
+                "",
+                "",
+                "",
+                "✔️ ",
+                "✔️ ",
+                ""
+            ],
+            "guid": "@zO?I",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "idiom",
+                "language_EN-ES",
+                "sentence"
             ]
         },
         {
@@ -74368,6 +74931,28 @@
         {
             "__type__": "Note",
             "fields": [
+                "to frown",
+                "fruncir el ceño",
+                "",
+                "",
+                "",
+                "",
+                "✔️ ",
+                "✔️ ",
+                ""
+            ],
+            "guid": "}3,wN",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "expression",
+                "language_EN-ES",
+                "verb",
+                "verb_infinitive"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "Who(m)?",
                 "¿Quién?",
                 "",
@@ -74776,7 +75361,7 @@
             "__type__": "Note",
             "fields": [
                 "the cul-de-sac, the blind alley, the dead end street",
-                "la calle sin salida, el callejón sin salida",
+                "la calle / el callejón sin salida",
                 "",
                 "",
                 "",
@@ -74790,7 +75375,7 @@
             "tags": [
                 "expression",
                 "language_EN-ES",
-                "Marked",
+                "marked",
                 "noun"
             ]
         },
@@ -76011,7 +76596,8 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "adjective",
-                "language_EN-ES"
+                "language_EN-ES",
+                "leech"
             ]
         },
         {
@@ -76970,6 +77556,7 @@
             "guid": "E8yI7",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "noun"
             ]
@@ -78108,6 +78695,7 @@
             "guid": "HWN.6",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "indication_expression_known",
                 "indication_synonym",
                 "language_ES-ES"
             ]
@@ -78547,7 +79135,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "the comradeship",
+                "the comradeship, the camaraderie",
                 "el compañerismo",
                 "",
                 "",
@@ -78664,6 +79252,7 @@
             "tags": [
                 "indication_informal_learned",
                 "language_EN-ES",
+                "marked",
                 "verb",
                 "verb_infinitive"
             ]
@@ -78711,7 +79300,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "We sang",
+                "we sang",
                 "cantamos [pasado]",
                 "",
                 "",
@@ -78868,9 +79457,9 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "adverb",
+                "indication_colloquial_learned",
                 "indication_expression_learned",
-                "language_EN-ES",
-                "marked"
+                "language_EN-ES"
             ]
         },
         {
@@ -78889,6 +79478,7 @@
             "guid": "L#M6H",
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
+                "beginner",
                 "language_EN-ES",
                 "verb_infinitive"
             ]
@@ -78937,7 +79527,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "to discourage, to dishearten",
+                "to discourage",
                 "desanimar, desalentar",
                 "",
                 "",
@@ -78979,7 +79569,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "the shaking, the trembling, the shivering",
+                "the shaking, the trembling",
                 "el temblor",
                 "",
                 "",
@@ -79535,7 +80125,7 @@
             "__type__": "Note",
             "fields": [
                 "Please correct me when I make mistakes.",
-                "Por favor corrígeme cuando cometo errores.",
+                "Por favor corrígeme cuando cometa errores.",
                 "",
                 "",
                 "",
@@ -79906,7 +80496,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "delicious, rich",
+                "rich, delicious",
                 "rico [🎂️]",
                 "",
                 "",
@@ -80168,6 +80758,503 @@
             "tags": [
                 "expression",
                 "indication_expression",
+                "language_EN-ES",
+                "verb",
+                "verb_infinitive"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to melt, to thaw",
+                "derretir, fundir",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "z&N:6",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "verb",
+                "verb_infinitive"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the clothes peg",
+                "la pinza [👕👖🧦]",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": ">i#m1",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a forceful / categorical&nbsp;response",
+                "una respuesta contundente",
+                "",
+                "",
+                "",
+                "",
+                "✔️ ",
+                "✔️ ",
+                ""
+            ],
+            "guid": "DI/DP",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "adjective",
+                "expression",
+                "indication_2_pieces_known",
+                "language_EN-ES"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the convincing evidence, the solid evidence",
+                "la evidencia contundente, las pruebas contundentes",
+                "",
+                "",
+                "",
+                "",
+                "✔️ ",
+                "✔️ ",
+                ""
+            ],
+            "guid": "HBa~Q",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "adjective",
+                "expression",
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "that [pronoun, close]",
+                "eso, ese, esa",
+                "Eso no me gusta.<br>¿Tu coche es ese?<br>¿La peli que viste es esa?",
+                "",
+                "",
+                "",
+                "✔️ ",
+                "✔️ ",
+                ""
+            ],
+            "guid": "VSWBS",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "beginner",
+                "indication_2_genders_learned",
+                "language_EN-ES",
+                "pronoun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "that [pronoun, far]",
+                "aquel, aquella",
+                "",
+                "",
+                "",
+                "",
+                "✔️ ",
+                "✔️ ",
+                ""
+            ],
+            "guid": "2lk/S",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "indication_2_genders_learned",
+                "language_EN-ES",
+                "pronoun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the resignation [emotion]",
+                "la resignación",
+                "",
+                "",
+                "",
+                "",
+                "✔️ ",
+                "✔️ ",
+                ""
+            ],
+            "guid": "Cg(rF",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to damage, to break [🎠🌂🎢⛸️📱🎥]",
+                "estropear, romper",
+                "El perro estropeó la tele.",
+                "",
+                "",
+                "",
+                "✔️ ",
+                "✔️ ",
+                ""
+            ],
+            "guid": "]I*nM",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "verb",
+                "verb_infinitive"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the stupidity",
+                "la estupidez",
+                "",
+                "",
+                "",
+                "",
+                "✅",
+                "✅",
+                ""
+            ],
+            "guid": "v>@15)EP0i",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "moldy",
+                "mohoso, enmojecido",
+                "",
+                "",
+                "",
+                "",
+                "✅",
+                "✅",
+                ""
+            ],
+            "guid": "mlOe0B:v_F",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "adjective",
+                "language_EN-ES"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the feather",
+                "la pluma [🐦]",
+                "",
+                "",
+                "",
+                "",
+                "✔️ ",
+                "✔️ ",
+                ""
+            ],
+            "guid": "9I|YT",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the bench [⛲️🌳]",
+                "el banco [⛲️🌳]",
+                "",
+                "",
+                "",
+                "",
+                "✅",
+                "✅",
+                ""
+            ],
+            "guid": "cd0y-zV6Rv",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "beginner",
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the source",
+                "la fuente [figurado]",
+                "",
+                "",
+                "",
+                "",
+                "✅",
+                "✅",
+                ""
+            ],
+            "guid": "e$xu}E4PT;",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to wear",
+                "usar [🎩👚]",
+                "En el verano voy a usar tu gorra.",
+                "",
+                "",
+                "",
+                "✅",
+                "",
+                ""
+            ],
+            "guid": "yc<WRc*K)3",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "verb",
+                "verb_infinitive"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sir, Mr.",
+                "el señor [tratamiento]",
+                "Los caballos son del señor Gonzalez.",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "Cx|QIMWs8G",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the Lord",
+                "el Señor",
+                "El Señor lo ve todo.",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "iKUgbZ$m*T",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the mansplainer, the sexist man",
+                "el señoro, el machito sabelotodo",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "zbl/rsab7T",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the lady, the woman",
+                "la señora [👩👵]",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "j$ezW)Jogp",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "beginner",
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mrs., Madam",
+                "la señora [tratamiento]",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "NEeV+|ByRG",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the know-it-all, the know-all",
+                "el sabelotodo",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "dy~nkUacbS",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "adjective",
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the surgical tape",
+                "el esparadrapo",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": ",VefJ",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "medicine",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the mercury",
+                "el mercurio",
+                "",
+                "",
+                "",
+                "",
+                "✔️ ",
+                "✔️ ",
+                ""
+            ],
+            "guid": "C5{?D",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the Latin music party",
+                "la pachanga, el pachangueo",
+                "¿Vamos de pachangueo esta noche, o qué?",
+                "",
+                "Básicamente el pachangueo tiene que ver con todos los bailes latinos y los derivados en la música de moda como es el latin-dance. En realidad nosotros no empleamos mucho la palabra \"latino\". En nuestro ambiente, en Madrid por lo menos, cuando uno se va de \"pachangueo\", se va a discotecas, locales, pubs o como querais llamarlo, donde no ponen nada o casi nada de estos tipos de música: rock-heavy, techno, house, progressive, rap...<br><br>Esto no quiere decir que no nos gusten estos tipos de música. Suele ocurrir, por ejemplo, que a los que les gusta el techno se piensan: \"estos tios que les gusta el heavy nada más que saben de heavy\", y viceversa. Un buen pachanguero debe conocer cualquier tipo de música, porque muchas veces la música que nos gusta a los pachangueros es una mezcla de rap, rock, y ritmos latinos.<br><br>Fuente: https://dict.leo.org/forum/viewUnsolvedquery.php?idThread=822931&amp;lang=en&amp;lp=ende<br><br>Mira también <a href=\"https://dle.rae.es/pachanga#O1luY8u\">la entrada en el DLE</a>.",
+                "",
+                "✔️",
+                "✔️ ",
+                ""
+            ],
+            "guid": "I(C!A",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "indication_colloquial_learned",
+                "language_EN-ES",
+                "noun"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "to reap",
+                "cosechar, recoger",
+                "",
+                "",
+                "",
+                "",
+                "✔️&nbsp;",
+                "✔️&nbsp;",
+                ""
+            ],
+            "guid": "K,o.AFqDU`",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "indication_literary_known",
                 "language_EN-ES",
                 "verb",
                 "verb_infinitive"
