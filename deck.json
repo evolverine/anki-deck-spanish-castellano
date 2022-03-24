@@ -40,8 +40,10 @@
                 "perDay": 25,
                 "separate": true
             },
+            "newGatherPriority": 0,
             "newMix": 0,
             "newPerDayMinimum": 0,
+            "newSortOrder": 0,
             "replayq": true,
             "rev": {
                 "bury": true,
@@ -94,6 +96,7 @@
             "css": "/**\n * (the bundled result of) this file is meant to be\n * copy-pasted into Anki's CSS field. But for development\n * builds, ie. for testing in the browser, it needs to be\n * loaded into the browser\n */\n\n#lelaFront,#lelaBack {\n    display: none;\n}",
             "flds": [
                 {
+                    "description": "",
                     "font": "Liberation Sans",
                     "media": [],
                     "name": "known",
@@ -103,6 +106,7 @@
                     "sticky": true
                 },
                 {
+                    "description": "",
                     "font": "Liberation Sans",
                     "media": [],
                     "name": "learned",
@@ -112,6 +116,7 @@
                     "sticky": true
                 },
                 {
+                    "description": "",
                     "font": "Liberation Sans",
                     "media": [],
                     "name": "example",
@@ -121,6 +126,7 @@
                     "sticky": false
                 },
                 {
+                    "description": "",
                     "font": "Liberation Sans",
                     "media": [],
                     "name": "image",
@@ -130,6 +136,7 @@
                     "sticky": false
                 },
                 {
+                    "description": "",
                     "font": "Arial",
                     "media": [],
                     "name": "usage_note",
@@ -139,6 +146,7 @@
                     "sticky": false
                 },
                 {
+                    "description": "",
                     "font": "Arial",
                     "media": [],
                     "name": "mnemonic",
@@ -148,6 +156,7 @@
                     "sticky": false
                 },
                 {
+                    "description": "",
                     "font": "Arial",
                     "media": [],
                     "name": "include_recognition",
@@ -157,6 +166,7 @@
                     "sticky": true
                 },
                 {
+                    "description": "",
                     "font": "Arial",
                     "media": [],
                     "name": "include_production",
@@ -166,6 +176,7 @@
                     "sticky": true
                 },
                 {
+                    "description": "",
                     "font": "Arial",
                     "media": [],
                     "name": "media_credits",
@@ -205,9 +216,7 @@
             "sortf": 0,
             "tags": [
                 "language_EN-ES",
-                "verb",
-                "verb_infinitive",
-                "indication_literary_known"
+                "noun"
             ],
             "tmpls": [
                 {
@@ -253,6 +262,7 @@
             "css": " .card {font-familiy: arial; font-size: 20px; text-align: center; color:black; background-color: white; }",
             "flds": [
                 {
+                    "description": "",
                     "font": "Arial",
                     "media": [],
                     "name": "Front",
@@ -262,6 +272,7 @@
                     "sticky": true
                 },
                 {
+                    "description": "",
                     "font": "Arial",
                     "media": [],
                     "name": "Back",
@@ -62401,7 +62412,6 @@
             "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
             "tags": [
                 "language_EN-ES",
-                "Marked",
                 "noun"
             ]
         },
