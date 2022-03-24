@@ -67845,6 +67845,28 @@
         {
             "__type__": "Note",
             "fields": [
+                "The weather's nice / good.",
+                "Hace buen tiempo.",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "FVvYj~(LEx",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "beginner",
+                "language_EN-ES",
+                "phrases",
+                "weather"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "the hamburger",
                 "la hamburguesa",
                 "",
@@ -68947,6 +68969,27 @@
                 "food",
                 "language_EN-ES",
                 "sentence"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This island has an ideal climate.",
+                "Esta isla tiene un clima ideal.",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "M#&_JQ-Gwb",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "sentence",
+                "weather"
             ]
         },
         {
@@ -81258,6 +81301,26 @@
                 "language_EN-ES",
                 "verb",
                 "verb_infinitive"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "the outer space",
+                "el espacio ultraterrestre",
+                "",
+                "",
+                "",
+                "",
+                "✔️",
+                "✔️",
+                ""
+            ],
+            "guid": "l$`U.90sRa",
+            "note_model_uuid": "eb758c4f-8746-11e8-8da3-848f69a951ca",
+            "tags": [
+                "language_EN-ES",
+                "noun"
             ]
         }
     ]
